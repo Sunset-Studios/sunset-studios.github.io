@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "generator": "tools/meshlet_preprocessor.js",
+  "generatedAt": "2026-03-13T06:03:29.043Z",
+  "settings": {
+    "maxVertices": 64,
+    "minTriangles": 24,
+    "maxTriangles": 124,
+    "fillWeight": 0.5,
+    "clusterGroupSize": 8
+  },
+  "source": {
+    "gltf": "cube.gltf",
+    "buffers": [
+      "cube.bin"
+    ],
+    "hash": "a35af0954826884ee8f5f0328058992bb28d7cc2"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Cube",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 0,
+          "skipped": false,
+          "vertexCount": 24,
+          "triangleCount": 12,
+          "meshletCount": 1,
+          "meshletVertexCount": 24,
+          "meshletTriangleIndexCount": 36,
+          "meshletOffset": 0,
+          "meshletVertexOffset": 0,
+          "meshletTriangleIndexOffset": 0,
+          "meshletGroupOffset": 0,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1,
+              -1,
+              -1
+            ],
+            "max": [
+              1,
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "meshlets": {
+      "offset": 0,
+      "stride": 80,
+      "count": 1
+    },
+    "meshletVertices": {
+      "offset": 80,
+      "stride": 4,
+      "count": 24,
+      "elementType": "uint32"
+    },
+    "meshletTriangles": {
+      "offset": 176,
+      "stride": 1,
+      "count": 36,
+      "elementType": "uint8"
+    },
+    "meshletGroups": {
+      "offset": 224,
+      "stride": 64,
+      "count": 1
+    }
+  },
+  "binary": "cube.meshlet.bin"
+}

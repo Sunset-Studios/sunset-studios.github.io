@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "generator": "tools/meshlet_preprocessor.js",
+  "generatedAt": "2026-03-13T06:03:31.664Z",
+  "settings": {
+    "maxVertices": 64,
+    "minTriangles": 24,
+    "maxTriangles": 124,
+    "fillWeight": 0.5,
+    "clusterGroupSize": 8
+  },
+  "source": {
+    "gltf": "sphere.gltf",
+    "buffers": [
+      "sphere.bin"
+    ],
+    "hash": "1a3ecc1be0e0ec4d6412a52775067b5d5f863432"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Sphere",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": null,
+          "skipped": false,
+          "vertexCount": 167,
+          "triangleCount": 264,
+          "meshletCount": 5,
+          "meshletVertexCount": 216,
+          "meshletTriangleIndexCount": 792,
+          "meshletOffset": 0,
+          "meshletVertexOffset": 0,
+          "meshletTriangleIndexOffset": 0,
+          "meshletGroupOffset": 0,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1,
+              -1,
+              -1
+            ],
+            "max": [
+              1,
+              1,
+              1
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "meshlets": {
+      "offset": 0,
+      "stride": 80,
+      "count": 5
+    },
+    "meshletVertices": {
+      "offset": 400,
+      "stride": 4,
+      "count": 216,
+      "elementType": "uint32"
+    },
+    "meshletTriangles": {
+      "offset": 1264,
+      "stride": 1,
+      "count": 792,
+      "elementType": "uint8"
+    },
+    "meshletGroups": {
+      "offset": 2064,
+      "stride": 64,
+      "count": 1
+    }
+  },
+  "binary": "sphere.meshlet.bin"
+}

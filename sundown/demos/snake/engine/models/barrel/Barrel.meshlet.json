@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "generator": "tools/meshlet_preprocessor.js",
+  "generatedAt": "2026-03-13T06:03:28.483Z",
+  "settings": {
+    "maxVertices": 64,
+    "minTriangles": 24,
+    "maxTriangles": 124,
+    "fillWeight": 0.5,
+    "clusterGroupSize": 8
+  },
+  "source": {
+    "gltf": "Barrel.gltf",
+    "buffers": [
+      "Barrel.bin"
+    ],
+    "hash": "fdf68e5e0cd724f0a0b9644293aebb403aa246a7"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Cylinder.003",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 0,
+          "skipped": false,
+          "vertexCount": 4572,
+          "triangleCount": 5664,
+          "meshletCount": 132,
+          "meshletVertexCount": 6254,
+          "meshletTriangleIndexCount": 16992,
+          "meshletOffset": 0,
+          "meshletVertexOffset": 0,
+          "meshletTriangleIndexOffset": 0,
+          "meshletGroupOffset": 0,
+          "meshletGroupCount": 17,
+          "bounds": {
+            "min": [
+              -0.3805992901325226,
+              -5.038894457243259e-8,
+              -0.38061049580574036
+            ],
+            "max": [
+              0.38052862882614136,
+              0.9179168939590454,
+              0.3805290162563324
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "meshlets": {
+      "offset": 0,
+      "stride": 80,
+      "count": 132
+    },
+    "meshletVertices": {
+      "offset": 10560,
+      "stride": 4,
+      "count": 6254,
+      "elementType": "uint32"
+    },
+    "meshletTriangles": {
+      "offset": 35584,
+      "stride": 1,
+      "count": 16992,
+      "elementType": "uint8"
+    },
+    "meshletGroups": {
+      "offset": 52576,
+      "stride": 64,
+      "count": 17
+    }
+  },
+  "binary": "Barrel.meshlet.bin"
+}
