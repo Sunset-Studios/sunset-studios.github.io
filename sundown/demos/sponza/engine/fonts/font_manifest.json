@@ -1,0 +1,8 @@
+{
+  "fonts": [
+    {
+      "name": "Exo-Medium",
+      "path": "engine/fonts/Exo-Medium.json"
+    }
+  ]
+}

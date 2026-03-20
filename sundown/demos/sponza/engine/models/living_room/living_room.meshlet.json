@@ -1,0 +1,5146 @@
+{
+  "version": 2,
+  "generator": "tools/meshlet_preprocessor.js",
+  "generatedAt": "2026-03-13T06:03:29.066Z",
+  "settings": {
+    "maxVertices": 64,
+    "minTriangles": 24,
+    "maxTriangles": 124,
+    "fillWeight": 0.5,
+    "clusterGroupSize": 8
+  },
+  "source": {
+    "gltf": "living_room.gltf",
+    "buffers": [
+      "living_room.bin"
+    ],
+    "hash": "8a5a53e4a5f111e1996a2c2ed2d042082a7275dd"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Back Light",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 0,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 0,
+          "meshletVertexOffset": 0,
+          "meshletTriangleIndexOffset": 0,
+          "meshletGroupOffset": 0,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.7000399827957153,
+              8.172650337219238,
+              -2.9909300804138184
+            ],
+            "max": [
+              1.4135899543762207,
+              8.172650337219238,
+              -1.0653599500656128
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Mesh (10)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 2372,
+          "triangleCount": 2816,
+          "meshletCount": 69,
+          "meshletVertexCount": 3713,
+          "meshletTriangleIndexCount": 8448,
+          "meshletOffset": 1,
+          "meshletVertexOffset": 4,
+          "meshletTriangleIndexOffset": 6,
+          "meshletGroupOffset": 1,
+          "meshletGroupCount": 9,
+          "bounds": {
+            "min": [
+              2.4000298976898193,
+              1.4615800380706787,
+              -1.5996899604797363
+            ],
+            "max": [
+              2.8562300205230713,
+              1.9155299663543701,
+              -1.2522000074386597
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Mesh (102)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 102,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 102,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 70,
+          "meshletVertexOffset": 3717,
+          "meshletTriangleIndexOffset": 8454,
+          "meshletGroupOffset": 10,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.229640007019043,
+              4.034279823303223,
+              -0.8201259970664978
+            ],
+            "max": [
+              -2.215679883956909,
+              4.094520092010498,
+              -0.7227780222892761
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Mesh (106)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 4287,
+          "triangleCount": 5616,
+          "meshletCount": 128,
+          "meshletVertexCount": 6903,
+          "meshletTriangleIndexCount": 16848,
+          "meshletOffset": 72,
+          "meshletVertexOffset": 3819,
+          "meshletTriangleIndexOffset": 8586,
+          "meshletGroupOffset": 11,
+          "meshletGroupCount": 16,
+          "bounds": {
+            "min": [
+              0.7647659778594971,
+              3.1128599643707275,
+              -0.48124799132347107
+            ],
+            "max": [
+              0.8779670000076294,
+              3.1883599758148193,
+              -0.46753400564193726
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Mesh (107)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 2748,
+          "triangleCount": 2144,
+          "meshletCount": 74,
+          "meshletVertexCount": 3673,
+          "meshletTriangleIndexCount": 6432,
+          "meshletOffset": 200,
+          "meshletVertexOffset": 10722,
+          "meshletTriangleIndexOffset": 25434,
+          "meshletGroupOffset": 27,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -2.3406600952148438,
+              1.4000200033187866,
+              -1.3643200397491455
+            ],
+            "max": [
+              -2.1452600955963135,
+              1.6088900566101074,
+              -1.3344000577926636
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "Mesh (108)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 30,
+          "triangleCount": 16,
+          "meshletCount": 1,
+          "meshletVertexCount": 30,
+          "meshletTriangleIndexCount": 48,
+          "meshletOffset": 274,
+          "meshletVertexOffset": 14395,
+          "meshletTriangleIndexOffset": 31866,
+          "meshletGroupOffset": 37,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2276198863983154,
+              3.9959700107574463,
+              -0.7384340167045593
+            ],
+            "max": [
+              -2.2129299640655518,
+              4.010660171508789,
+              -0.6724759936332703
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "Mesh (109)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 640,
+          "triangleCount": 512,
+          "meshletCount": 17,
+          "meshletVertexCount": 815,
+          "meshletTriangleIndexCount": 1536,
+          "meshletOffset": 275,
+          "meshletVertexOffset": 14425,
+          "meshletTriangleIndexOffset": 31914,
+          "meshletGroupOffset": 38,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -0.1972309947013855,
+              0.4651130139827728,
+              -2.7828500270843506
+            ],
+            "max": [
+              0.6282230019569397,
+              0.5246449708938599,
+              -2.7233200073242188
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "Mesh (110)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 292,
+          "meshletVertexOffset": 15240,
+          "meshletTriangleIndexOffset": 33450,
+          "meshletGroupOffset": 41,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.438699960708618,
+              3.9855599403381348,
+              -1.6621899604797363
+            ],
+            "max": [
+              -2.4362099170684814,
+              4.146359920501709,
+              -1.4264899492263794
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "Mesh (111)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 6507,
+          "triangleCount": 8128,
+          "meshletCount": 180,
+          "meshletVertexCount": 9417,
+          "meshletTriangleIndexCount": 24384,
+          "meshletOffset": 293,
+          "meshletVertexOffset": 15244,
+          "meshletTriangleIndexOffset": 33456,
+          "meshletGroupOffset": 42,
+          "meshletGroupCount": 23,
+          "bounds": {
+            "min": [
+              -0.45378100872039795,
+              4.676459789276123,
+              -0.8968499898910522
+            ],
+            "max": [
+              1.0838500261306763,
+              4.934199810028076,
+              -0.3503729999065399
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 9,
+      "name": "Mesh (112)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 305,
+          "triangleCount": 128,
+          "meshletCount": 6,
+          "meshletVertexCount": 313,
+          "meshletTriangleIndexCount": 384,
+          "meshletOffset": 473,
+          "meshletVertexOffset": 24661,
+          "meshletTriangleIndexOffset": 57840,
+          "meshletGroupOffset": 65,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.440700054168701,
+              3.972759962081909,
+              -1.9842699766159058
+            ],
+            "max": [
+              -2.4316000938415527,
+              4.159160137176514,
+              -1.7199900150299072
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 10,
+      "name": "Mesh (113)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 615,
+          "triangleCount": 360,
+          "meshletCount": 15,
+          "meshletVertexCount": 726,
+          "meshletTriangleIndexCount": 1080,
+          "meshletOffset": 479,
+          "meshletVertexOffset": 24974,
+          "meshletTriangleIndexOffset": 58224,
+          "meshletGroupOffset": 66,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -1.725540041923523,
+              1.3017499446868896,
+              -0.2912589907646179
+            ],
+            "max": [
+              -1.6104099750518799,
+              1.305690050125122,
+              -0.28367799520492554
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 11,
+      "name": "Mesh (114)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 7118,
+          "triangleCount": 8960,
+          "meshletCount": 196,
+          "meshletVertexCount": 10172,
+          "meshletTriangleIndexCount": 26880,
+          "meshletOffset": 494,
+          "meshletVertexOffset": 25700,
+          "meshletTriangleIndexOffset": 59304,
+          "meshletGroupOffset": 68,
+          "meshletGroupCount": 25,
+          "bounds": {
+            "min": [
+              -0.07243800163269043,
+              2.6980299949645996,
+              -0.4619159996509552
+            ],
+            "max": [
+              1.1387300491333008,
+              3.2166500091552734,
+              -0.2568280100822449
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 12,
+      "name": "Mesh (116)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 8095,
+          "triangleCount": 9600,
+          "meshletCount": 212,
+          "meshletVertexCount": 11069,
+          "meshletTriangleIndexCount": 28800,
+          "meshletOffset": 690,
+          "meshletVertexOffset": 35872,
+          "meshletTriangleIndexOffset": 86184,
+          "meshletGroupOffset": 93,
+          "meshletGroupCount": 27,
+          "bounds": {
+            "min": [
+              0.8923159837722778,
+              2.9120700359344482,
+              -0.6281780004501343
+            ],
+            "max": [
+              0.9740539789199829,
+              2.993809938430786,
+              -0.5885419845581055
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 13,
+      "name": "Mesh (117)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 12,
+          "skipped": false,
+          "vertexCount": 434,
+          "triangleCount": 180,
+          "meshletCount": 9,
+          "meshletVertexCount": 470,
+          "meshletTriangleIndexCount": 540,
+          "meshletOffset": 902,
+          "meshletVertexOffset": 46941,
+          "meshletTriangleIndexOffset": 114984,
+          "meshletGroupOffset": 120,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -2.306770086288452,
+              1.4321600198745728,
+              -1.3907899856567383
+            ],
+            "max": [
+              -2.1444499492645264,
+              1.608680009841919,
+              -1.2123500108718872
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 14,
+      "name": "Mesh (118)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 504,
+          "triangleCount": 284,
+          "meshletCount": 13,
+          "meshletVertexCount": 626,
+          "meshletTriangleIndexCount": 852,
+          "meshletOffset": 911,
+          "meshletVertexOffset": 47411,
+          "meshletTriangleIndexOffset": 115524,
+          "meshletGroupOffset": 122,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -1.238860011100769,
+              0.604112982749939,
+              -2.7828500270843506
+            ],
+            "max": [
+              -0.7022920250892639,
+              0.9325029850006104,
+              -2.7233200073242188
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 15,
+      "name": "Mesh (119)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 732,
+          "triangleCount": 444,
+          "meshletCount": 20,
+          "meshletVertexCount": 924,
+          "meshletTriangleIndexCount": 1332,
+          "meshletOffset": 924,
+          "meshletVertexOffset": 48037,
+          "meshletTriangleIndexOffset": 116376,
+          "meshletGroupOffset": 124,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -1.2376500368118286,
+              0.6056309938430786,
+              -2.7502501010894775
+            ],
+            "max": [
+              -0.7285209894180298,
+              0.8849350214004517,
+              -2.3788599967956543
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 16,
+      "name": "Mesh (12)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 13,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 944,
+          "meshletVertexOffset": 48961,
+          "meshletTriangleIndexOffset": 117708,
+          "meshletGroupOffset": 127,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              2.9694600105285645,
+              2.3113999366760254,
+              -2.2526700496673584
+            ],
+            "max": [
+              2.9995601177215576,
+              3.4993999004364014,
+              -1.2574299573898315
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 17,
+      "name": "Mesh (121)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 106,
+          "triangleCount": 56,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 168,
+          "meshletOffset": 945,
+          "meshletVertexOffset": 48965,
+          "meshletTriangleIndexOffset": 117714,
+          "meshletGroupOffset": 128,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.2496299743652344,
+              0.6082410216331482,
+              -2.7903599739074707
+            ],
+            "max": [
+              -0.6925470232963562,
+              0.929049015045166,
+              -2.7318599224090576
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 18,
+      "name": "Mesh (122)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 62,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 62,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 947,
+          "meshletVertexOffset": 49071,
+          "meshletTriangleIndexOffset": 117882,
+          "meshletGroupOffset": 129,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -0.99993497133255,
+              0.7351040244102478,
+              -2.4014101028442383
+            ],
+            "max": [
+              -0.965686023235321,
+              0.7564769983291626,
+              -2.378190040588379
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 19,
+      "name": "Mesh (123)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 32,
+          "triangleCount": 12,
+          "meshletCount": 1,
+          "meshletVertexCount": 32,
+          "meshletTriangleIndexCount": 36,
+          "meshletOffset": 948,
+          "meshletVertexOffset": 49133,
+          "meshletTriangleIndexOffset": 117966,
+          "meshletGroupOffset": 130,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -0.9838029742240906,
+              0.7447900176048279,
+              -2.3773601055145264
+            ],
+            "max": [
+              -0.9820860028266907,
+              0.7462990283966064,
+              -2.0594100952148438
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 20,
+      "name": "Mesh (124)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 776,
+          "triangleCount": 480,
+          "meshletCount": 18,
+          "meshletVertexCount": 900,
+          "meshletTriangleIndexCount": 1440,
+          "meshletOffset": 949,
+          "meshletVertexOffset": 49165,
+          "meshletTriangleIndexOffset": 118002,
+          "meshletGroupOffset": 131,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -0.9929620027542114,
+              0.7356290221214294,
+              -2.0594398975372314
+            ],
+            "max": [
+              -0.9729260206222534,
+              0.7554600238800049,
+              -2.0232601165771484
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 21,
+      "name": "Mesh (125)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 751,
+          "triangleCount": 480,
+          "meshletCount": 19,
+          "meshletVertexCount": 915,
+          "meshletTriangleIndexCount": 1440,
+          "meshletOffset": 967,
+          "meshletVertexOffset": 50065,
+          "meshletTriangleIndexOffset": 119442,
+          "meshletGroupOffset": 134,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              0.2055779993534088,
+              0.4589509963989258,
+              -2.1514298915863037
+            ],
+            "max": [
+              0.22541500627994537,
+              0.4789940118789673,
+              -2.1152501106262207
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 22,
+      "name": "Mesh (126)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 28,
+          "triangleCount": 12,
+          "meshletCount": 1,
+          "meshletVertexCount": 28,
+          "meshletTriangleIndexCount": 36,
+          "meshletOffset": 986,
+          "meshletVertexOffset": 50980,
+          "meshletTriangleIndexOffset": 120882,
+          "meshletGroupOffset": 137,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.21475200355052948,
+              0.4681139886379242,
+              -2.4693500995635986
+            ],
+            "max": [
+              0.21624000370502472,
+              0.4698309898376465,
+              -2.151400089263916
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 23,
+      "name": "Mesh (127)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 4091,
+          "triangleCount": 4416,
+          "meshletCount": 124,
+          "meshletVertexCount": 6164,
+          "meshletTriangleIndexCount": 13248,
+          "meshletOffset": 987,
+          "meshletVertexOffset": 51008,
+          "meshletTriangleIndexOffset": 120918,
+          "meshletGroupOffset": 138,
+          "meshletGroupCount": 16,
+          "bounds": {
+            "min": [
+              -1.9046399593353271,
+              2.6854701042175293,
+              -0.19056600332260132
+            ],
+            "max": [
+              -1.8399200439453125,
+              3.0714199542999268,
+              -0.1720370054244995
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 24,
+      "name": "Mesh (128)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 47,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 47,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 1111,
+          "meshletVertexOffset": 57172,
+          "meshletTriangleIndexOffset": 134166,
+          "meshletGroupOffset": 154,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.19721999764442444,
+              0.4670200049877167,
+              -2.4926700592041016
+            ],
+            "max": [
+              0.23377199470996857,
+              0.4714840054512024,
+              -2.469449996948242
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 25,
+      "name": "Mesh (129)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 90,
+          "triangleCount": 56,
+          "meshletCount": 2,
+          "meshletVertexCount": 90,
+          "meshletTriangleIndexCount": 168,
+          "meshletOffset": 1112,
+          "meshletVertexOffset": 57219,
+          "meshletTriangleIndexOffset": 134250,
+          "meshletGroupOffset": 155,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -0.2167460024356842,
+              0.4802840054035187,
+              -2.7903599739074707
+            ],
+            "max": [
+              0.6465150117874146,
+              0.5095750093460083,
+              -2.7318599224090576
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 26,
+      "name": "Mesh (13)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 6064,
+          "triangleCount": 6592,
+          "meshletCount": 155,
+          "meshletVertexCount": 8136,
+          "meshletTriangleIndexCount": 19776,
+          "meshletOffset": 1114,
+          "meshletVertexOffset": 57309,
+          "meshletTriangleIndexOffset": 134418,
+          "meshletGroupOffset": 156,
+          "meshletGroupCount": 20,
+          "bounds": {
+            "min": [
+              2.9033100605010986,
+              3.1035099029541016,
+              -0.6721469759941101
+            ],
+            "max": [
+              2.9635400772094727,
+              3.11899995803833,
+              -0.13022500276565552
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 27,
+      "name": "Mesh (130)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 573,
+          "triangleCount": 398,
+          "meshletCount": 12,
+          "meshletVertexCount": 641,
+          "meshletTriangleIndexCount": 1194,
+          "meshletOffset": 1269,
+          "meshletVertexOffset": 65445,
+          "meshletTriangleIndexOffset": 154194,
+          "meshletGroupOffset": 176,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -0.20769399404525757,
+              0.4725619852542877,
+              -2.775399923324585
+            ],
+            "max": [
+              0.638687014579773,
+              0.517195999622345,
+              -2.7307701110839844
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 28,
+      "name": "Mesh (131)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 812,
+          "triangleCount": 576,
+          "meshletCount": 19,
+          "meshletVertexCount": 986,
+          "meshletTriangleIndexCount": 1728,
+          "meshletOffset": 1281,
+          "meshletVertexOffset": 66086,
+          "meshletTriangleIndexOffset": 155388,
+          "meshletGroupOffset": 178,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -1.8469599485397339,
+              2.8713200092315674,
+              -0.15604199469089508
+            ],
+            "max": [
+              -1.8249800205230713,
+              2.8855700492858887,
+              -0.14163599908351898
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 29,
+      "name": "Mesh (132)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 16,
+          "skipped": false,
+          "vertexCount": 2146,
+          "triangleCount": 1536,
+          "meshletCount": 53,
+          "meshletVertexCount": 2781,
+          "meshletTriangleIndexCount": 4608,
+          "meshletOffset": 1300,
+          "meshletVertexOffset": 67072,
+          "meshletTriangleIndexOffset": 157116,
+          "meshletGroupOffset": 181,
+          "meshletGroupCount": 7,
+          "bounds": {
+            "min": [
+              -2.3153998851776123,
+              1.4299299716949463,
+              -1.2117500305175781
+            ],
+            "max": [
+              -2.173640012741089,
+              1.5781699419021606,
+              -1.2058199644088745
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 30,
+      "name": "Mesh (133)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 3919,
+          "triangleCount": 4416,
+          "meshletCount": 117,
+          "meshletVertexCount": 5775,
+          "meshletTriangleIndexCount": 13248,
+          "meshletOffset": 1353,
+          "meshletVertexOffset": 69853,
+          "meshletTriangleIndexOffset": 161724,
+          "meshletGroupOffset": 188,
+          "meshletGroupCount": 15,
+          "bounds": {
+            "min": [
+              -1.9026800394058228,
+              2.6898000240325928,
+              -0.1702290028333664
+            ],
+            "max": [
+              -1.8419599533081055,
+              3.0670900344848633,
+              -0.10711900144815445
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 31,
+      "name": "Mesh (134)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 5115,
+          "triangleCount": 5184,
+          "meshletCount": 148,
+          "meshletVertexCount": 7431,
+          "meshletTriangleIndexCount": 15552,
+          "meshletOffset": 1470,
+          "meshletVertexOffset": 75628,
+          "meshletTriangleIndexOffset": 174972,
+          "meshletGroupOffset": 203,
+          "meshletGroupCount": 19,
+          "bounds": {
+            "min": [
+              -2.0689899921417236,
+              2.6854701042175293,
+              -0.10667499899864197
+            ],
+            "max": [
+              -1.8241499662399292,
+              3.0714199542999268,
+              -0.0947130024433136
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 32,
+      "name": "Mesh (135)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 8162,
+          "triangleCount": 8064,
+          "meshletCount": 206,
+          "meshletVertexCount": 10423,
+          "meshletTriangleIndexCount": 24192,
+          "meshletOffset": 1618,
+          "meshletVertexOffset": 83059,
+          "meshletTriangleIndexOffset": 190524,
+          "meshletGroupOffset": 222,
+          "meshletGroupCount": 26,
+          "bounds": {
+            "min": [
+              -1.8996599912643433,
+              2.6943700313568115,
+              -0.34845298528671265
+            ],
+            "max": [
+              -1.8838200569152832,
+              3.0625200271606445,
+              -0.3159709870815277
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 33,
+      "name": "Mesh (136)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 315,
+          "triangleCount": 384,
+          "meshletCount": 8,
+          "meshletVertexCount": 342,
+          "meshletTriangleIndexCount": 1152,
+          "meshletOffset": 1824,
+          "meshletVertexOffset": 93482,
+          "meshletTriangleIndexOffset": 214716,
+          "meshletGroupOffset": 248,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.8852800130844116,
+              2.5872700214385986,
+              -1.0848000049591064
+            ],
+            "max": [
+              -1.8852800130844116,
+              3.1696200370788574,
+              -0.05741000175476074
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 34,
+      "name": "Mesh (137)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 6696,
+          "triangleCount": 6912,
+          "meshletCount": 206,
+          "meshletVertexCount": 10177,
+          "meshletTriangleIndexCount": 20736,
+          "meshletOffset": 1832,
+          "meshletVertexOffset": 93824,
+          "meshletTriangleIndexOffset": 215868,
+          "meshletGroupOffset": 249,
+          "meshletGroupCount": 26,
+          "bounds": {
+            "min": [
+              -1.9049500226974487,
+              2.688309907913208,
+              -0.3159019947052002
+            ],
+            "max": [
+              -1.845270037651062,
+              3.068579912185669,
+              -0.19380399584770203
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 35,
+      "name": "Mesh (14)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 3117,
+          "triangleCount": 4352,
+          "meshletCount": 83,
+          "meshletVertexCount": 4137,
+          "meshletTriangleIndexCount": 13056,
+          "meshletOffset": 2038,
+          "meshletVertexOffset": 104001,
+          "meshletTriangleIndexOffset": 236604,
+          "meshletGroupOffset": 275,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              0.007926000282168388,
+              1.3072999715805054,
+              -0.5007330179214478
+            ],
+            "max": [
+              0.7770900130271912,
+              2.1933999061584473,
+              -0.053213998675346375
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 36,
+      "name": "Mesh (140)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 48,
+          "triangleCount": 66,
+          "meshletCount": 1,
+          "meshletVertexCount": 48,
+          "meshletTriangleIndexCount": 198,
+          "meshletOffset": 2121,
+          "meshletVertexOffset": 108138,
+          "meshletTriangleIndexOffset": 249660,
+          "meshletGroupOffset": 286,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.496490001678467,
+              0.46401500701904297,
+              -3.168610095977783
+            ],
+            "max": [
+              3.0878100395202637,
+              8.115280151367188,
+              -3.168610095977783
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 37,
+      "name": "Mesh (141)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 17,
+          "skipped": false,
+          "vertexCount": 48,
+          "triangleCount": 66,
+          "meshletCount": 1,
+          "meshletVertexCount": 48,
+          "meshletTriangleIndexCount": 198,
+          "meshletOffset": 2122,
+          "meshletVertexOffset": 108186,
+          "meshletTriangleIndexOffset": 249858,
+          "meshletGroupOffset": 287,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.455509901046753,
+              0.5209599733352661,
+              -0.028751999139785767
+            ],
+            "max": [
+              3.0149099826812744,
+              8.052169799804688,
+              -0.028751999139785767
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 38,
+      "name": "Mesh (142)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 787,
+          "triangleCount": 768,
+          "meshletCount": 19,
+          "meshletVertexCount": 934,
+          "meshletTriangleIndexCount": 2304,
+          "meshletOffset": 2123,
+          "meshletVertexOffset": 108234,
+          "meshletTriangleIndexOffset": 250056,
+          "meshletGroupOffset": 288,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -2.231339931488037,
+              1.4573700428009033,
+              -1.364169955253601
+            ],
+            "max": [
+              -2.161720037460327,
+              1.533079981803894,
+              -1.2613199949264526
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 39,
+      "name": "Mesh (143)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 1068,
+          "triangleCount": 572,
+          "meshletCount": 22,
+          "meshletVertexCount": 1166,
+          "meshletTriangleIndexCount": 1716,
+          "meshletOffset": 2142,
+          "meshletVertexOffset": 109168,
+          "meshletTriangleIndexOffset": 252360,
+          "meshletGroupOffset": 291,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -2.4442899227142334,
+              1.0495500564575195,
+              -0.1953440010547638
+            ],
+            "max": [
+              3.0103800296783447,
+              7.002099990844727,
+              -0.024274999275803566
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 40,
+      "name": "Mesh (144)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 2364,
+          "triangleCount": 1260,
+          "meshletCount": 46,
+          "meshletVertexCount": 2618,
+          "meshletTriangleIndexCount": 3780,
+          "meshletOffset": 2164,
+          "meshletVertexOffset": 110334,
+          "meshletTriangleIndexOffset": 254076,
+          "meshletGroupOffset": 294,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -2.4414899349212646,
+              0.5322229862213135,
+              -3.1711199283599854
+            ],
+            "max": [
+              3.0065999031066895,
+              8.040360450744629,
+              -2.9996800422668457
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 41,
+      "name": "Mesh (145)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 603,
+          "triangleCount": 332,
+          "meshletCount": 12,
+          "meshletVertexCount": 638,
+          "meshletTriangleIndexCount": 996,
+          "meshletOffset": 2210,
+          "meshletVertexOffset": 112952,
+          "meshletTriangleIndexOffset": 257856,
+          "meshletGroupOffset": 300,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -2.582089900970459,
+              0.40313398838043213,
+              -3.1714000701904297
+            ],
+            "max": [
+              3.1482200622558594,
+              8.173649787902832,
+              -0.028357500210404396
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 42,
+      "name": "Mesh (147)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 7077,
+          "triangleCount": 4248,
+          "meshletCount": 162,
+          "meshletVertexCount": 7649,
+          "meshletTriangleIndexCount": 12744,
+          "meshletOffset": 2222,
+          "meshletVertexOffset": 113590,
+          "meshletTriangleIndexOffset": 258852,
+          "meshletGroupOffset": 302,
+          "meshletGroupCount": 21,
+          "bounds": {
+            "min": [
+              -2.294029951095581,
+              1.5454200506210327,
+              -1.321470022201538
+            ],
+            "max": [
+              -2.240190029144287,
+              1.6037100553512573,
+              -1.3162399530410767
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 43,
+      "name": "Mesh (149)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 1416,
+          "triangleCount": 972,
+          "meshletCount": 32,
+          "meshletVertexCount": 1616,
+          "meshletTriangleIndexCount": 2916,
+          "meshletOffset": 2384,
+          "meshletVertexOffset": 121239,
+          "meshletTriangleIndexOffset": 271596,
+          "meshletGroupOffset": 323,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              -1.7360299825668335,
+              1.3003400564193726,
+              -0.3249270021915436
+            ],
+            "max": [
+              -1.5999200344085693,
+              1.3077600002288818,
+              -0.2500619888305664
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 44,
+      "name": "Mesh (15)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 1554,
+          "triangleCount": 1248,
+          "meshletCount": 38,
+          "meshletVertexCount": 1940,
+          "meshletTriangleIndexCount": 3744,
+          "meshletOffset": 2416,
+          "meshletVertexOffset": 122855,
+          "meshletTriangleIndexOffset": 274512,
+          "meshletGroupOffset": 327,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              0.25282400846481323,
+              2.939460039138794,
+              -0.5449190139770508
+            ],
+            "max": [
+              0.33096399903297424,
+              3.0134100914001465,
+              -0.471327006816864
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 45,
+      "name": "Mesh (150)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 14324,
+          "triangleCount": 14848,
+          "meshletCount": 410,
+          "meshletVertexCount": 20020,
+          "meshletTriangleIndexCount": 44544,
+          "meshletOffset": 2454,
+          "meshletVertexOffset": 124795,
+          "meshletTriangleIndexOffset": 278256,
+          "meshletGroupOffset": 332,
+          "meshletGroupCount": 52,
+          "bounds": {
+            "min": [
+              1.6765300035476685,
+              2.2750699520111084,
+              -0.6861159801483154
+            ],
+            "max": [
+              2.580780029296875,
+              3.386859893798828,
+              -0.05198900029063225
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 46,
+      "name": "Mesh (151)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 939,
+          "triangleCount": 688,
+          "meshletCount": 23,
+          "meshletVertexCount": 1174,
+          "meshletTriangleIndexCount": 2064,
+          "meshletOffset": 2864,
+          "meshletVertexOffset": 144815,
+          "meshletTriangleIndexOffset": 322800,
+          "meshletGroupOffset": 384,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -2.204040050506592,
+              1.4876500368118286,
+              -1.3226699829101562
+            ],
+            "max": [
+              -2.1814301013946533,
+              1.5100699663162231,
+              -1.3032499551773071
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 47,
+      "name": "Mesh (152)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 20,
+          "skipped": false,
+          "vertexCount": 755,
+          "triangleCount": 688,
+          "meshletCount": 17,
+          "meshletVertexCount": 888,
+          "meshletTriangleIndexCount": 2064,
+          "meshletOffset": 2887,
+          "meshletVertexOffset": 145989,
+          "meshletTriangleIndexOffset": 324864,
+          "meshletGroupOffset": 387,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -0.3049519956111908,
+              2.397089958190918,
+              -0.043657999485731125
+            ],
+            "max": [
+              1.3774800300598145,
+              3.5099399089813232,
+              -0.029457999393343925
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 48,
+      "name": "Mesh (153)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 48,
+          "triangleCount": 24,
+          "meshletCount": 1,
+          "meshletVertexCount": 48,
+          "meshletTriangleIndexCount": 72,
+          "meshletOffset": 2904,
+          "meshletVertexOffset": 146877,
+          "meshletTriangleIndexOffset": 326928,
+          "meshletGroupOffset": 390,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.29361701011657715,
+              2.7076399326324463,
+              -0.45036500692367554
+            ],
+            "max": [
+              0.7726719975471497,
+              3.2052299976348877,
+              -0.2688229978084564
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 49,
+      "name": "Mesh (154)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 12710,
+          "triangleCount": 15168,
+          "meshletCount": 346,
+          "meshletVertexCount": 18405,
+          "meshletTriangleIndexCount": 45504,
+          "meshletOffset": 2905,
+          "meshletVertexOffset": 146925,
+          "meshletTriangleIndexOffset": 327000,
+          "meshletGroupOffset": 391,
+          "meshletGroupCount": 44,
+          "bounds": {
+            "min": [
+              0.7825490236282349,
+              3.0628199577331543,
+              -0.5237470269203186
+            ],
+            "max": [
+              0.8806570172309875,
+              3.1525700092315674,
+              -0.4650309979915619
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 50,
+      "name": "Mesh (155)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 22824,
+          "triangleCount": 29088,
+          "meshletCount": 654,
+          "meshletVertexCount": 33801,
+          "meshletTriangleIndexCount": 87264,
+          "meshletOffset": 3251,
+          "meshletVertexOffset": 165330,
+          "meshletTriangleIndexOffset": 372504,
+          "meshletGroupOffset": 435,
+          "meshletGroupCount": 82,
+          "bounds": {
+            "min": [
+              0.7912049889564514,
+              2.873729944229126,
+              -0.6012120246887207
+            ],
+            "max": [
+              1.0500799417495728,
+              3.0321500301361084,
+              -0.4619140028953552
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 51,
+      "name": "Mesh (156)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 30,
+          "triangleCount": 12,
+          "meshletCount": 1,
+          "meshletVertexCount": 30,
+          "meshletTriangleIndexCount": 36,
+          "meshletOffset": 3905,
+          "meshletVertexOffset": 199131,
+          "meshletTriangleIndexOffset": 459768,
+          "meshletGroupOffset": 517,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2116799354553223,
+              1.4785799980163574,
+              -1.340649962425232
+            ],
+            "max": [
+              -2.1800599098205566,
+              1.5129200220108032,
+              -1.2852699756622314
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 52,
+      "name": "Mesh (157)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 6500,
+          "triangleCount": 9472,
+          "meshletCount": 193,
+          "meshletVertexCount": 10020,
+          "meshletTriangleIndexCount": 28416,
+          "meshletOffset": 3906,
+          "meshletVertexOffset": 199161,
+          "meshletTriangleIndexOffset": 459804,
+          "meshletGroupOffset": 518,
+          "meshletGroupCount": 25,
+          "bounds": {
+            "min": [
+              0.7581859827041626,
+              3.0384600162506104,
+              -0.4730829894542694
+            ],
+            "max": [
+              0.8966559767723083,
+              3.1769299507141113,
+              -0.46195700764656067
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 53,
+      "name": "Mesh (158)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 347,
+          "triangleCount": 256,
+          "meshletCount": 7,
+          "meshletVertexCount": 396,
+          "meshletTriangleIndexCount": 768,
+          "meshletOffset": 4099,
+          "meshletVertexOffset": 209181,
+          "meshletTriangleIndexOffset": 488220,
+          "meshletGroupOffset": 543,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.221560001373291,
+              1.4684100151062012,
+              -1.3461699485778809
+            ],
+            "max": [
+              -2.1763100624084473,
+              1.5176199674606323,
+              -1.2793200016021729
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 54,
+      "name": "Mesh (16)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 1499,
+          "triangleCount": 972,
+          "meshletCount": 34,
+          "meshletVertexCount": 1685,
+          "meshletTriangleIndexCount": 2916,
+          "meshletOffset": 4106,
+          "meshletVertexOffset": 209577,
+          "meshletTriangleIndexOffset": 488988,
+          "meshletGroupOffset": 544,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              3.0013198852539062,
+              1.6060600280761719,
+              -0.3800930082798004
+            ],
+            "max": [
+              3.008739948272705,
+              1.742169976234436,
+              -0.30522799491882324
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 55,
+      "name": "Mesh (160)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 592,
+          "triangleCount": 396,
+          "meshletCount": 17,
+          "meshletVertexCount": 801,
+          "meshletTriangleIndexCount": 1188,
+          "meshletOffset": 4140,
+          "meshletVertexOffset": 211262,
+          "meshletTriangleIndexOffset": 491904,
+          "meshletGroupOffset": 549,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              1.1573899984359741,
+              0.5994459986686707,
+              -2.7502501010894775
+            ],
+            "max": [
+              1.6659300327301025,
+              0.8798450231552124,
+              -2.401520013809204
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 56,
+      "name": "Mesh (161)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 30,
+          "triangleCount": 12,
+          "meshletCount": 1,
+          "meshletVertexCount": 30,
+          "meshletTriangleIndexCount": 36,
+          "meshletOffset": 4157,
+          "meshletVertexOffset": 212063,
+          "meshletTriangleIndexOffset": 493092,
+          "meshletGroupOffset": 552,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              1.4106600284576416,
+              0.7391530275344849,
+              -2.398710012435913
+            ],
+            "max": [
+              1.4123799800872803,
+              0.7406610250473022,
+              -2.0807700157165527
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 57,
+      "name": "Mesh (162)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 850,
+          "triangleCount": 1280,
+          "meshletCount": 24,
+          "meshletVertexCount": 1181,
+          "meshletTriangleIndexCount": 3840,
+          "meshletOffset": 4158,
+          "meshletVertexOffset": 212093,
+          "meshletTriangleIndexOffset": 493128,
+          "meshletGroupOffset": 553,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              2.9090099334716797,
+              2.0430099964141846,
+              -0.03837500140070915
+            ],
+            "max": [
+              2.9577701091766357,
+              2.0917699337005615,
+              -0.03179100155830383
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 58,
+      "name": "Mesh (163)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 854,
+          "triangleCount": 1280,
+          "meshletCount": 24,
+          "meshletVertexCount": 1180,
+          "meshletTriangleIndexCount": 3840,
+          "meshletOffset": 4182,
+          "meshletVertexOffset": 213274,
+          "meshletTriangleIndexOffset": 496968,
+          "meshletGroupOffset": 556,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              2.90910005569458,
+              3.1286299228668213,
+              -0.03837500140070915
+            ],
+            "max": [
+              2.957859992980957,
+              3.1773900985717773,
+              -0.03179100155830383
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 59,
+      "name": "Mesh (164)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 570,
+          "triangleCount": 384,
+          "meshletCount": 12,
+          "meshletVertexCount": 646,
+          "meshletTriangleIndexCount": 1152,
+          "meshletOffset": 4206,
+          "meshletVertexOffset": 214454,
+          "meshletTriangleIndexOffset": 500808,
+          "meshletGroupOffset": 559,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              2.9193599224090576,
+              3.1383299827575684,
+              -0.24856999516487122
+            ],
+            "max": [
+              2.9475998878479004,
+              3.166559934616089,
+              -0.24306200444698334
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 60,
+      "name": "Mesh (165)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 21,
+          "skipped": false,
+          "vertexCount": 2818,
+          "triangleCount": 3328,
+          "meshletCount": 85,
+          "meshletVertexCount": 4182,
+          "meshletTriangleIndexCount": 9984,
+          "meshletOffset": 4218,
+          "meshletVertexOffset": 215100,
+          "meshletTriangleIndexOffset": 501960,
+          "meshletGroupOffset": 561,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              2.9046199321746826,
+              3.123579978942871,
+              -0.25275498628616333
+            ],
+            "max": [
+              2.9623401165008545,
+              3.181309938430786,
+              -0.23887799680233002
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 61,
+      "name": "Mesh (166)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 16784,
+          "triangleCount": 19648,
+          "meshletCount": 448,
+          "meshletVertexCount": 22728,
+          "meshletTriangleIndexCount": 58944,
+          "meshletOffset": 4303,
+          "meshletVertexOffset": 219282,
+          "meshletTriangleIndexOffset": 511944,
+          "meshletGroupOffset": 572,
+          "meshletGroupCount": 56,
+          "bounds": {
+            "min": [
+              2.8759899139404297,
+              2.1125600337982178,
+              -0.7062889933586121
+            ],
+            "max": [
+              2.9908599853515625,
+              2.1786000728607178,
+              -0.031470999121665955
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 62,
+      "name": "Mesh (167)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 4732,
+          "triangleCount": 4864,
+          "meshletCount": 116,
+          "meshletVertexCount": 6124,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 4751,
+          "meshletVertexOffset": 242010,
+          "meshletTriangleIndexOffset": 570888,
+          "meshletGroupOffset": 628,
+          "meshletGroupCount": 15,
+          "bounds": {
+            "min": [
+              2.9178600311279297,
+              2.0521399974823,
+              -0.1767449975013733
+            ],
+            "max": [
+              2.9489200115203857,
+              2.099560022354126,
+              -0.03208199888467789
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 63,
+      "name": "Mesh (168)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 512,
+          "triangleCount": 284,
+          "meshletCount": 13,
+          "meshletVertexCount": 639,
+          "meshletTriangleIndexCount": 852,
+          "meshletOffset": 4867,
+          "meshletVertexOffset": 248134,
+          "meshletTriangleIndexOffset": 585480,
+          "meshletGroupOffset": 643,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              1.131060004234314,
+              0.597927987575531,
+              -2.7828500270843506
+            ],
+            "max": [
+              1.667140007019043,
+              0.9273579716682434,
+              -2.7233200073242188
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 64,
+      "name": "Mesh (169)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 16808,
+          "triangleCount": 19648,
+          "meshletCount": 440,
+          "meshletVertexCount": 22726,
+          "meshletTriangleIndexCount": 58944,
+          "meshletOffset": 4880,
+          "meshletVertexOffset": 248773,
+          "meshletTriangleIndexOffset": 586332,
+          "meshletGroupOffset": 645,
+          "meshletGroupCount": 55,
+          "bounds": {
+            "min": [
+              2.8759899139404297,
+              3.037440061569214,
+              -0.7062889933586121
+            ],
+            "max": [
+              2.9908599853515625,
+              3.103480100631714,
+              -0.031470999121665955
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 65,
+      "name": "Mesh (17)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 10023,
+          "triangleCount": 10176,
+          "meshletCount": 266,
+          "meshletVertexCount": 13231,
+          "meshletTriangleIndexCount": 30528,
+          "meshletOffset": 5320,
+          "meshletVertexOffset": 271499,
+          "meshletTriangleIndexOffset": 645276,
+          "meshletGroupOffset": 700,
+          "meshletGroupCount": 34,
+          "bounds": {
+            "min": [
+              2.914330005645752,
+              3.1326301097869873,
+              -0.25432100892066956
+            ],
+            "max": [
+              2.9539599418640137,
+              3.172260046005249,
+              -0.0321040004491806
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 66,
+      "name": "Mesh (170)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 113,
+          "triangleCount": 56,
+          "meshletCount": 2,
+          "meshletVertexCount": 113,
+          "meshletTriangleIndexCount": 168,
+          "meshletOffset": 5586,
+          "meshletVertexOffset": 284730,
+          "meshletTriangleIndexOffset": 675804,
+          "meshletGroupOffset": 734,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              1.1202900409698486,
+              0.6014170050621033,
+              -2.7903599739074707
+            ],
+            "max": [
+              1.6767899990081787,
+              0.9233729839324951,
+              -2.7318599224090576
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 67,
+      "name": "Mesh (171)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 923,
+          "triangleCount": 720,
+          "meshletCount": 22,
+          "meshletVertexCount": 1092,
+          "meshletTriangleIndexCount": 2160,
+          "meshletOffset": 5588,
+          "meshletVertexOffset": 284843,
+          "meshletTriangleIndexOffset": 675972,
+          "meshletGroupOffset": 735,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              2.9098799228668213,
+              3.1157400608062744,
+              -0.1793700009584427
+            ],
+            "max": [
+              2.9570798873901367,
+              3.176029920578003,
+              -0.13792100548744202
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 68,
+      "name": "Mesh (172)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 6665,
+          "triangleCount": 8128,
+          "meshletCount": 184,
+          "meshletVertexCount": 9510,
+          "meshletTriangleIndexCount": 24384,
+          "meshletOffset": 5610,
+          "meshletVertexOffset": 285935,
+          "meshletTriangleIndexOffset": 678132,
+          "meshletGroupOffset": 738,
+          "meshletGroupCount": 23,
+          "bounds": {
+            "min": [
+              2.3806400299072266,
+              2.4769999980926514,
+              -0.8883960247039795
+            ],
+            "max": [
+              2.6350998878479004,
+              3.176539897918701,
+              -0.3484480082988739
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 69,
+      "name": "Mesh (175)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 22,
+          "skipped": false,
+          "vertexCount": 518,
+          "triangleCount": 360,
+          "meshletCount": 13,
+          "meshletVertexCount": 638,
+          "meshletTriangleIndexCount": 1080,
+          "meshletOffset": 5794,
+          "meshletVertexOffset": 295445,
+          "meshletTriangleIndexOffset": 702516,
+          "meshletGroupOffset": 761,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              3.003390073776245,
+              1.6165499687194824,
+              -0.34642499685287476
+            ],
+            "max": [
+              3.0073399543762207,
+              1.7316800355911255,
+              -0.3388440012931824
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 70,
+      "name": "Mesh (176)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 23,
+          "skipped": false,
+          "vertexCount": 1587,
+          "triangleCount": 1680,
+          "meshletCount": 41,
+          "meshletVertexCount": 2228,
+          "meshletTriangleIndexCount": 5040,
+          "meshletOffset": 5807,
+          "meshletVertexOffset": 296083,
+          "meshletTriangleIndexOffset": 703596,
+          "meshletGroupOffset": 763,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              2.206360101699829,
+              2.706170082092285,
+              -0.8456460237503052
+            ],
+            "max": [
+              2.4512100219726562,
+              3.1702799797058105,
+              -0.4147450029850006
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 71,
+      "name": "Mesh (177)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 685,
+          "triangleCount": 412,
+          "meshletCount": 15,
+          "meshletVertexCount": 772,
+          "meshletTriangleIndexCount": 1236,
+          "meshletOffset": 5848,
+          "meshletVertexOffset": 298311,
+          "meshletTriangleIndexOffset": 708636,
+          "meshletGroupOffset": 769,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              1.1271899938583374,
+              0.6006360054016113,
+              -2.775399923324585
+            ],
+            "max": [
+              1.671280026435852,
+              0.9241539835929871,
+              -2.7307701110839844
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 72,
+      "name": "Mesh (178)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 156335,
+          "triangleCount": 186368,
+          "meshletCount": 4269,
+          "meshletVertexCount": 216291,
+          "meshletTriangleIndexCount": 559104,
+          "meshletOffset": 5863,
+          "meshletVertexOffset": 299083,
+          "meshletTriangleIndexOffset": 709872,
+          "meshletGroupOffset": 771,
+          "meshletGroupCount": 534,
+          "bounds": {
+            "min": [
+              2.8759899139404297,
+              2.178920030593872,
+              -0.7062889933586121
+            ],
+            "max": [
+              2.9908599853515625,
+              3.0374701023101807,
+              -0.09610400348901749
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 73,
+      "name": "Mesh (179)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 24,
+          "skipped": false,
+          "vertexCount": 1126,
+          "triangleCount": 896,
+          "meshletCount": 28,
+          "meshletVertexCount": 1489,
+          "meshletTriangleIndexCount": 2688,
+          "meshletOffset": 10132,
+          "meshletVertexOffset": 515374,
+          "meshletTriangleIndexOffset": 1268976,
+          "meshletGroupOffset": 1305,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              2.4341299533843994,
+              1.4935699701309204,
+              -1.3355200290679932
+            ],
+            "max": [
+              2.8241100311279297,
+              1.8835500478744507,
+              -0.028620000928640366
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 74,
+      "name": "Mesh (18)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 8065,
+          "triangleCount": 6488,
+          "meshletCount": 198,
+          "meshletVertexCount": 10276,
+          "meshletTriangleIndexCount": 19464,
+          "meshletOffset": 10160,
+          "meshletVertexOffset": 516863,
+          "meshletTriangleIndexOffset": 1271664,
+          "meshletGroupOffset": 1309,
+          "meshletGroupCount": 25,
+          "bounds": {
+            "min": [
+              -2.306529998779297,
+              1.4320199489593506,
+              -1.3928200006484985
+            ],
+            "max": [
+              -2.140850067138672,
+              1.6122000217437744,
+              -1.211609959602356
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 75,
+      "name": "Mesh (180)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 64,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 64,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10358,
+          "meshletVertexOffset": 527139,
+          "meshletTriangleIndexOffset": 1291128,
+          "meshletGroupOffset": 1334,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              1.3942699432373047,
+              0.7294340133666992,
+              -2.4227700233459473
+            ],
+            "max": [
+              1.4284900426864624,
+              0.7508710026741028,
+              -2.3995399475097656
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 76,
+      "name": "Mesh (181)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 7918,
+          "triangleCount": 8384,
+          "meshletCount": 203,
+          "meshletVertexCount": 10637,
+          "meshletTriangleIndexCount": 25152,
+          "meshletOffset": 10359,
+          "meshletVertexOffset": 527203,
+          "meshletTriangleIndexOffset": 1291212,
+          "meshletGroupOffset": 1335,
+          "meshletGroupCount": 26,
+          "bounds": {
+            "min": [
+              2.9033100605010986,
+              2.0938799381256104,
+              -0.6721469759941101
+            ],
+            "max": [
+              2.9635400772094727,
+              2.1122899055480957,
+              -0.13022500276565552
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 77,
+      "name": "Mesh (2)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 753,
+          "triangleCount": 480,
+          "meshletCount": 19,
+          "meshletVertexCount": 934,
+          "meshletTriangleIndexCount": 1440,
+          "meshletOffset": 10562,
+          "meshletVertexOffset": 537840,
+          "meshletTriangleIndexOffset": 1316364,
+          "meshletGroupOffset": 1361,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              1.4014999866485596,
+              0.7299910187721252,
+              -2.0808000564575195
+            ],
+            "max": [
+              1.4215400218963623,
+              0.7498229742050171,
+              -2.0446200370788574
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 78,
+      "name": "Mesh (21)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 25,
+          "skipped": false,
+          "vertexCount": 1624,
+          "triangleCount": 1680,
+          "meshletCount": 41,
+          "meshletVertexCount": 2238,
+          "meshletTriangleIndexCount": 5040,
+          "meshletOffset": 10581,
+          "meshletVertexOffset": 538774,
+          "meshletTriangleIndexOffset": 1317804,
+          "meshletGroupOffset": 1364,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              0.3444780111312866,
+              1.4295300245285034,
+              -0.8311060070991516
+            ],
+            "max": [
+              0.7897480130195618,
+              1.6649500131607056,
+              -0.4310790002346039
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 79,
+      "name": "Mesh (22)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 60,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 60,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10622,
+          "meshletVertexOffset": 541012,
+          "meshletTriangleIndexOffset": 1322844,
+          "meshletGroupOffset": 1370,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.359260082244873,
+              3.65556001663208,
+              -1.1476099491119385
+            ],
+            "max": [
+              -2.1861701011657715,
+              3.688070058822632,
+              -0.931656002998352
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 80,
+      "name": "Mesh (23)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 104,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 10623,
+          "meshletVertexOffset": 541072,
+          "meshletTriangleIndexOffset": 1322928,
+          "meshletGroupOffset": 1371,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.31365400552749634,
+              3.186739921569824,
+              -0.4474579989910126
+            ],
+            "max": [
+              0.7526339888572693,
+              3.2052299976348877,
+              -0.270143985748291
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 81,
+      "name": "Mesh (24)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 64,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 64,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10625,
+          "meshletVertexOffset": 541178,
+          "meshletTriangleIndexOffset": 1323060,
+          "meshletGroupOffset": 1372,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.362950086593628,
+              3.6809499263763428,
+              -1.1476999521255493
+            ],
+            "max": [
+              -2.1898601055145264,
+              3.714869976043701,
+              -0.9316359758377075
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 82,
+      "name": "Mesh (25)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 62,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 62,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10626,
+          "meshletVertexOffset": 541242,
+          "meshletTriangleIndexOffset": 1323144,
+          "meshletGroupOffset": 1373,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3295400142669678,
+              4.136229991912842,
+              -1.149459958076477
+            ],
+            "max": [
+              -2.1923201084136963,
+              4.186800003051758,
+              -0.9328020215034485
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 83,
+      "name": "Mesh (26)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 104,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 10627,
+          "meshletVertexOffset": 541304,
+          "meshletTriangleIndexOffset": 1323228,
+          "meshletGroupOffset": 1374,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2295100688934326,
+              3.995919942855835,
+              -0.8113560080528259
+            ],
+            "max": [
+              -2.2129299640655518,
+              4.040259838104248,
+              -0.7381250262260437
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 84,
+      "name": "Mesh (27)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 1205,
+          "triangleCount": 832,
+          "meshletCount": 29,
+          "meshletVertexCount": 1455,
+          "meshletTriangleIndexCount": 2496,
+          "meshletOffset": 10629,
+          "meshletVertexOffset": 541410,
+          "meshletTriangleIndexOffset": 1323360,
+          "meshletGroupOffset": 1375,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              -2.3346500396728516,
+              1.4055099487304688,
+              -1.4235999584197998
+            ],
+            "max": [
+              -2.151050090789795,
+              1.6029399633407593,
+              -1.3568300008773804
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 85,
+      "name": "Mesh (28)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 62,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 62,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10658,
+          "meshletVertexOffset": 542865,
+          "meshletTriangleIndexOffset": 1325856,
+          "meshletGroupOffset": 1379,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3678700923919678,
+              3.7300100326538086,
+              -1.1680699586868286
+            ],
+            "max": [
+              -2.194780111312866,
+              3.765360116958618,
+              -0.9315680265426636
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 86,
+      "name": "Mesh (29)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 27,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 10659,
+          "meshletVertexOffset": 542927,
+          "meshletTriangleIndexOffset": 1325940,
+          "meshletGroupOffset": 1380,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.8812999725341797,
+              2.325579881668091,
+              -2.1939799785614014
+            ],
+            "max": [
+              -1.8812999725341797,
+              3.430799961090088,
+              -1.4991899728775024
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 87,
+      "name": "Mesh (3)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 3392,
+          "triangleCount": 3520,
+          "meshletCount": 93,
+          "meshletVertexCount": 4617,
+          "meshletTriangleIndexCount": 10560,
+          "meshletOffset": 10660,
+          "meshletVertexOffset": 542931,
+          "meshletTriangleIndexOffset": 1325946,
+          "meshletGroupOffset": 1381,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -2.3457400798797607,
+              1.3962500095367432,
+              -1.3923300504684448
+            ],
+            "max": [
+              -2.180759906768799,
+              1.575659990310669,
+              -1.2115600109100342
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 88,
+      "name": "Mesh (31)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 60,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 60,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10753,
+          "meshletVertexOffset": 547548,
+          "meshletTriangleIndexOffset": 1336506,
+          "meshletGroupOffset": 1393,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3715500831604004,
+              3.744570016860962,
+              -1.1677600145339966
+            ],
+            "max": [
+              -2.198470115661621,
+              3.7850100994110107,
+              -0.9314870238304138
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 89,
+      "name": "Mesh (32)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 51,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 51,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10754,
+          "meshletVertexOffset": 547608,
+          "meshletTriangleIndexOffset": 1336590,
+          "meshletGroupOffset": 1394,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.292639970779419,
+              3.785830020904541,
+              -1.0938400030136108
+            ],
+            "max": [
+              -2.1861701011657715,
+              3.810810089111328,
+              -0.9318749904632568
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 90,
+      "name": "Mesh (33)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 49,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 49,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10755,
+          "meshletVertexOffset": 547659,
+          "meshletTriangleIndexOffset": 1336674,
+          "meshletGroupOffset": 1395,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2842400074005127,
+              3.8122200965881348,
+              -1.1002800464630127
+            ],
+            "max": [
+              -2.1787900924682617,
+              3.84840989112854,
+              -0.9318749904632568
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 91,
+      "name": "Mesh (34)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 57,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 57,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 10756,
+          "meshletVertexOffset": 547708,
+          "meshletTriangleIndexOffset": 1336758,
+          "meshletGroupOffset": 1396,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3162200450897217,
+              3.655819892883301,
+              -0.8526650071144104
+            ],
+            "max": [
+              -2.1861701011657715,
+              3.676949977874756,
+              -0.6617050170898438
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 92,
+      "name": "Mesh (35)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 14459,
+          "triangleCount": 14848,
+          "meshletCount": 410,
+          "meshletVertexCount": 20204,
+          "meshletTriangleIndexCount": 44544,
+          "meshletOffset": 10757,
+          "meshletVertexOffset": 547765,
+          "meshletTriangleIndexOffset": 1336842,
+          "meshletGroupOffset": 1397,
+          "meshletGroupCount": 52,
+          "bounds": {
+            "min": [
+              -0.13154500722885132,
+              1.297379970550537,
+              -0.6861159801483154
+            ],
+            "max": [
+              0.9802550077438354,
+              2.201620101928711,
+              -0.05198900029063225
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 93,
+      "name": "Mesh (37)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 1619,
+          "triangleCount": 1280,
+          "meshletCount": 38,
+          "meshletVertexCount": 2033,
+          "meshletTriangleIndexCount": 3840,
+          "meshletOffset": 11167,
+          "meshletVertexOffset": 567969,
+          "meshletTriangleIndexOffset": 1381386,
+          "meshletGroupOffset": 1449,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -2.3087399005889893,
+              1.4301199913024902,
+              -1.3934600353240967
+            ],
+            "max": [
+              -2.140429973602295,
+              1.6129100322723389,
+              -1.210510015487671
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 94,
+      "name": "Mesh (38)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 56,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 56,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 11205,
+          "meshletVertexOffset": 570002,
+          "meshletTriangleIndexOffset": 1385226,
+          "meshletGroupOffset": 1454,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3592400550842285,
+              3.71370005607605,
+              -0.9032639861106873
+            ],
+            "max": [
+              -2.186160087585449,
+              3.751149892807007,
+              -0.6622459888458252
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 95,
+      "name": "Mesh (39)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 60,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 60,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 11206,
+          "meshletVertexOffset": 570058,
+          "meshletTriangleIndexOffset": 1385310,
+          "meshletGroupOffset": 1455,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.4105000495910645,
+              4.071169853210449,
+              -1.112529993057251
+            ],
+            "max": [
+              -2.1861701011657715,
+              4.111979961395264,
+              -0.9327300190925598
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 96,
+      "name": "Mesh (41)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 22,
+          "skipped": false,
+          "vertexCount": 31,
+          "triangleCount": 20,
+          "meshletCount": 1,
+          "meshletVertexCount": 31,
+          "meshletTriangleIndexCount": 60,
+          "meshletOffset": 11207,
+          "meshletVertexOffset": 570118,
+          "meshletTriangleIndexOffset": 1385394,
+          "meshletGroupOffset": 1456,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.911370038986206,
+              2.3560099601745605,
+              -0.038502998650074005
+            ],
+            "max": [
+              -1.4943100214004517,
+              3.4008800983428955,
+              -0.028537999838590622
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 97,
+      "name": "Mesh (42)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 57,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 57,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 11208,
+          "meshletVertexOffset": 570149,
+          "meshletTriangleIndexOffset": 1385454,
+          "meshletGroupOffset": 1457,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.359260082244873,
+              3.697580099105835,
+              -0.9049230217933655
+            ],
+            "max": [
+              -2.1861701011657715,
+              3.72802996635437,
+              -0.662306010723114
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 98,
+      "name": "Mesh (43)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 61,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 61,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 11209,
+          "meshletVertexOffset": 570206,
+          "meshletTriangleIndexOffset": 1385538,
+          "meshletGroupOffset": 1458,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.323390007019043,
+              4.117129802703857,
+              -1.148229956626892
+            ],
+            "max": [
+              -2.1861701011657715,
+              4.160860061645508,
+              -0.9326419830322266
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 99,
+      "name": "Mesh (44)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 14459,
+          "triangleCount": 14848,
+          "meshletCount": 413,
+          "meshletVertexCount": 20019,
+          "meshletTriangleIndexCount": 44544,
+          "meshletOffset": 11210,
+          "meshletVertexOffset": 570267,
+          "meshletTriangleIndexOffset": 1385622,
+          "meshletGroupOffset": 1459,
+          "meshletGroupCount": 52,
+          "bounds": {
+            "min": [
+              -0.6528639793395996,
+              3.9723498821258545,
+              -0.6926159858703613
+            ],
+            "max": [
+              1.2805800437927246,
+              4.876589775085449,
+              -0.05391399934887886
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 100,
+      "name": "Mesh (45)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 6753,
+          "triangleCount": 5120,
+          "meshletCount": 198,
+          "meshletVertexCount": 9956,
+          "meshletTriangleIndexCount": 15360,
+          "meshletOffset": 11623,
+          "meshletVertexOffset": 590286,
+          "meshletTriangleIndexOffset": 1430166,
+          "meshletGroupOffset": 1511,
+          "meshletGroupCount": 25,
+          "bounds": {
+            "min": [
+              -2.3463900089263916,
+              1.3954999446868896,
+              -1.393380045890808
+            ],
+            "max": [
+              -2.1783299446105957,
+              1.5780400037765503,
+              -1.210610032081604
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 101,
+      "name": "Mesh (46)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 58,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 58,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 11821,
+          "meshletVertexOffset": 600242,
+          "meshletTriangleIndexOffset": 1445526,
+          "meshletGroupOffset": 1536,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.323390007019043,
+              4.164690017700195,
+              -1.1792099475860596
+            ],
+            "max": [
+              -2.1861701011657715,
+              4.209670066833496,
+              -0.9328290224075317
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 102,
+      "name": "Mesh (47)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 298,
+          "triangleCount": 128,
+          "meshletCount": 6,
+          "meshletVertexCount": 308,
+          "meshletTriangleIndexCount": 384,
+          "meshletOffset": 11822,
+          "meshletVertexOffset": 600300,
+          "meshletTriangleIndexOffset": 1445610,
+          "meshletGroupOffset": 1537,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.440890073776245,
+              3.741339921951294,
+              -1.676650047302246
+            ],
+            "max": [
+              -2.4334499835968018,
+              3.9277501106262207,
+              -1.412369966506958
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 103,
+      "name": "Mesh (48)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 28,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 11828,
+          "meshletVertexOffset": 600608,
+          "meshletTriangleIndexOffset": 1445994,
+          "meshletGroupOffset": 1538,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.438420057296753,
+              3.7541399002075195,
+              -1.9697999954223633
+            ],
+            "max": [
+              -2.4344398975372314,
+              3.914940118789673,
+              -1.7341200113296509
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 104,
+      "name": "Mesh (49)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 29,
+          "skipped": false,
+          "vertexCount": 170,
+          "triangleCount": 76,
+          "meshletCount": 3,
+          "meshletVertexCount": 174,
+          "meshletTriangleIndexCount": 228,
+          "meshletOffset": 11829,
+          "meshletVertexOffset": 600612,
+          "meshletTriangleIndexOffset": 1446000,
+          "meshletGroupOffset": 1539,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.38382500410079956,
+              2.784820079803467,
+              -0.4663180112838745
+            ],
+            "max": [
+              0.7008360028266907,
+              3.131850004196167,
+              -0.4619370102882385
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 105,
+      "name": "Mesh (50)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 300,
+          "triangleCount": 128,
+          "meshletCount": 6,
+          "meshletVertexCount": 310,
+          "meshletTriangleIndexCount": 384,
+          "meshletOffset": 11832,
+          "meshletVertexOffset": 600786,
+          "meshletTriangleIndexOffset": 1446228,
+          "meshletGroupOffset": 1540,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.440700054168701,
+              3.741339921951294,
+              -1.9842699766159058
+            ],
+            "max": [
+              -2.4316000938415527,
+              3.9277501106262207,
+              -1.7199900150299072
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 106,
+      "name": "Mesh (51)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 30,
+          "skipped": false,
+          "vertexCount": 67,
+          "triangleCount": 42,
+          "meshletCount": 2,
+          "meshletVertexCount": 81,
+          "meshletTriangleIndexCount": 126,
+          "meshletOffset": 11838,
+          "meshletVertexOffset": 601096,
+          "meshletTriangleIndexOffset": 1446612,
+          "meshletGroupOffset": 1541,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.8967399597167969,
+              2.3169898986816406,
+              -2.2024199962615967
+            ],
+            "max": [
+              -1.8812600374221802,
+              3.439389944076538,
+              -1.4688899517059326
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 107,
+      "name": "Mesh (52)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 1699,
+          "triangleCount": 1296,
+          "meshletCount": 45,
+          "meshletVertexCount": 2264,
+          "meshletTriangleIndexCount": 3888,
+          "meshletOffset": 11840,
+          "meshletVertexOffset": 601177,
+          "meshletTriangleIndexOffset": 1446738,
+          "meshletGroupOffset": 1542,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -2.3125898838043213,
+              1.4249299764633179,
+              -1.430400013923645
+            ],
+            "max": [
+              -2.1687700748443604,
+              1.5775699615478516,
+              -1.4185800552368164
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 108,
+      "name": "Mesh (53)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 31,
+          "skipped": false,
+          "vertexCount": 2357,
+          "triangleCount": 2688,
+          "meshletCount": 60,
+          "meshletVertexCount": 3052,
+          "meshletTriangleIndexCount": 8064,
+          "meshletOffset": 11885,
+          "meshletVertexOffset": 603441,
+          "meshletTriangleIndexOffset": 1450626,
+          "meshletGroupOffset": 1548,
+          "meshletGroupCount": 8,
+          "bounds": {
+            "min": [
+              0.047793999314308167,
+              2.5588200092315674,
+              -2.703350067138672
+            ],
+            "max": [
+              0.7197660207748413,
+              3.2278800010681152,
+              -2.1179099082946777
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 109,
+      "name": "Mesh (54)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 32,
+          "skipped": false,
+          "vertexCount": 140,
+          "triangleCount": 76,
+          "meshletCount": 3,
+          "meshletVertexCount": 159,
+          "meshletTriangleIndexCount": 228,
+          "meshletOffset": 11945,
+          "meshletVertexOffset": 606493,
+          "meshletTriangleIndexOffset": 1458690,
+          "meshletGroupOffset": 1556,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2075300216674805,
+              2.3297300338745117,
+              -0.0931520015001297
+            ],
+            "max": [
+              -1.4667999744415283,
+              3.4271600246429443,
+              -0.03856499865651131
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 110,
+      "name": "Mesh (55)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 571,
+          "triangleCount": 288,
+          "meshletCount": 12,
+          "meshletVertexCount": 578,
+          "meshletTriangleIndexCount": 864,
+          "meshletOffset": 11948,
+          "meshletVertexOffset": 606652,
+          "meshletTriangleIndexOffset": 1458918,
+          "meshletGroupOffset": 1557,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -2.4443399906158447,
+              1.059149980545044,
+              -2.6656200885772705
+            ],
+            "max": [
+              3.010390043258667,
+              8.045280456542969,
+              -2.6120500564575195
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 111,
+      "name": "Mesh (57)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 33,
+          "skipped": false,
+          "vertexCount": 1553,
+          "triangleCount": 1680,
+          "meshletCount": 43,
+          "meshletVertexCount": 2201,
+          "meshletTriangleIndexCount": 5040,
+          "meshletOffset": 11960,
+          "meshletVertexOffset": 607230,
+          "meshletTriangleIndexOffset": 1459782,
+          "meshletGroupOffset": 1559,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              0.693444013595581,
+              4.451729774475098,
+              -0.8735229969024658
+            ],
+            "max": [
+              1.0780999660491943,
+              4.797520160675049,
+              -0.4033389985561371
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 112,
+      "name": "Mesh (58)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 22,
+          "skipped": false,
+          "vertexCount": 538,
+          "triangleCount": 360,
+          "meshletCount": 13,
+          "meshletVertexCount": 669,
+          "meshletTriangleIndexCount": 1080,
+          "meshletOffset": 12003,
+          "meshletVertexOffset": 609431,
+          "meshletTriangleIndexOffset": 1464822,
+          "meshletGroupOffset": 1565,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -2.4410200119018555,
+              3.768670082092285,
+              -0.34642499685287476
+            ],
+            "max": [
+              -2.437079906463623,
+              3.8838000297546387,
+              -0.3388440012931824
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 113,
+      "name": "Mesh (6)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 62,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 62,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 12016,
+          "meshletVertexOffset": 610100,
+          "meshletTriangleIndexOffset": 1465902,
+          "meshletGroupOffset": 1567,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2895700931549072,
+              4.043630123138428,
+              -1.0398999452590942
+            ],
+            "max": [
+              -2.216909885406494,
+              4.0840301513671875,
+              -0.9326099753379822
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 114,
+      "name": "Mesh (60)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 33,
+          "skipped": false,
+          "vertexCount": 1598,
+          "triangleCount": 1680,
+          "meshletCount": 42,
+          "meshletVertexCount": 2251,
+          "meshletTriangleIndexCount": 5040,
+          "meshletOffset": 12017,
+          "meshletVertexOffset": 610162,
+          "meshletTriangleIndexOffset": 1465986,
+          "meshletGroupOffset": 1568,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -0.4861299991607666,
+              4.370369911193848,
+              -0.844199001789093
+            ],
+            "max": [
+              -0.048055000603199005,
+              4.769579887390137,
+              -0.4441719949245453
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 115,
+      "name": "Mesh (61)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 34,
+          "skipped": false,
+          "vertexCount": 1167,
+          "triangleCount": 1104,
+          "meshletCount": 32,
+          "meshletVertexCount": 1547,
+          "meshletTriangleIndexCount": 3312,
+          "meshletOffset": 12059,
+          "meshletVertexOffset": 612413,
+          "meshletTriangleIndexOffset": 1471026,
+          "meshletGroupOffset": 1574,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              -1.8084900379180908,
+              3.00393009185791,
+              -1.342479944229126
+            ],
+            "max": [
+              -1.7525999546051025,
+              3.0598199367523193,
+              -1.3030600547790527
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 116,
+      "name": "Mesh (64)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 34,
+          "skipped": false,
+          "vertexCount": 1329,
+          "triangleCount": 1296,
+          "meshletCount": 34,
+          "meshletVertexCount": 1707,
+          "meshletTriangleIndexCount": 3888,
+          "meshletOffset": 12091,
+          "meshletVertexOffset": 613960,
+          "meshletTriangleIndexOffset": 1474338,
+          "meshletGroupOffset": 1578,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -1.826640009880066,
+              3.207779884338379,
+              -1.3881399631500244
+            ],
+            "max": [
+              -1.7344399690628052,
+              3.299989938735962,
+              -1.3028000593185425
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 117,
+      "name": "Mesh (65)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 59,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 59,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 12125,
+          "meshletVertexOffset": 615667,
+          "meshletTriangleIndexOffset": 1478226,
+          "meshletGroupOffset": 1583,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2928500175476074,
+              3.8488399982452393,
+              -1.0567899942398071
+            ],
+            "max": [
+              -2.2058498859405518,
+              3.869990110397339,
+              -0.9314860105514526
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 118,
+      "name": "Mesh (66)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 1608,
+          "triangleCount": 1248,
+          "meshletCount": 39,
+          "meshletVertexCount": 2024,
+          "meshletTriangleIndexCount": 3744,
+          "meshletOffset": 12126,
+          "meshletVertexOffset": 615726,
+          "meshletTriangleIndexOffset": 1478310,
+          "meshletGroupOffset": 1584,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              0.2511509954929352,
+              2.865230083465576,
+              -0.5469440221786499
+            ],
+            "max": [
+              0.32519400119781494,
+              2.9391798973083496,
+              -0.47105199098587036
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 119,
+      "name": "Mesh (67)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 3193,
+          "triangleCount": 1720,
+          "meshletCount": 72,
+          "meshletVertexCount": 3400,
+          "meshletTriangleIndexCount": 5160,
+          "meshletOffset": 12165,
+          "meshletVertexOffset": 617750,
+          "meshletTriangleIndexOffset": 1482054,
+          "meshletGroupOffset": 1589,
+          "meshletGroupCount": 9,
+          "bounds": {
+            "min": [
+              -2.1210899353027344,
+              1.5039900541305542,
+              -1.0628399848937988
+            ],
+            "max": [
+              -2.105299949645996,
+              1.9689699411392212,
+              -0.1863050013780594
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 120,
+      "name": "Mesh (68)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 683,
+          "triangleCount": 960,
+          "meshletCount": 18,
+          "meshletVertexCount": 914,
+          "meshletTriangleIndexCount": 2880,
+          "meshletOffset": 12237,
+          "meshletVertexOffset": 621150,
+          "meshletTriangleIndexOffset": 1487214,
+          "meshletGroupOffset": 1598,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -2.2336699962615967,
+              1.4548300504684448,
+              -1.3671599626541138
+            ],
+            "max": [
+              -2.160290002822876,
+              1.5346299409866333,
+              -1.2587599754333496
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 121,
+      "name": "Mesh (69)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 35,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 12255,
+          "meshletVertexOffset": 622064,
+          "meshletTriangleIndexOffset": 1490094,
+          "meshletGroupOffset": 1601,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.4345099925994873,
+              1.5494799613952637,
+              -2.1197900772094727
+            ],
+            "max": [
+              -2.422369956970215,
+              1.9342399835586548,
+              -1.555899977684021
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 122,
+      "name": "Mesh (7)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 351,
+          "triangleCount": 172,
+          "meshletCount": 8,
+          "meshletVertexCount": 367,
+          "meshletTriangleIndexCount": 516,
+          "meshletOffset": 12256,
+          "meshletVertexOffset": 622068,
+          "meshletTriangleIndexOffset": 1490100,
+          "meshletGroupOffset": 1602,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.4953269958496094,
+              3.2055599689483643,
+              -0.37275299429893494
+            ],
+            "max": [
+              0.5709609985351562,
+              3.2213499546051025,
+              -0.3604559898376465
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 123,
+      "name": "Mesh (70)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 104,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 12264,
+          "meshletVertexOffset": 622435,
+          "meshletTriangleIndexOffset": 1490616,
+          "meshletGroupOffset": 1603,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2296299934387207,
+              3.9510600566864014,
+              -0.8026670217514038
+            ],
+            "max": [
+              -2.215679883956909,
+              4.001870155334473,
+              -0.7306420207023621
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 124,
+      "name": "Mesh (71)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 557,
+          "triangleCount": 372,
+          "meshletCount": 14,
+          "meshletVertexCount": 716,
+          "meshletTriangleIndexCount": 1116,
+          "meshletOffset": 12266,
+          "meshletVertexOffset": 622541,
+          "meshletTriangleIndexOffset": 1490748,
+          "meshletGroupOffset": 1604,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -0.19631299376487732,
+              0.46628499031066895,
+              -2.7482399940490723
+            ],
+            "max": [
+              0.6273059844970703,
+              0.4706299901008606,
+              -2.4707300662994385
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 125,
+      "name": "Mesh (73)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 106,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 12280,
+          "meshletVertexOffset": 623257,
+          "meshletTriangleIndexOffset": 1491864,
+          "meshletGroupOffset": 1606,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2295100688934326,
+              3.914030075073242,
+              -0.8061310052871704
+            ],
+            "max": [
+              -2.2138500213623047,
+              3.957710027694702,
+              -0.7341060042381287
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 126,
+      "name": "Mesh (74)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 303,
+          "triangleCount": 128,
+          "meshletCount": 6,
+          "meshletVertexCount": 303,
+          "meshletTriangleIndexCount": 384,
+          "meshletOffset": 12282,
+          "meshletVertexOffset": 623363,
+          "meshletTriangleIndexOffset": 1491996,
+          "meshletGroupOffset": 1607,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.440890073776245,
+              3.972759962081909,
+              -1.676650047302246
+            ],
+            "max": [
+              -2.4334499835968018,
+              4.159160137176514,
+              -1.412369966506958
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 127,
+      "name": "Mesh (75)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 305,
+          "triangleCount": 224,
+          "meshletCount": 6,
+          "meshletVertexCount": 334,
+          "meshletTriangleIndexCount": 672,
+          "meshletOffset": 12288,
+          "meshletVertexOffset": 623666,
+          "meshletTriangleIndexOffset": 1492380,
+          "meshletGroupOffset": 1608,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1.8974299430847168,
+              2.696320056915283,
+              -0.3052090108394623
+            ],
+            "max": [
+              -1.8857899904251099,
+              3.060570001602173,
+              -0.1914989948272705
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 128,
+      "name": "Mesh (77)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 16,
+          "skipped": false,
+          "vertexCount": 1511,
+          "triangleCount": 1584,
+          "meshletCount": 35,
+          "meshletVertexCount": 1904,
+          "meshletTriangleIndexCount": 4752,
+          "meshletOffset": 12294,
+          "meshletVertexOffset": 624000,
+          "meshletTriangleIndexOffset": 1493052,
+          "meshletGroupOffset": 1609,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -2.344599962234497,
+              1.3973000049591064,
+              -1.3923300504684448
+            ],
+            "max": [
+              -2.1417200565338135,
+              1.6115599870681763,
+              -1.2115299701690674
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 129,
+      "name": "Mesh (8)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 345,
+          "triangleCount": 172,
+          "meshletCount": 8,
+          "meshletVertexCount": 360,
+          "meshletTriangleIndexCount": 516,
+          "meshletOffset": 12329,
+          "meshletVertexOffset": 625904,
+          "meshletTriangleIndexOffset": 1497804,
+          "meshletGroupOffset": 1614,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              0.4960229992866516,
+              2.6926798820495605,
+              -0.37275299429893494
+            ],
+            "max": [
+              0.5716570019721985,
+              2.708470106124878,
+              -0.3604559898376465
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 130,
+      "name": "Mesh (80)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 6603,
+          "triangleCount": 8128,
+          "meshletCount": 185,
+          "meshletVertexCount": 9503,
+          "meshletTriangleIndexCount": 24384,
+          "meshletOffset": 12337,
+          "meshletVertexOffset": 626264,
+          "meshletTriangleIndexOffset": 1498320,
+          "meshletGroupOffset": 1615,
+          "meshletGroupCount": 24,
+          "bounds": {
+            "min": [
+              0.07503499835729599,
+              1.2430499792099,
+              -0.8883960247039795
+            ],
+            "max": [
+              0.7745720148086548,
+              1.4975099563598633,
+              -0.3484480082988739
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 131,
+      "name": "Mesh (81)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 8564,
+          "triangleCount": 9344,
+          "meshletCount": 227,
+          "meshletVertexCount": 11366,
+          "meshletTriangleIndexCount": 28032,
+          "meshletOffset": 12522,
+          "meshletVertexOffset": 635767,
+          "meshletTriangleIndexOffset": 1522704,
+          "meshletGroupOffset": 1639,
+          "meshletGroupCount": 29,
+          "bounds": {
+            "min": [
+              -2.083319902420044,
+              2.6133899688720703,
+              -0.8909429907798767
+            ],
+            "max": [
+              -1.8664799928665161,
+              3.1435000896453857,
+              -0.09246999770402908
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 132,
+      "name": "Mesh (82)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 3280,
+          "triangleCount": 4224,
+          "meshletCount": 101,
+          "meshletVertexCount": 5052,
+          "meshletTriangleIndexCount": 12672,
+          "meshletOffset": 12749,
+          "meshletVertexOffset": 647133,
+          "meshletTriangleIndexOffset": 1550736,
+          "meshletGroupOffset": 1668,
+          "meshletGroupCount": 13,
+          "bounds": {
+            "min": [
+              0.11612900346517563,
+              2.807569980621338,
+              -0.5127589702606201
+            ],
+            "max": [
+              0.3896369934082031,
+              3.0810799598693848,
+              -0.46194198727607727
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 133,
+      "name": "Mesh (83)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 34,
+          "skipped": false,
+          "vertexCount": 1204,
+          "triangleCount": 1200,
+          "meshletCount": 33,
+          "meshletVertexCount": 1593,
+          "meshletTriangleIndexCount": 3600,
+          "meshletOffset": 12850,
+          "meshletVertexOffset": 652185,
+          "meshletTriangleIndexOffset": 1563408,
+          "meshletGroupOffset": 1681,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -1.8151099681854248,
+              3.0980000495910645,
+              -1.3628699779510498
+            ],
+            "max": [
+              -1.7459700107574463,
+              3.1671299934387207,
+              -1.302880048751831
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 134,
+      "name": "Mesh (84)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 3138,
+          "triangleCount": 4352,
+          "meshletCount": 82,
+          "meshletVertexCount": 4131,
+          "meshletTriangleIndexCount": 13056,
+          "meshletOffset": 12883,
+          "meshletVertexOffset": 653778,
+          "meshletTriangleIndexOffset": 1567008,
+          "meshletGroupOffset": 1686,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              1.6847599744796753,
+              2.4145400524139404,
+              -0.5007330179214478
+            ],
+            "max": [
+              2.570849895477295,
+              3.1837000846862793,
+              -0.053213998675346375
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 135,
+      "name": "Mesh (85)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 22,
+          "skipped": false,
+          "vertexCount": 1546,
+          "triangleCount": 972,
+          "meshletCount": 34,
+          "meshletVertexCount": 1714,
+          "meshletTriangleIndexCount": 2916,
+          "meshletOffset": 12965,
+          "meshletVertexOffset": 657909,
+          "meshletTriangleIndexOffset": 1580064,
+          "meshletGroupOffset": 1697,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -2.442430019378662,
+              3.7581799030303955,
+              -0.3800930082798004
+            ],
+            "max": [
+              -2.4350099563598633,
+              3.894289970397949,
+              -0.30522799491882324
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 136,
+      "name": "Mesh (86)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 4202,
+          "triangleCount": 1408,
+          "meshletCount": 69,
+          "meshletVertexCount": 4209,
+          "meshletTriangleIndexCount": 4224,
+          "meshletOffset": 12999,
+          "meshletVertexOffset": 659623,
+          "meshletTriangleIndexOffset": 1582980,
+          "meshletGroupOffset": 1702,
+          "meshletGroupCount": 9,
+          "bounds": {
+            "min": [
+              -2.294029951095581,
+              1.5454299449920654,
+              -1.3212900161743164
+            ],
+            "max": [
+              -2.240190029144287,
+              1.603700041770935,
+              -1.3164199590682983
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 137,
+      "name": "Mesh (87)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 59,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 59,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 13068,
+          "meshletVertexOffset": 663832,
+          "meshletTriangleIndexOffset": 1587204,
+          "meshletGroupOffset": 1711,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.3432700634002686,
+              3.706429958343506,
+              -1.147320032119751
+            ],
+            "max": [
+              -2.200930118560791,
+              3.7428500652313232,
+              -0.9310799837112427
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 138,
+      "name": "Mesh (88)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 6293,
+          "triangleCount": 8704,
+          "meshletCount": 178,
+          "meshletVertexCount": 8610,
+          "meshletTriangleIndexCount": 26112,
+          "meshletOffset": 13069,
+          "meshletVertexOffset": 663891,
+          "meshletTriangleIndexOffset": 1587288,
+          "meshletGroupOffset": 1712,
+          "meshletGroupCount": 23,
+          "bounds": {
+            "min": [
+              -0.45410698652267456,
+              3.980570077896118,
+              -0.5026580095291138
+            ],
+            "max": [
+              1.084220051765442,
+              4.866660118103027,
+              -0.055139001458883286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 139,
+      "name": "Mesh (89)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 1615,
+          "triangleCount": 1248,
+          "meshletCount": 36,
+          "meshletVertexCount": 1954,
+          "meshletTriangleIndexCount": 3744,
+          "meshletOffset": 13247,
+          "meshletVertexOffset": 672501,
+          "meshletTriangleIndexOffset": 1613400,
+          "meshletGroupOffset": 1735,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              0.1792459934949875,
+              2.8434200286865234,
+              -0.541595995426178
+            ],
+            "max": [
+              0.25448501110076904,
+              2.9179000854492188,
+              -0.46793100237846375
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 140,
+      "name": "Mesh (90)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 61,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 61,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 13283,
+          "meshletVertexOffset": 674455,
+          "meshletTriangleIndexOffset": 1617144,
+          "meshletGroupOffset": 1740,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.359260082244873,
+              3.6739699840545654,
+              -0.84415602684021
+            ],
+            "max": [
+              -2.1861701011657715,
+              3.708709955215454,
+              -0.6622650027275085
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 141,
+      "name": "Mesh (91)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 13036,
+          "triangleCount": 13568,
+          "meshletCount": 355,
+          "meshletVertexCount": 18752,
+          "meshletTriangleIndexCount": 40704,
+          "meshletOffset": 13284,
+          "meshletVertexOffset": 674516,
+          "meshletTriangleIndexOffset": 1617228,
+          "meshletGroupOffset": 1741,
+          "meshletGroupCount": 45,
+          "bounds": {
+            "min": [
+              0.017178000882267952,
+              2.734220027923584,
+              -0.2588050067424774
+            ],
+            "max": [
+              1.0491100549697876,
+              3.17864990234375,
+              -0.04260199889540672
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 142,
+      "name": "Mesh (92)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 36,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 13639,
+          "meshletVertexOffset": 693268,
+          "meshletTriangleIndexOffset": 1657932,
+          "meshletGroupOffset": 1786,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.438420057296753,
+              3.9855599403381348,
+              -1.9697999954223633
+            ],
+            "max": [
+              -2.4344398975372314,
+              4.146359920501709,
+              -1.7341200113296509
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 143,
+      "name": "Mesh (93)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 1549,
+          "triangleCount": 1248,
+          "meshletCount": 35,
+          "meshletVertexCount": 1940,
+          "meshletTriangleIndexCount": 3744,
+          "meshletOffset": 13640,
+          "meshletVertexOffset": 693272,
+          "meshletTriangleIndexOffset": 1657938,
+          "meshletGroupOffset": 1787,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              0.17523500323295593,
+              2.9171700477600098,
+              -0.5494400262832642
+            ],
+            "max": [
+              0.2498520016670227,
+              2.9911201000213623,
+              -0.4720019996166229
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 144,
+      "name": "Mesh (94)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 920,
+          "triangleCount": 768,
+          "meshletCount": 22,
+          "meshletVertexCount": 1115,
+          "meshletTriangleIndexCount": 2304,
+          "meshletOffset": 13675,
+          "meshletVertexOffset": 695212,
+          "meshletTriangleIndexOffset": 1661682,
+          "meshletGroupOffset": 1792,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -2.2322399616241455,
+              1.4562300443649292,
+              -1.3669699430465698
+            ],
+            "max": [
+              -2.1570799350738525,
+              1.5375800132751465,
+              -1.2585300207138062
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 145,
+      "name": "Mesh (95)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 100,
+          "triangleCount": 44,
+          "meshletCount": 2,
+          "meshletVertexCount": 102,
+          "meshletTriangleIndexCount": 132,
+          "meshletOffset": 13697,
+          "meshletVertexOffset": 696327,
+          "meshletTriangleIndexOffset": 1663986,
+          "meshletGroupOffset": 1795,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.2423601150512695,
+              3.9550399780273438,
+              -0.6723440289497375
+            ],
+            "max": [
+              -2.1981799602508545,
+              4.0515899658203125,
+              -0.662352979183197
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 146,
+      "name": "Mesh (96)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 26,
+          "skipped": false,
+          "vertexCount": 55,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 55,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 13699,
+          "meshletVertexOffset": 696429,
+          "meshletTriangleIndexOffset": 1664118,
+          "meshletGroupOffset": 1796,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.350029945373535,
+              4.0909199714660645,
+              -1.150130033493042
+            ],
+            "max": [
+              -2.176949977874756,
+              4.142739772796631,
+              -0.9334849715232849
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 147,
+      "name": "Mesh (97)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 678,
+          "triangleCount": 412,
+          "meshletCount": 14,
+          "meshletVertexCount": 766,
+          "meshletTriangleIndexCount": 1236,
+          "meshletOffset": 13700,
+          "meshletVertexOffset": 696484,
+          "meshletTriangleIndexOffset": 1664202,
+          "meshletGroupOffset": 1797,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -1.2430299520492554,
+              0.6068429946899414,
+              -2.775399923324585
+            ],
+            "max": [
+              -0.6983910202980042,
+              0.9292770028114319,
+              -2.7307701110839844
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 148,
+      "name": "Mesh (99)",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 37,
+          "skipped": false,
+          "vertexCount": 4,
+          "triangleCount": 2,
+          "meshletCount": 1,
+          "meshletVertexCount": 4,
+          "meshletTriangleIndexCount": 6,
+          "meshletOffset": 13714,
+          "meshletVertexOffset": 697250,
+          "meshletTriangleIndexOffset": 1665438,
+          "meshletGroupOffset": 1799,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -2.438699960708618,
+              3.7541399002075195,
+              -1.6621899604797363
+            ],
+            "max": [
+              -2.4362099170684814,
+              3.914940118789673,
+              -1.4264899492263794
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "mesh": 149,
+      "name": "WhitePaint",
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 38,
+          "skipped": false,
+          "vertexCount": 29871,
+          "triangleCount": 25483,
+          "meshletCount": 734,
+          "meshletVertexCount": 36376,
+          "meshletTriangleIndexCount": 76449,
+          "meshletOffset": 13715,
+          "meshletVertexOffset": 697254,
+          "meshletTriangleIndexOffset": 1665444,
+          "meshletGroupOffset": 1800,
+          "meshletGroupCount": 92,
+          "bounds": {
+            "min": [
+              -2.440079927444458,
+              0.3702099919319153,
+              -3.1712100505828857
+            ],
+            "max": [
+              3.0048298835754395,
+              4.229100227355957,
+              -0.02873699925839901
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "meshlets": {
+      "offset": 0,
+      "stride": 80,
+      "count": 14449
+    },
+    "meshletVertices": {
+      "offset": 1155920,
+      "stride": 4,
+      "count": 733630,
+      "elementType": "uint32"
+    },
+    "meshletTriangles": {
+      "offset": 4090448,
+      "stride": 1,
+      "count": 1741893,
+      "elementType": "uint8"
+    },
+    "meshletGroups": {
+      "offset": 5832352,
+      "stride": 64,
+      "count": 1892
+    }
+  },
+  "binary": "living_room.meshlet.bin"
+}

@@ -1,0 +1,2936 @@
+{
+  "version": 2,
+  "generator": "tools/meshlet_preprocessor.js",
+  "generatedAt": "2026-03-13T06:03:31.674Z",
+  "settings": {
+    "maxVertices": 64,
+    "minTriangles": 24,
+    "maxTriangles": 124,
+    "fillWeight": 0.5,
+    "clusterGroupSize": 8
+  },
+  "source": {
+    "gltf": "Sponza.gltf",
+    "buffers": [
+      "Sponza.bin"
+    ],
+    "hash": "d9dd4ee092ba8394f98a24cb01b33534ba548e02"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": null,
+      "primitives": [
+        {
+          "primitive": 0,
+          "mode": 4,
+          "material": 0,
+          "skipped": false,
+          "vertexCount": 3175,
+          "triangleCount": 3640,
+          "meshletCount": 90,
+          "meshletVertexCount": 4910,
+          "meshletTriangleIndexCount": 10920,
+          "meshletOffset": 0,
+          "meshletVertexOffset": 0,
+          "meshletTriangleIndexOffset": 0,
+          "meshletGroupOffset": 0,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              449.5628967285156,
+              85.37139892578125,
+              152.0906982421875
+            ],
+            "max": [
+              540.9965209960938,
+              210.9434051513672,
+              244.8979949951172
+            ]
+          }
+        },
+        {
+          "primitive": 1,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 533,
+          "triangleCount": 468,
+          "meshletCount": 14,
+          "meshletVertexCount": 756,
+          "meshletTriangleIndexCount": 1404,
+          "meshletOffset": 90,
+          "meshletVertexOffset": 4910,
+          "meshletTriangleIndexOffset": 10920,
+          "meshletGroupOffset": 12,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -277.3555908203125,
+              46.08150100708008,
+              -252.99859619140625
+            ],
+            "max": [
+              -209.1302032470703,
+              73.12359619140625,
+              -189.0428009033203
+            ]
+          }
+        },
+        {
+          "primitive": 2,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1809,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 104,
+          "meshletVertexOffset": 5666,
+          "meshletTriangleIndexOffset": 12324,
+          "meshletGroupOffset": 14,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -271.2546081542969,
+              -0.14010000228881836,
+              -250.77699279785156
+            ],
+            "max": [
+              -219.32369995117188,
+              56.199501037597656,
+              -198.78799438476562
+            ]
+          }
+        },
+        {
+          "primitive": 3,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 753,
+          "triangleCount": 1362,
+          "meshletCount": 22,
+          "meshletVertexCount": 999,
+          "meshletTriangleIndexCount": 4086,
+          "meshletOffset": 141,
+          "meshletVertexOffset": 7475,
+          "meshletTriangleIndexOffset": 18957,
+          "meshletGroupOffset": 19,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -1424.663818359375,
+              493.0472106933594,
+              -163.38650512695312
+            ],
+            "max": [
+              -1401.679931640625,
+              758.5531005859375,
+              85.7051010131836
+            ]
+          }
+        },
+        {
+          "primitive": 4,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 128,
+          "triangleCount": 108,
+          "meshletCount": 3,
+          "meshletVertexCount": 151,
+          "meshletTriangleIndexCount": 324,
+          "meshletOffset": 163,
+          "meshletVertexOffset": 8474,
+          "meshletTriangleIndexOffset": 23043,
+          "meshletGroupOffset": 22,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1045.740966796875,
+              221.48770141601562,
+              -310.1346130371094
+            ],
+            "max": [
+              914.80078125,
+              495.6896057128906,
+              238.67950439453125
+            ]
+          }
+        },
+        {
+          "primitive": 5,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 560,
+          "triangleCount": 280,
+          "meshletCount": 10,
+          "meshletVertexCount": 562,
+          "meshletTriangleIndexCount": 840,
+          "meshletOffset": 166,
+          "meshletVertexOffset": 8625,
+          "meshletTriangleIndexOffset": 23367,
+          "meshletGroupOffset": 23,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -1048.3079833984375,
+              492.9888000488281,
+              -318.1059875488281
+            ],
+            "max": [
+              917.6837158203125,
+              507.8031921386719,
+              243.55810546875
+            ]
+          }
+        },
+        {
+          "primitive": 6,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 1864,
+          "triangleCount": 2332,
+          "meshletCount": 42,
+          "meshletVertexCount": 2243,
+          "meshletTriangleIndexCount": 6996,
+          "meshletOffset": 176,
+          "meshletVertexOffset": 9187,
+          "meshletTriangleIndexOffset": 24207,
+          "meshletGroupOffset": 25,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -1429.452392578125,
+              215.80360412597656,
+              -645.1483154296875
+            ],
+            "max": [
+              1302.20166015625,
+              383.9880065917969,
+              574.9027099609375
+            ]
+          }
+        },
+        {
+          "primitive": 7,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 1708,
+          "triangleCount": 1456,
+          "meshletCount": 40,
+          "meshletVertexCount": 1908,
+          "meshletTriangleIndexCount": 4368,
+          "meshletOffset": 218,
+          "meshletVertexOffset": 11430,
+          "meshletTriangleIndexOffset": 31203,
+          "meshletGroupOffset": 31,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -658.5947875976562,
+              -2.460700035095215,
+              -316.86920166015625
+            ],
+            "max": [
+              528.9411010742188,
+              220.99710083007812,
+              244.57009887695312
+            ]
+          }
+        },
+        {
+          "primitive": 8,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 3192,
+          "triangleCount": 2896,
+          "meshletCount": 80,
+          "meshletVertexCount": 4135,
+          "meshletTriangleIndexCount": 8688,
+          "meshletOffset": 258,
+          "meshletVertexOffset": 13338,
+          "meshletTriangleIndexOffset": 35571,
+          "meshletGroupOffset": 36,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -1041.22900390625,
+              211.39549255371094,
+              -305.53790283203125
+            ],
+            "max": [
+              912.8480834960938,
+              410.4053039550781,
+              233.32640075683594
+            ]
+          }
+        },
+        {
+          "primitive": 9,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 16,
+          "triangleCount": 16,
+          "meshletCount": 1,
+          "meshletVertexCount": 16,
+          "meshletTriangleIndexCount": 48,
+          "meshletOffset": 338,
+          "meshletVertexOffset": 17473,
+          "meshletTriangleIndexOffset": 44259,
+          "meshletGroupOffset": 46,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1432.224365234375,
+              415.5303039550781,
+              -645.4310302734375
+            ],
+            "max": [
+              1302.220947265625,
+              415.5303039550781,
+              574.1851806640625
+            ]
+          }
+        },
+        {
+          "primitive": 10,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 1864,
+          "triangleCount": 2332,
+          "meshletCount": 42,
+          "meshletVertexCount": 2243,
+          "meshletTriangleIndexCount": 6996,
+          "meshletOffset": 339,
+          "meshletVertexOffset": 17489,
+          "meshletTriangleIndexOffset": 44307,
+          "meshletGroupOffset": 47,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -1429.452392578125,
+              694.46728515625,
+              -645.1483154296875
+            ],
+            "max": [
+              1302.20166015625,
+              862.651611328125,
+              574.9027099609375
+            ]
+          }
+        },
+        {
+          "primitive": 11,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 1172,
+          "triangleCount": 1096,
+          "meshletCount": 30,
+          "meshletVertexCount": 1600,
+          "meshletTriangleIndexCount": 3288,
+          "meshletOffset": 381,
+          "meshletVertexOffset": 19732,
+          "meshletTriangleIndexOffset": 51303,
+          "meshletGroupOffset": 53,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              -1029.183349609375,
+              695.7373046875,
+              -241.11900329589844
+            ],
+            "max": [
+              897.2501220703125,
+              820.1328125,
+              171.45469665527344
+            ]
+          }
+        },
+        {
+          "primitive": 12,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 6368,
+          "triangleCount": 3680,
+          "meshletCount": 145,
+          "meshletVertexCount": 6933,
+          "meshletTriangleIndexCount": 11040,
+          "meshletOffset": 411,
+          "meshletVertexOffset": 21332,
+          "meshletTriangleIndexOffset": 54591,
+          "meshletGroupOffset": 57,
+          "meshletGroupCount": 19,
+          "bounds": {
+            "min": [
+              -1046.2919921875,
+              507.1398010253906,
+              -315.4476013183594
+            ],
+            "max": [
+              917.5026245117188,
+              695.3228149414062,
+              243.35009765625
+            ]
+          }
+        },
+        {
+          "primitive": 13,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 216,
+          "triangleCount": 204,
+          "meshletCount": 4,
+          "meshletVertexCount": 224,
+          "meshletTriangleIndexCount": 612,
+          "meshletOffset": 556,
+          "meshletVertexOffset": 28265,
+          "meshletTriangleIndexOffset": 65631,
+          "meshletGroupOffset": 76,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1002.363525390625,
+              693.7667846679688,
+              -259.3258056640625
+            ],
+            "max": [
+              868.647216796875,
+              921.728515625,
+              185.96730041503906
+            ]
+          }
+        },
+        {
+          "primitive": 14,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 212,
+          "triangleCount": 204,
+          "meshletCount": 4,
+          "meshletVertexCount": 224,
+          "meshletTriangleIndexCount": 612,
+          "meshletOffset": 560,
+          "meshletVertexOffset": 28489,
+          "meshletTriangleIndexOffset": 66243,
+          "meshletGroupOffset": 77,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1022.56689453125,
+              693.7667846679688,
+              -295.4941101074219
+            ],
+            "max": [
+              892.6567993164062,
+              921.728515625,
+              225.29530334472656
+            ]
+          }
+        },
+        {
+          "primitive": 15,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 138,
+          "triangleCount": 148,
+          "meshletCount": 4,
+          "meshletVertexCount": 162,
+          "meshletTriangleIndexCount": 444,
+          "meshletOffset": 564,
+          "meshletVertexOffset": 28713,
+          "meshletTriangleIndexOffset": 66855,
+          "meshletGroupOffset": 78,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1002.3765258789062,
+              921.728515625,
+              -253.54859924316406
+            ],
+            "max": [
+              868.5941772460938,
+              1296.710693359375,
+              181.2987060546875
+            ]
+          }
+        },
+        {
+          "primitive": 16,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 568,
+          "meshletVertexOffset": 28875,
+          "meshletTriangleIndexOffset": 67299,
+          "meshletGroupOffset": 79,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              478.494384765625,
+              1215.901611328125,
+              -263.6247863769531
+            ],
+            "max": [
+              535.96142578125,
+              1273.487548828125,
+              -243.13319396972656
+            ]
+          }
+        },
+        {
+          "primitive": 17,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 570,
+          "meshletVertexOffset": 29001,
+          "meshletTriangleIndexOffset": 67779,
+          "meshletGroupOffset": 80,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              489.55450439453125,
+              1226.984619140625,
+              -271.4642028808594
+            ],
+            "max": [
+              524.9011840820312,
+              1262.404296875,
+              -255.96710205078125
+            ]
+          }
+        },
+        {
+          "primitive": 18,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 573,
+          "meshletVertexOffset": 29141,
+          "meshletTriangleIndexOffset": 68115,
+          "meshletGroupOffset": 81,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              108.36810302734375,
+              1215.901611328125,
+              -263.6247863769531
+            ],
+            "max": [
+              165.83509826660156,
+              1273.487548828125,
+              -243.13319396972656
+            ]
+          }
+        },
+        {
+          "primitive": 19,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 575,
+          "meshletVertexOffset": 29267,
+          "meshletTriangleIndexOffset": 68595,
+          "meshletGroupOffset": 82,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              119.4281997680664,
+              1226.984619140625,
+              -271.4642028808594
+            ],
+            "max": [
+              154.77490234375,
+              1262.404296875,
+              -255.96710205078125
+            ]
+          }
+        },
+        {
+          "primitive": 20,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 578,
+          "meshletVertexOffset": 29407,
+          "meshletTriangleIndexOffset": 68931,
+          "meshletGroupOffset": 83,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -293.3323059082031,
+              1215.901611328125,
+              -263.6247863769531
+            ],
+            "max": [
+              -235.86529541015625,
+              1273.487548828125,
+              -243.13319396972656
+            ]
+          }
+        },
+        {
+          "primitive": 21,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 580,
+          "meshletVertexOffset": 29533,
+          "meshletTriangleIndexOffset": 69411,
+          "meshletGroupOffset": 84,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -282.2721862792969,
+              1226.984619140625,
+              -271.4642028808594
+            ],
+            "max": [
+              -246.92550659179688,
+              1262.404296875,
+              -255.96710205078125
+            ]
+          }
+        },
+        {
+          "primitive": 22,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 583,
+          "meshletVertexOffset": 29673,
+          "meshletTriangleIndexOffset": 69747,
+          "meshletGroupOffset": 85,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -663.55810546875,
+              1215.901611328125,
+              -263.6247863769531
+            ],
+            "max": [
+              -606.0911254882812,
+              1273.487548828125,
+              -243.13319396972656
+            ]
+          }
+        },
+        {
+          "primitive": 23,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 585,
+          "meshletVertexOffset": 29799,
+          "meshletTriangleIndexOffset": 70227,
+          "meshletGroupOffset": 86,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -652.4979248046875,
+              1226.984619140625,
+              -271.4642028808594
+            ],
+            "max": [
+              -617.1514282226562,
+              1262.404296875,
+              -255.96710205078125
+            ]
+          }
+        },
+        {
+          "primitive": 24,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 588,
+          "meshletVertexOffset": 29939,
+          "meshletTriangleIndexOffset": 70563,
+          "meshletGroupOffset": 87,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1012.607177734375,
+              1217.42529296875,
+              -63.70500183105469
+            ],
+            "max": [
+              -992.115478515625,
+              1275.01123046875,
+              -6.238100051879883
+            ]
+          }
+        },
+        {
+          "primitive": 25,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 590,
+          "meshletVertexOffset": 30065,
+          "meshletTriangleIndexOffset": 71043,
+          "meshletGroupOffset": 88,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1020.4464721679688,
+              1228.50830078125,
+              -52.64500045776367
+            ],
+            "max": [
+              -1004.9495239257812,
+              1263.927978515625,
+              -17.29829978942871
+            ]
+          }
+        },
+        {
+          "primitive": 26,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 593,
+          "meshletVertexOffset": 30205,
+          "meshletTriangleIndexOffset": 71379,
+          "meshletGroupOffset": 89,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              478.494384765625,
+              1215.901611328125,
+              169.43699645996094
+            ],
+            "max": [
+              535.96142578125,
+              1273.487548828125,
+              189.92849731445312
+            ]
+          }
+        },
+        {
+          "primitive": 27,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 595,
+          "meshletVertexOffset": 30331,
+          "meshletTriangleIndexOffset": 71859,
+          "meshletGroupOffset": 90,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              489.55450439453125,
+              1226.984619140625,
+              182.27090454101562
+            ],
+            "max": [
+              524.9011840820312,
+              1262.404296875,
+              197.76800537109375
+            ]
+          }
+        },
+        {
+          "primitive": 28,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 598,
+          "meshletVertexOffset": 30471,
+          "meshletTriangleIndexOffset": 72195,
+          "meshletGroupOffset": 91,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              108.36810302734375,
+              1215.901611328125,
+              169.43699645996094
+            ],
+            "max": [
+              165.83509826660156,
+              1273.487548828125,
+              189.92849731445312
+            ]
+          }
+        },
+        {
+          "primitive": 29,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 600,
+          "meshletVertexOffset": 30597,
+          "meshletTriangleIndexOffset": 72675,
+          "meshletGroupOffset": 92,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              119.4281997680664,
+              1226.984619140625,
+              182.27090454101562
+            ],
+            "max": [
+              154.77490234375,
+              1262.404296875,
+              197.76800537109375
+            ]
+          }
+        },
+        {
+          "primitive": 30,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 603,
+          "meshletVertexOffset": 30737,
+          "meshletTriangleIndexOffset": 73011,
+          "meshletGroupOffset": 93,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -293.3323059082031,
+              1215.901611328125,
+              169.43699645996094
+            ],
+            "max": [
+              -235.86529541015625,
+              1273.487548828125,
+              189.92849731445312
+            ]
+          }
+        },
+        {
+          "primitive": 31,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 605,
+          "meshletVertexOffset": 30863,
+          "meshletTriangleIndexOffset": 73491,
+          "meshletGroupOffset": 94,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -282.2721862792969,
+              1226.984619140625,
+              182.27090454101562
+            ],
+            "max": [
+              -246.92550659179688,
+              1262.404296875,
+              197.7678985595703
+            ]
+          }
+        },
+        {
+          "primitive": 32,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 126,
+          "triangleCount": 160,
+          "meshletCount": 2,
+          "meshletVertexCount": 126,
+          "meshletTriangleIndexCount": 480,
+          "meshletOffset": 608,
+          "meshletVertexOffset": 31003,
+          "meshletTriangleIndexOffset": 73827,
+          "meshletGroupOffset": 95,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -663.55810546875,
+              1215.901611328125,
+              169.43699645996094
+            ],
+            "max": [
+              -606.0911254882812,
+              1273.487548828125,
+              189.92849731445312
+            ]
+          }
+        },
+        {
+          "primitive": 33,
+          "mode": 4,
+          "material": 7,
+          "skipped": false,
+          "vertexCount": 122,
+          "triangleCount": 112,
+          "meshletCount": 3,
+          "meshletVertexCount": 140,
+          "meshletTriangleIndexCount": 336,
+          "meshletOffset": 610,
+          "meshletVertexOffset": 31129,
+          "meshletTriangleIndexOffset": 74307,
+          "meshletGroupOffset": 96,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -652.4979858398438,
+              1226.984619140625,
+              182.27090454101562
+            ],
+            "max": [
+              -617.1514282226562,
+              1262.404296875,
+              197.7678985595703
+            ]
+          }
+        },
+        {
+          "primitive": 34,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 880,
+          "triangleCount": 440,
+          "meshletCount": 22,
+          "meshletVertexCount": 880,
+          "meshletTriangleIndexCount": 1320,
+          "meshletOffset": 613,
+          "meshletVertexOffset": 31269,
+          "meshletTriangleIndexOffset": 74643,
+          "meshletGroupOffset": 97,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -1030.053955078125,
+              921.728515625,
+              -274.7777099609375
+            ],
+            "max": [
+              721.81982421875,
+              1014.4711303710938,
+              202.78709411621094
+            ]
+          }
+        },
+        {
+          "primitive": 35,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 56,
+          "triangleCount": 32,
+          "meshletCount": 1,
+          "meshletVertexCount": 56,
+          "meshletTriangleIndexCount": 96,
+          "meshletOffset": 635,
+          "meshletVertexOffset": 32149,
+          "meshletTriangleIndexOffset": 75963,
+          "meshletGroupOffset": 100,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1086.4228515625,
+              907.7440795898438,
+              -408.14678955078125
+            ],
+            "max": [
+              997.59619140625,
+              1314.490234375,
+              318.9007873535156
+            ]
+          }
+        },
+        {
+          "primitive": 36,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 560,
+          "triangleCount": 280,
+          "meshletCount": 10,
+          "meshletVertexCount": 562,
+          "meshletTriangleIndexCount": 840,
+          "meshletOffset": 636,
+          "meshletVertexOffset": 32205,
+          "meshletTriangleIndexOffset": 76059,
+          "meshletGroupOffset": 101,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -1048.3079833984375,
+              915.451416015625,
+              -318.1059875488281
+            ],
+            "max": [
+              917.6837158203125,
+              930.2659301757812,
+              243.55810546875
+            ]
+          }
+        },
+        {
+          "primitive": 37,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 66,
+          "triangleCount": 54,
+          "meshletCount": 2,
+          "meshletVertexCount": 69,
+          "meshletTriangleIndexCount": 162,
+          "meshletOffset": 646,
+          "meshletVertexOffset": 32767,
+          "meshletTriangleIndexOffset": 76899,
+          "meshletGroupOffset": 103,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1431.199951171875,
+              -2.6201000213623047,
+              -644.3114013671875
+            ],
+            "max": [
+              1302.2208251953125,
+              867.3870849609375,
+              574.7061767578125
+            ]
+          }
+        },
+        {
+          "primitive": 38,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 314,
+          "triangleCount": 242,
+          "meshletCount": 7,
+          "meshletVertexCount": 364,
+          "meshletTriangleIndexCount": 726,
+          "meshletOffset": 648,
+          "meshletVertexOffset": 32836,
+          "meshletTriangleIndexOffset": 77061,
+          "meshletGroupOffset": 104,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -509.68328857421875,
+              -2.1349000930786133,
+              554.269775390625
+            ],
+            "max": [
+              41.11109924316406,
+              289.3175048828125,
+              605.0136108398438
+            ]
+          }
+        },
+        {
+          "primitive": 39,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 48,
+          "triangleCount": 24,
+          "meshletCount": 1,
+          "meshletVertexCount": 48,
+          "meshletTriangleIndexCount": 72,
+          "meshletOffset": 655,
+          "meshletVertexOffset": 33200,
+          "meshletTriangleIndexOffset": 77787,
+          "meshletGroupOffset": 105,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -509.6835021972656,
+              119.80509948730469,
+              573.1038818359375
+            ],
+            "max": [
+              -357.1275939941406,
+              289.3175048828125,
+              583.672119140625
+            ]
+          }
+        },
+        {
+          "primitive": 40,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 98,
+          "triangleCount": 82,
+          "meshletCount": 2,
+          "meshletVertexCount": 106,
+          "meshletTriangleIndexCount": 246,
+          "meshletOffset": 656,
+          "meshletVertexOffset": 33248,
+          "meshletTriangleIndexOffset": 77859,
+          "meshletGroupOffset": 106,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              231.56539916992188,
+              119.80509948730469,
+              573.10400390625
+            ],
+            "max": [
+              384.1211853027344,
+              289.3175964355469,
+              589.7529296875
+            ]
+          }
+        },
+        {
+          "primitive": 41,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 48,
+          "triangleCount": 24,
+          "meshletCount": 1,
+          "meshletVertexCount": 48,
+          "meshletTriangleIndexCount": 72,
+          "meshletOffset": 658,
+          "meshletVertexOffset": 33354,
+          "meshletTriangleIndexOffset": 78105,
+          "meshletGroupOffset": 107,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              231.56539916992188,
+              119.80509948730469,
+              573.10400390625
+            ],
+            "max": [
+              384.1213073730469,
+              289.3175964355469,
+              583.6721801757812
+            ]
+          }
+        },
+        {
+          "primitive": 42,
+          "mode": 4,
+          "material": 11,
+          "skipped": false,
+          "vertexCount": 688,
+          "triangleCount": 556,
+          "meshletCount": 16,
+          "meshletVertexCount": 865,
+          "meshletTriangleIndexCount": 1668,
+          "meshletOffset": 659,
+          "meshletVertexOffset": 33402,
+          "meshletTriangleIndexOffset": 78177,
+          "meshletGroupOffset": 108,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -140.4468994140625,
+              -2.2155001163482666,
+              -651.5385131835938
+            ],
+            "max": [
+              1315.5244140625,
+              716.8505859375,
+              42.59199905395508
+            ]
+          }
+        },
+        {
+          "primitive": 43,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 92,
+          "triangleCount": 50,
+          "meshletCount": 2,
+          "meshletVertexCount": 102,
+          "meshletTriangleIndexCount": 150,
+          "meshletOffset": 675,
+          "meshletVertexOffset": 34267,
+          "meshletTriangleIndexOffset": 79845,
+          "meshletGroupOffset": 110,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1431.898681640625,
+              415.4613952636719,
+              -641.6024169921875
+            ],
+            "max": [
+              1302.190673828125,
+              424.4659118652344,
+              575.3004150390625
+            ]
+          }
+        },
+        {
+          "primitive": 44,
+          "mode": 4,
+          "material": 10,
+          "skipped": false,
+          "vertexCount": 5904,
+          "triangleCount": 3408,
+          "meshletCount": 120,
+          "meshletVertexCount": 6320,
+          "meshletTriangleIndexCount": 10224,
+          "meshletOffset": 677,
+          "meshletVertexOffset": 34369,
+          "meshletTriangleIndexOffset": 79995,
+          "meshletGroupOffset": 111,
+          "meshletGroupCount": 15,
+          "bounds": {
+            "min": [
+              -1430.30517578125,
+              182.6522979736328,
+              -646.9678955078125
+            ],
+            "max": [
+              1303.27197265625,
+              695.3226928710938,
+              575.7255249023438
+            ]
+          }
+        },
+        {
+          "primitive": 45,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 92,
+          "triangleCount": 50,
+          "meshletCount": 2,
+          "meshletVertexCount": 102,
+          "meshletTriangleIndexCount": 150,
+          "meshletOffset": 797,
+          "meshletVertexOffset": 40689,
+          "meshletTriangleIndexOffset": 90219,
+          "meshletGroupOffset": 126,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1428.519775390625,
+              -3.3794000148773193,
+              -644.3114013671875
+            ],
+            "max": [
+              1302.1905517578125,
+              5.625100135803223,
+              574.0297241210938
+            ]
+          }
+        },
+        {
+          "primitive": 46,
+          "mode": 4,
+          "material": 9,
+          "skipped": false,
+          "vertexCount": 7,
+          "triangleCount": 5,
+          "meshletCount": 1,
+          "meshletVertexCount": 7,
+          "meshletTriangleIndexCount": 15,
+          "meshletOffset": 799,
+          "meshletVertexOffset": 40791,
+          "meshletTriangleIndexOffset": 90369,
+          "meshletGroupOffset": 127,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1428.519775390625,
+              -2.506200075149536,
+              -644.3114013671875
+            ],
+            "max": [
+              1302.1905517578125,
+              -2.506200075149536,
+              574.0297241210938
+            ]
+          }
+        },
+        {
+          "primitive": 47,
+          "mode": 4,
+          "material": 8,
+          "skipped": false,
+          "vertexCount": 1824,
+          "triangleCount": 1360,
+          "meshletCount": 43,
+          "meshletVertexCount": 2047,
+          "meshletTriangleIndexCount": 4080,
+          "meshletOffset": 800,
+          "meshletVertexOffset": 40798,
+          "meshletTriangleIndexOffset": 90384,
+          "meshletGroupOffset": 128,
+          "meshletGroupCount": 6,
+          "bounds": {
+            "min": [
+              -1057.22021484375,
+              -2.460700035095215,
+              -316.86920166015625
+            ],
+            "max": [
+              925.6038208007812,
+              220.99710083007812,
+              246.61489868164062
+            ]
+          }
+        },
+        {
+          "primitive": 48,
+          "mode": 4,
+          "material": 6,
+          "skipped": false,
+          "vertexCount": 3764,
+          "triangleCount": 3736,
+          "meshletCount": 91,
+          "meshletVertexCount": 4700,
+          "meshletTriangleIndexCount": 11208,
+          "meshletOffset": 843,
+          "meshletVertexOffset": 42845,
+          "meshletTriangleIndexOffset": 94464,
+          "meshletGroupOffset": 134,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -1052.875732421875,
+              413.9111022949219,
+              -317.269287109375
+            ],
+            "max": [
+              921.9354858398438,
+              823.3441772460938,
+              245.81419372558594
+            ]
+          }
+        },
+        {
+          "primitive": 49,
+          "mode": 4,
+          "material": 12,
+          "skipped": false,
+          "vertexCount": 23038,
+          "triangleCount": 23208,
+          "meshletCount": 588,
+          "meshletVertexCount": 30070,
+          "meshletTriangleIndexCount": 69624,
+          "meshletOffset": 934,
+          "meshletVertexOffset": 47545,
+          "meshletTriangleIndexOffset": 105672,
+          "meshletGroupOffset": 146,
+          "meshletGroupCount": 74,
+          "bounds": {
+            "min": [
+              -1037.651611328125,
+              506.6332092285156,
+              -309.70550537109375
+            ],
+            "max": [
+              907.4069213867188,
+              699.61181640625,
+              234.77340698242188
+            ]
+          }
+        },
+        {
+          "primitive": 50,
+          "mode": 4,
+          "material": 2,
+          "skipped": false,
+          "vertexCount": 36,
+          "triangleCount": 18,
+          "meshletCount": 1,
+          "meshletVertexCount": 36,
+          "meshletTriangleIndexCount": 54,
+          "meshletOffset": 1522,
+          "meshletVertexOffset": 77615,
+          "meshletTriangleIndexOffset": 175296,
+          "meshletGroupOffset": 220,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -119.40730285644531,
+              256.7309875488281,
+              568.6583862304688
+            ],
+            "max": [
+              -8.262900352478027,
+              348.1973876953125,
+              575.5051879882812
+            ]
+          }
+        },
+        {
+          "primitive": 51,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 120,
+          "triangleCount": 64,
+          "meshletCount": 3,
+          "meshletVertexCount": 144,
+          "meshletTriangleIndexCount": 192,
+          "meshletOffset": 1523,
+          "meshletVertexOffset": 77651,
+          "meshletTriangleIndexOffset": 175350,
+          "meshletGroupOffset": 221,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1086.4228515625,
+              907.7440795898438,
+              -408.14678955078125
+            ],
+            "max": [
+              997.59619140625,
+              1330.769287109375,
+              318.9007873535156
+            ]
+          }
+        },
+        {
+          "primitive": 52,
+          "mode": 4,
+          "material": 13,
+          "skipped": false,
+          "vertexCount": 3952,
+          "triangleCount": 5456,
+          "meshletCount": 112,
+          "meshletVertexCount": 4984,
+          "meshletTriangleIndexCount": 16368,
+          "meshletOffset": 1526,
+          "meshletVertexOffset": 77795,
+          "meshletTriangleIndexOffset": 175542,
+          "meshletGroupOffset": 222,
+          "meshletGroupCount": 14,
+          "bounds": {
+            "min": [
+              -628.6536254882812,
+              828.8109130859375,
+              -270.8304138183594
+            ],
+            "max": [
+              503.1986083984375,
+              886.1389770507812,
+              199.3907012939453
+            ]
+          }
+        },
+        {
+          "primitive": 53,
+          "mode": 4,
+          "material": 0,
+          "skipped": false,
+          "vertexCount": 20987,
+          "triangleCount": 27796,
+          "meshletCount": 601,
+          "meshletVertexCount": 31730,
+          "meshletTriangleIndexCount": 83388,
+          "meshletOffset": 1638,
+          "meshletVertexOffset": 82779,
+          "meshletTriangleIndexOffset": 191910,
+          "meshletGroupOffset": 236,
+          "meshletGroupCount": 76,
+          "bounds": {
+            "min": [
+              -680.2642211914062,
+              -28.04960060119629,
+              -341.1361999511719
+            ],
+            "max": [
+              551.2263793945312,
+              225.1020965576172,
+              266.4422912597656
+            ]
+          }
+        },
+        {
+          "primitive": 54,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4801,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2239,
+          "meshletVertexOffset": 114509,
+          "meshletTriangleIndexOffset": 275298,
+          "meshletGroupOffset": 312,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -783.794189453125,
+              339.4429931640625,
+              157.164306640625
+            ],
+            "max": [
+              -453.8620910644531,
+              520.5938720703125,
+              252.28579711914062
+            ]
+          }
+        },
+        {
+          "primitive": 55,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4801,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2331,
+          "meshletVertexOffset": 119310,
+          "meshletTriangleIndexOffset": 291810,
+          "meshletGroupOffset": 324,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -415.18798828125,
+              339.4429931640625,
+              157.16419982910156
+            ],
+            "max": [
+              -85.25599670410156,
+              520.5938720703125,
+              252.28570556640625
+            ]
+          }
+        },
+        {
+          "primitive": 56,
+          "mode": 4,
+          "material": 16,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4801,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2423,
+          "meshletVertexOffset": 124111,
+          "meshletTriangleIndexOffset": 308322,
+          "meshletGroupOffset": 336,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -46.58190155029297,
+              339.4429931640625,
+              157.16419982910156
+            ],
+            "max": [
+              283.3501892089844,
+              520.5938720703125,
+              252.2855987548828
+            ]
+          }
+        },
+        {
+          "primitive": 57,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4801,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2515,
+          "meshletVertexOffset": 128912,
+          "meshletTriangleIndexOffset": 324834,
+          "meshletGroupOffset": 348,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              322.0242004394531,
+              339.4429931640625,
+              157.16409301757812
+            ],
+            "max": [
+              651.9561767578125,
+              520.5938720703125,
+              252.2855987548828
+            ]
+          }
+        },
+        {
+          "primitive": 58,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4803,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2607,
+          "meshletVertexOffset": 133713,
+          "meshletTriangleIndexOffset": 341346,
+          "meshletGroupOffset": 360,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              318.9197082519531,
+              339.4429931640625,
+              -324.5262145996094
+            ],
+            "max": [
+              648.8516845703125,
+              520.5938720703125,
+              -229.40480041503906
+            ]
+          }
+        },
+        {
+          "primitive": 59,
+          "mode": 4,
+          "material": 14,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4803,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2699,
+          "meshletVertexOffset": 138516,
+          "meshletTriangleIndexOffset": 357858,
+          "meshletGroupOffset": 372,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -49.6864013671875,
+              339.4429931640625,
+              -324.5262145996094
+            ],
+            "max": [
+              280.24560546875,
+              520.5938720703125,
+              -229.40480041503906
+            ]
+          }
+        },
+        {
+          "primitive": 60,
+          "mode": 4,
+          "material": 16,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4803,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2791,
+          "meshletVertexOffset": 143319,
+          "meshletTriangleIndexOffset": 374370,
+          "meshletGroupOffset": 384,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -418.2926025390625,
+              339.4429931640625,
+              -324.5262145996094
+            ],
+            "max": [
+              -88.3604965209961,
+              520.5938720703125,
+              -229.40480041503906
+            ]
+          }
+        },
+        {
+          "primitive": 61,
+          "mode": 4,
+          "material": 15,
+          "skipped": false,
+          "vertexCount": 3260,
+          "triangleCount": 5504,
+          "meshletCount": 92,
+          "meshletVertexCount": 4803,
+          "meshletTriangleIndexCount": 16512,
+          "meshletOffset": 2883,
+          "meshletVertexOffset": 148122,
+          "meshletTriangleIndexOffset": 390882,
+          "meshletGroupOffset": 396,
+          "meshletGroupCount": 12,
+          "bounds": {
+            "min": [
+              -786.898681640625,
+              339.4429931640625,
+              -324.5262145996094
+            ],
+            "max": [
+              -456.96661376953125,
+              520.5938720703125,
+              -229.40480041503906
+            ]
+          }
+        },
+        {
+          "primitive": 62,
+          "mode": 4,
+          "material": 13,
+          "skipped": false,
+          "vertexCount": 8340,
+          "triangleCount": 11040,
+          "meshletCount": 224,
+          "meshletVertexCount": 10442,
+          "meshletTriangleIndexCount": 33120,
+          "meshletOffset": 2975,
+          "meshletVertexOffset": 152925,
+          "meshletTriangleIndexOffset": 407394,
+          "meshletGroupOffset": 408,
+          "meshletGroupCount": 28,
+          "bounds": {
+            "min": [
+              -958.6978149414062,
+              274.9595947265625,
+              -289.70361328125
+            ],
+            "max": [
+              830.2938842773438,
+              294.114013671875,
+              209.11500549316406
+            ]
+          }
+        },
+        {
+          "primitive": 63,
+          "mode": 4,
+          "material": 17,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3199,
+          "meshletVertexOffset": 163367,
+          "meshletTriangleIndexOffset": 440514,
+          "meshletGroupOffset": 436,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -204.93739318847656,
+              0.13050000369548798,
+              188.90179443359375
+            ],
+            "max": [
+              82.35980224609375,
+              283.0152893066406,
+              213.4824981689453
+            ]
+          }
+        },
+        {
+          "primitive": 64,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 2509,
+          "triangleCount": 4608,
+          "meshletCount": 82,
+          "meshletVertexCount": 3925,
+          "meshletTriangleIndexCount": 13824,
+          "meshletOffset": 3279,
+          "meshletVertexOffset": 167445,
+          "meshletTriangleIndexOffset": 455106,
+          "meshletGroupOffset": 446,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              -577.6201782226562,
+              -0.30889999866485596,
+              182.904296875
+            ],
+            "max": [
+              -290.5769958496094,
+              283.6809997558594,
+              208.21240234375
+            ]
+          }
+        },
+        {
+          "primitive": 65,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3361,
+          "meshletVertexOffset": 171370,
+          "meshletTriangleIndexOffset": 468930,
+          "meshletGroupOffset": 457,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -946.2379150390625,
+              0.13050000369548798,
+              188.90179443359375
+            ],
+            "max": [
+              -658.940673828125,
+              283.0152893066406,
+              213.4824981689453
+            ]
+          }
+        },
+        {
+          "primitive": 66,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3441,
+          "meshletVertexOffset": 175448,
+          "meshletTriangleIndexOffset": 483522,
+          "meshletGroupOffset": 467,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -946.2379150390625,
+              0.13050000369548798,
+              -289.25689697265625
+            ],
+            "max": [
+              -658.940673828125,
+              283.0152893066406,
+              -264.67620849609375
+            ]
+          }
+        },
+        {
+          "primitive": 67,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 2509,
+          "triangleCount": 4608,
+          "meshletCount": 82,
+          "meshletVertexCount": 3925,
+          "meshletTriangleIndexCount": 13824,
+          "meshletOffset": 3521,
+          "meshletVertexOffset": 179526,
+          "meshletTriangleIndexOffset": 498114,
+          "meshletGroupOffset": 477,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              160.99049377441406,
+              -0.30889999866485596,
+              182.904296875
+            ],
+            "max": [
+              448.0338134765625,
+              283.6809997558594,
+              208.21240234375
+            ]
+          }
+        },
+        {
+          "primitive": 68,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3603,
+          "meshletVertexOffset": 183451,
+          "meshletTriangleIndexOffset": 511938,
+          "meshletGroupOffset": 488,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              532.8767700195312,
+              0.13050000369548798,
+              188.90179443359375
+            ],
+            "max": [
+              820.1740112304688,
+              283.0152893066406,
+              213.4824981689453
+            ]
+          }
+        },
+        {
+          "primitive": 69,
+          "mode": 4,
+          "material": 17,
+          "skipped": false,
+          "vertexCount": 2509,
+          "triangleCount": 4608,
+          "meshletCount": 82,
+          "meshletVertexCount": 3925,
+          "meshletTriangleIndexCount": 13824,
+          "meshletOffset": 3683,
+          "meshletVertexOffset": 187529,
+          "meshletTriangleIndexOffset": 526530,
+          "meshletGroupOffset": 498,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              -577.6201782226562,
+              -0.30889999866485596,
+              -295.25439453125
+            ],
+            "max": [
+              -290.5769958496094,
+              283.6809997558594,
+              -269.9462890625
+            ]
+          }
+        },
+        {
+          "primitive": 70,
+          "mode": 4,
+          "material": 19,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3765,
+          "meshletVertexOffset": 191454,
+          "meshletTriangleIndexOffset": 540354,
+          "meshletGroupOffset": 509,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              -204.93739318847656,
+              0.13050000369548798,
+              -289.25689697265625
+            ],
+            "max": [
+              82.35980224609375,
+              283.0152893066406,
+              -264.67620849609375
+            ]
+          }
+        },
+        {
+          "primitive": 71,
+          "mode": 4,
+          "material": 18,
+          "skipped": false,
+          "vertexCount": 2509,
+          "triangleCount": 4608,
+          "meshletCount": 82,
+          "meshletVertexCount": 3925,
+          "meshletTriangleIndexCount": 13824,
+          "meshletOffset": 3845,
+          "meshletVertexOffset": 195532,
+          "meshletTriangleIndexOffset": 554946,
+          "meshletGroupOffset": 519,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              160.99049377441406,
+              -0.30889999866485596,
+              -295.25439453125
+            ],
+            "max": [
+              448.0338134765625,
+              283.6809997558594,
+              -269.9462890625
+            ]
+          }
+        },
+        {
+          "primitive": 72,
+          "mode": 4,
+          "material": 17,
+          "skipped": false,
+          "vertexCount": 2615,
+          "triangleCount": 4864,
+          "meshletCount": 80,
+          "meshletVertexCount": 4078,
+          "meshletTriangleIndexCount": 14592,
+          "meshletOffset": 3927,
+          "meshletVertexOffset": 199457,
+          "meshletTriangleIndexOffset": 568770,
+          "meshletGroupOffset": 530,
+          "meshletGroupCount": 10,
+          "bounds": {
+            "min": [
+              532.8767700195312,
+              0.13050000369548798,
+              -289.25689697265625
+            ],
+            "max": [
+              820.1740112304688,
+              283.0152893066406,
+              -264.67620849609375
+            ]
+          }
+        },
+        {
+          "primitive": 73,
+          "mode": 4,
+          "material": 20,
+          "skipped": false,
+          "vertexCount": 16,
+          "triangleCount": 8,
+          "meshletCount": 1,
+          "meshletVertexCount": 16,
+          "meshletTriangleIndexCount": 24,
+          "meshletOffset": 4007,
+          "meshletVertexOffset": 203535,
+          "meshletTriangleIndexOffset": 583362,
+          "meshletGroupOffset": 540,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              461.90301513671875,
+              133.72129821777344,
+              -221.48719787597656
+            ],
+            "max": [
+              513.3057250976562,
+              214.3549041748047,
+              -217.91380310058594
+            ]
+          }
+        },
+        {
+          "primitive": 74,
+          "mode": 4,
+          "material": 21,
+          "skipped": false,
+          "vertexCount": 2957,
+          "triangleCount": 4957,
+          "meshletCount": 85,
+          "meshletVertexCount": 4214,
+          "meshletTriangleIndexCount": 14871,
+          "meshletOffset": 4008,
+          "meshletVertexOffset": 203551,
+          "meshletTriangleIndexOffset": 583386,
+          "meshletGroupOffset": 541,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              452.6521911621094,
+              98.67289733886719,
+              -246.83450317382812
+            ],
+            "max": [
+              522.6115112304688,
+              216.9512939453125,
+              -194.3249969482422
+            ]
+          }
+        },
+        {
+          "primitive": 75,
+          "mode": 4,
+          "material": 20,
+          "skipped": false,
+          "vertexCount": 16,
+          "triangleCount": 8,
+          "meshletCount": 1,
+          "meshletVertexCount": 16,
+          "meshletTriangleIndexCount": 24,
+          "meshletOffset": 4093,
+          "meshletVertexOffset": 207765,
+          "meshletTriangleIndexOffset": 598257,
+          "meshletGroupOffset": 552,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -644.93310546875,
+              133.72129821777344,
+              -221.48719787597656
+            ],
+            "max": [
+              -593.5302734375,
+              214.3549041748047,
+              -217.91380310058594
+            ]
+          }
+        },
+        {
+          "primitive": 76,
+          "mode": 4,
+          "material": 21,
+          "skipped": false,
+          "vertexCount": 2957,
+          "triangleCount": 4957,
+          "meshletCount": 85,
+          "meshletVertexCount": 4220,
+          "meshletTriangleIndexCount": 14871,
+          "meshletOffset": 4094,
+          "meshletVertexOffset": 207781,
+          "meshletTriangleIndexOffset": 598281,
+          "meshletGroupOffset": 553,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              -654.1837768554688,
+              98.67289733886719,
+              -246.83450317382812
+            ],
+            "max": [
+              -584.224609375,
+              216.9512939453125,
+              -194.3249969482422
+            ]
+          }
+        },
+        {
+          "primitive": 77,
+          "mode": 4,
+          "material": 20,
+          "skipped": false,
+          "vertexCount": 16,
+          "triangleCount": 8,
+          "meshletCount": 1,
+          "meshletVertexCount": 16,
+          "meshletTriangleIndexCount": 24,
+          "meshletOffset": 4179,
+          "meshletVertexOffset": 212001,
+          "meshletTriangleIndexOffset": 613152,
+          "meshletGroupOffset": 564,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -644.8781127929688,
+              133.72129821777344,
+              141.55499267578125
+            ],
+            "max": [
+              -593.4752807617188,
+              214.3549041748047,
+              145.12840270996094
+            ]
+          }
+        },
+        {
+          "primitive": 78,
+          "mode": 4,
+          "material": 21,
+          "skipped": false,
+          "vertexCount": 2957,
+          "triangleCount": 4957,
+          "meshletCount": 84,
+          "meshletVertexCount": 4215,
+          "meshletTriangleIndexCount": 14871,
+          "meshletOffset": 4180,
+          "meshletVertexOffset": 212017,
+          "meshletTriangleIndexOffset": 613176,
+          "meshletGroupOffset": 565,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              -654.1837768554688,
+              98.67289733886719,
+              117.96620178222656
+            ],
+            "max": [
+              -584.2244262695312,
+              216.9512939453125,
+              170.47579956054688
+            ]
+          }
+        },
+        {
+          "primitive": 79,
+          "mode": 4,
+          "material": 20,
+          "skipped": false,
+          "vertexCount": 16,
+          "triangleCount": 8,
+          "meshletCount": 1,
+          "meshletVertexCount": 16,
+          "meshletTriangleIndexCount": 24,
+          "meshletOffset": 4264,
+          "meshletVertexOffset": 216232,
+          "meshletTriangleIndexOffset": 628047,
+          "meshletGroupOffset": 576,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              461.9580078125,
+              133.72129821777344,
+              141.55479431152344
+            ],
+            "max": [
+              513.3607788085938,
+              214.3549041748047,
+              145.1282958984375
+            ]
+          }
+        },
+        {
+          "primitive": 80,
+          "mode": 4,
+          "material": 21,
+          "skipped": false,
+          "vertexCount": 2957,
+          "triangleCount": 4957,
+          "meshletCount": 84,
+          "meshletVertexCount": 4219,
+          "meshletTriangleIndexCount": 14871,
+          "meshletOffset": 4265,
+          "meshletVertexOffset": 216248,
+          "meshletTriangleIndexOffset": 628071,
+          "meshletGroupOffset": 577,
+          "meshletGroupCount": 11,
+          "bounds": {
+            "min": [
+              452.6523132324219,
+              98.67289733886719,
+              117.96600341796875
+            ],
+            "max": [
+              522.611572265625,
+              216.9512939453125,
+              170.47560119628906
+            ]
+          }
+        },
+        {
+          "primitive": 81,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 533,
+          "triangleCount": 468,
+          "meshletCount": 15,
+          "meshletVertexCount": 768,
+          "meshletTriangleIndexCount": 1404,
+          "meshletOffset": 4349,
+          "meshletVertexOffset": 220467,
+          "meshletTriangleIndexOffset": 642942,
+          "meshletGroupOffset": 588,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -992.9603881835938,
+              46.08150100708008,
+              -261.83648681640625
+            ],
+            "max": [
+              -929.0048217773438,
+              73.12359619140625,
+              -193.6112060546875
+            ]
+          }
+        },
+        {
+          "primitive": 82,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4364,
+          "meshletVertexOffset": 221235,
+          "meshletTriangleIndexOffset": 644346,
+          "meshletGroupOffset": 590,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -990.7388916015625,
+              -0.14010000228881836,
+              -251.64309692382812
+            ],
+            "max": [
+              -938.7498779296875,
+              56.199501037597656,
+              -199.7122039794922
+            ]
+          }
+        },
+        {
+          "primitive": 83,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 533,
+          "triangleCount": 468,
+          "meshletCount": 15,
+          "meshletVertexCount": 768,
+          "meshletTriangleIndexCount": 1404,
+          "meshletOffset": 4401,
+          "meshletVertexOffset": 223039,
+          "meshletTriangleIndexOffset": 650979,
+          "meshletGroupOffset": 595,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -992.9603881835938,
+              42.31909942626953,
+              115.05789947509766
+            ],
+            "max": [
+              -929.0048217773438,
+              69.36119842529297,
+              183.283203125
+            ]
+          }
+        },
+        {
+          "primitive": 84,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4416,
+          "meshletVertexOffset": 223807,
+          "meshletTriangleIndexOffset": 652383,
+          "meshletGroupOffset": 597,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -990.7388916015625,
+              -3.9024999141693115,
+              125.25129699707031
+            ],
+            "max": [
+              -938.7498779296875,
+              52.43709945678711,
+              177.1822052001953
+            ]
+          }
+        },
+        {
+          "primitive": 85,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 533,
+          "triangleCount": 468,
+          "meshletCount": 14,
+          "meshletVertexCount": 756,
+          "meshletTriangleIndexCount": 1404,
+          "meshletOffset": 4453,
+          "meshletVertexOffset": 225611,
+          "meshletTriangleIndexOffset": 659016,
+          "meshletGroupOffset": 602,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              -277.3555908203125,
+              42.31909942626953,
+              123.89579772949219
+            ],
+            "max": [
+              -209.1302032470703,
+              69.36119842529297,
+              187.85159301757812
+            ]
+          }
+        },
+        {
+          "primitive": 86,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1809,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4467,
+          "meshletVertexOffset": 226367,
+          "meshletTriangleIndexOffset": 660420,
+          "meshletGroupOffset": 604,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              -271.2546081542969,
+              -3.9024999141693115,
+              126.11740112304688
+            ],
+            "max": [
+              -219.32369995117188,
+              52.43709945678711,
+              178.1063995361328
+            ]
+          }
+        },
+        {
+          "primitive": 87,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 450,
+          "triangleCount": 400,
+          "meshletCount": 11,
+          "meshletVertexCount": 637,
+          "meshletTriangleIndexCount": 1200,
+          "meshletOffset": 4504,
+          "meshletVertexOffset": 228176,
+          "meshletTriangleIndexOffset": 667053,
+          "meshletGroupOffset": 609,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              91.80699920654297,
+              43.87229919433594,
+              126.15380096435547
+            ],
+            "max": [
+              147.3343963623047,
+              67.06770324707031,
+              183.33749389648438
+            ]
+          }
+        },
+        {
+          "primitive": 88,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4515,
+          "meshletVertexOffset": 228813,
+          "meshletTriangleIndexOffset": 668253,
+          "meshletGroupOffset": 611,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              92.75509643554688,
+              -4.030700206756592,
+              127.37989807128906
+            ],
+            "max": [
+              144.7440948486328,
+              52.30889892578125,
+              179.31080627441406
+            ]
+          }
+        },
+        {
+          "primitive": 89,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 450,
+          "triangleCount": 400,
+          "meshletCount": 11,
+          "meshletVertexCount": 637,
+          "meshletTriangleIndexCount": 1200,
+          "meshletOffset": 4552,
+          "meshletVertexOffset": 230617,
+          "meshletTriangleIndexOffset": 674886,
+          "meshletGroupOffset": 616,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              806.3583984375,
+              44.42399978637695,
+              126.15380096435547
+            ],
+            "max": [
+              861.8858032226562,
+              67.61940002441406,
+              183.33749389648438
+            ]
+          }
+        },
+        {
+          "primitive": 90,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4563,
+          "meshletVertexOffset": 231254,
+          "meshletTriangleIndexOffset": 676086,
+          "meshletGroupOffset": 618,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              807.3065185546875,
+              -3.4790000915527344,
+              127.37989807128906
+            ],
+            "max": [
+              859.2954711914062,
+              52.860599517822266,
+              179.31080627441406
+            ]
+          }
+        },
+        {
+          "primitive": 91,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 450,
+          "triangleCount": 400,
+          "meshletCount": 11,
+          "meshletVertexCount": 637,
+          "meshletTriangleIndexCount": 1200,
+          "meshletOffset": 4600,
+          "meshletVertexOffset": 233058,
+          "meshletTriangleIndexOffset": 682719,
+          "meshletGroupOffset": 623,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              806.3583984375,
+              47.762901306152344,
+              -250.7406005859375
+            ],
+            "max": [
+              861.8858032226562,
+              70.95819854736328,
+              -193.55690002441406
+            ]
+          }
+        },
+        {
+          "primitive": 92,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4611,
+          "meshletVertexOffset": 233695,
+          "meshletTriangleIndexOffset": 683919,
+          "meshletGroupOffset": 625,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              807.3065185546875,
+              -0.14010000228881836,
+              -249.51449584960938
+            ],
+            "max": [
+              859.2954711914062,
+              56.199501037597656,
+              -197.58360290527344
+            ]
+          }
+        },
+        {
+          "primitive": 93,
+          "mode": 4,
+          "material": 3,
+          "skipped": false,
+          "vertexCount": 450,
+          "triangleCount": 400,
+          "meshletCount": 11,
+          "meshletVertexCount": 637,
+          "meshletTriangleIndexCount": 1200,
+          "meshletOffset": 4648,
+          "meshletVertexOffset": 235499,
+          "meshletTriangleIndexOffset": 690552,
+          "meshletGroupOffset": 630,
+          "meshletGroupCount": 2,
+          "bounds": {
+            "min": [
+              91.80699920654297,
+              47.762901306152344,
+              -250.7406005859375
+            ],
+            "max": [
+              147.3343963623047,
+              70.95819854736328,
+              -193.55690002441406
+            ]
+          }
+        },
+        {
+          "primitive": 94,
+          "mode": 4,
+          "material": 1,
+          "skipped": false,
+          "vertexCount": 1231,
+          "triangleCount": 2211,
+          "meshletCount": 37,
+          "meshletVertexCount": 1804,
+          "meshletTriangleIndexCount": 6633,
+          "meshletOffset": 4659,
+          "meshletVertexOffset": 236136,
+          "meshletTriangleIndexOffset": 691752,
+          "meshletGroupOffset": 632,
+          "meshletGroupCount": 5,
+          "bounds": {
+            "min": [
+              92.75509643554688,
+              -0.14010000228881836,
+              -249.51449584960938
+            ],
+            "max": [
+              144.7440948486328,
+              56.199501037597656,
+              -197.58360290527344
+            ]
+          }
+        },
+        {
+          "primitive": 95,
+          "mode": 4,
+          "material": 22,
+          "skipped": false,
+          "vertexCount": 5308,
+          "triangleCount": 9184,
+          "meshletCount": 164,
+          "meshletVertexCount": 7896,
+          "meshletTriangleIndexCount": 27552,
+          "meshletOffset": 4696,
+          "meshletVertexOffset": 237940,
+          "meshletTriangleIndexOffset": 698385,
+          "meshletGroupOffset": 637,
+          "meshletGroupCount": 21,
+          "bounds": {
+            "min": [
+              -1276.67333984375,
+              -0.6934000253677368,
+              -523.4995727539062
+            ],
+            "max": [
+              1194.1705322265625,
+              133.0167999267578,
+              478.2618103027344
+            ]
+          }
+        },
+        {
+          "primitive": 96,
+          "mode": 4,
+          "material": 23,
+          "skipped": false,
+          "vertexCount": 866,
+          "triangleCount": 1521,
+          "meshletCount": 25,
+          "meshletVertexCount": 1135,
+          "meshletTriangleIndexCount": 4563,
+          "meshletOffset": 4860,
+          "meshletVertexOffset": 245836,
+          "meshletTriangleIndexOffset": 725937,
+          "meshletGroupOffset": 658,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              1224.04833984375,
+              79.90480041503906,
+              -114.69149780273438
+            ],
+            "max": [
+              1299.0263671875,
+              264.7611999511719,
+              41.46760177612305
+            ]
+          }
+        },
+        {
+          "primitive": 97,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 753,
+          "triangleCount": 1362,
+          "meshletCount": 22,
+          "meshletVertexCount": 1003,
+          "meshletTriangleIndexCount": 4086,
+          "meshletOffset": 4885,
+          "meshletVertexOffset": 246971,
+          "meshletTriangleIndexOffset": 730500,
+          "meshletGroupOffset": 662,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              1277.022705078125,
+              40.818599700927734,
+              -160.46499633789062
+            ],
+            "max": [
+              1299.8668212890625,
+              306.3245849609375,
+              88.62660217285156
+            ]
+          }
+        },
+        {
+          "primitive": 98,
+          "mode": 4,
+          "material": 23,
+          "skipped": false,
+          "vertexCount": 866,
+          "triangleCount": 1521,
+          "meshletCount": 25,
+          "meshletVertexCount": 1142,
+          "meshletTriangleIndexCount": 4563,
+          "meshletOffset": 4907,
+          "meshletVertexOffset": 247974,
+          "meshletTriangleIndexOffset": 734586,
+          "meshletGroupOffset": 665,
+          "meshletGroupCount": 4,
+          "bounds": {
+            "min": [
+              -1427.434326171875,
+              79.90480041503906,
+              -113.30570220947266
+            ],
+            "max": [
+              -1352.456298828125,
+              264.7611999511719,
+              42.85340118408203
+            ]
+          }
+        },
+        {
+          "primitive": 99,
+          "mode": 4,
+          "material": 4,
+          "skipped": false,
+          "vertexCount": 753,
+          "triangleCount": 1362,
+          "meshletCount": 22,
+          "meshletVertexCount": 999,
+          "meshletTriangleIndexCount": 4086,
+          "meshletOffset": 4932,
+          "meshletVertexOffset": 249116,
+          "meshletTriangleIndexOffset": 739149,
+          "meshletGroupOffset": 669,
+          "meshletGroupCount": 3,
+          "bounds": {
+            "min": [
+              -1428.27490234375,
+              40.818599700927734,
+              -160.464599609375
+            ],
+            "max": [
+              -1405.4306640625,
+              306.3245849609375,
+              88.62689971923828
+            ]
+          }
+        },
+        {
+          "primitive": 100,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 50,
+          "triangleCount": 28,
+          "meshletCount": 1,
+          "meshletVertexCount": 50,
+          "meshletTriangleIndexCount": 84,
+          "meshletOffset": 4954,
+          "meshletVertexOffset": 250115,
+          "meshletTriangleIndexOffset": 743235,
+          "meshletGroupOffset": 672,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1866.98291015625,
+              -126.44249725341797,
+              -1139.030517578125
+            ],
+            "max": [
+              1746.69287109375,
+              1347.19580078125,
+              1039.711181640625
+            ]
+          }
+        },
+        {
+          "primitive": 101,
+          "mode": 4,
+          "material": 24,
+          "skipped": false,
+          "vertexCount": 11890,
+          "triangleCount": 14484,
+          "meshletCount": 348,
+          "meshletVertexCount": 17059,
+          "meshletTriangleIndexCount": 43452,
+          "meshletOffset": 4955,
+          "meshletVertexOffset": 250165,
+          "meshletTriangleIndexOffset": 743319,
+          "meshletGroupOffset": 673,
+          "meshletGroupCount": 44,
+          "bounds": {
+            "min": [
+              -1920.9459228515625,
+              1280.513427734375,
+              -1182.80712890625
+            ],
+            "max": [
+              1799.9080810546875,
+              1429.4332275390625,
+              1105.426025390625
+            ]
+          }
+        },
+        {
+          "primitive": 102,
+          "mode": 4,
+          "material": 5,
+          "skipped": false,
+          "vertexCount": 20,
+          "triangleCount": 10,
+          "meshletCount": 1,
+          "meshletVertexCount": 20,
+          "meshletTriangleIndexCount": 30,
+          "meshletOffset": 5303,
+          "meshletVertexOffset": 267224,
+          "meshletTriangleIndexOffset": 786771,
+          "meshletGroupOffset": 717,
+          "meshletGroupCount": 1,
+          "bounds": {
+            "min": [
+              -1504.46826171875,
+              -115.9791030883789,
+              -782.5203247070312
+            ],
+            "max": [
+              1380.6033935546875,
+              1271.037109375,
+              674.7567749023438
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "meshlets": {
+      "offset": 0,
+      "stride": 80,
+      "count": 5304
+    },
+    "meshletVertices": {
+      "offset": 424320,
+      "stride": 4,
+      "count": 267244,
+      "elementType": "uint32"
+    },
+    "meshletTriangles": {
+      "offset": 1493296,
+      "stride": 1,
+      "count": 786801,
+      "elementType": "uint8"
+    },
+    "meshletGroups": {
+      "offset": 2280112,
+      "stride": 64,
+      "count": 718
+    }
+  },
+  "binary": "Sponza.meshlet.bin"
+}
