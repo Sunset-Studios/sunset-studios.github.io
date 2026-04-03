@@ -1,0 +1,1378 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:45:07.940Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "living_room.gltf",
+    "buffers": [
+      "living_room.bin"
+    ],
+    "hash": "edeb4f95ca931c488a69e392cfd800e237b25d58"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Back Light",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 0
+    },
+    {
+      "mesh": 1,
+      "name": "Mesh (10)",
+      "skipped": false,
+      "primitiveCount": 2816,
+      "referenceCount": 2816,
+      "nodeCount": 5631,
+      "nodeOffset": 3
+    },
+    {
+      "mesh": 2,
+      "name": "Mesh (102)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 5634
+    },
+    {
+      "mesh": 3,
+      "name": "Mesh (106)",
+      "skipped": false,
+      "primitiveCount": 5616,
+      "referenceCount": 5640,
+      "nodeCount": 11279,
+      "nodeOffset": 5721
+    },
+    {
+      "mesh": 4,
+      "name": "Mesh (107)",
+      "skipped": false,
+      "primitiveCount": 2144,
+      "referenceCount": 2150,
+      "nodeCount": 4299,
+      "nodeOffset": 17000
+    },
+    {
+      "mesh": 5,
+      "name": "Mesh (108)",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 21299
+    },
+    {
+      "mesh": 6,
+      "name": "Mesh (109)",
+      "skipped": false,
+      "primitiveCount": 512,
+      "referenceCount": 512,
+      "nodeCount": 1023,
+      "nodeOffset": 21330
+    },
+    {
+      "mesh": 7,
+      "name": "Mesh (110)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 22353
+    },
+    {
+      "mesh": 8,
+      "name": "Mesh (111)",
+      "skipped": false,
+      "primitiveCount": 8128,
+      "referenceCount": 8184,
+      "nodeCount": 16367,
+      "nodeOffset": 22356
+    },
+    {
+      "mesh": 9,
+      "name": "Mesh (112)",
+      "skipped": false,
+      "primitiveCount": 128,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 38723
+    },
+    {
+      "mesh": 10,
+      "name": "Mesh (113)",
+      "skipped": false,
+      "primitiveCount": 360,
+      "referenceCount": 360,
+      "nodeCount": 719,
+      "nodeOffset": 39106
+    },
+    {
+      "mesh": 11,
+      "name": "Mesh (114)",
+      "skipped": false,
+      "primitiveCount": 8960,
+      "referenceCount": 8960,
+      "nodeCount": 17919,
+      "nodeOffset": 39825
+    },
+    {
+      "mesh": 12,
+      "name": "Mesh (116)",
+      "skipped": false,
+      "primitiveCount": 9600,
+      "referenceCount": 9676,
+      "nodeCount": 19351,
+      "nodeOffset": 57744
+    },
+    {
+      "mesh": 13,
+      "name": "Mesh (117)",
+      "skipped": false,
+      "primitiveCount": 180,
+      "referenceCount": 180,
+      "nodeCount": 359,
+      "nodeOffset": 77095
+    },
+    {
+      "mesh": 14,
+      "name": "Mesh (118)",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 284,
+      "nodeCount": 567,
+      "nodeOffset": 77454
+    },
+    {
+      "mesh": 15,
+      "name": "Mesh (119)",
+      "skipped": false,
+      "primitiveCount": 444,
+      "referenceCount": 456,
+      "nodeCount": 911,
+      "nodeOffset": 78021
+    },
+    {
+      "mesh": 16,
+      "name": "Mesh (12)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 78932
+    },
+    {
+      "mesh": 17,
+      "name": "Mesh (121)",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 56,
+      "nodeCount": 111,
+      "nodeOffset": 78935
+    },
+    {
+      "mesh": 18,
+      "name": "Mesh (122)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 79046
+    },
+    {
+      "mesh": 19,
+      "name": "Mesh (123)",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 79101
+    },
+    {
+      "mesh": 20,
+      "name": "Mesh (124)",
+      "skipped": false,
+      "primitiveCount": 480,
+      "referenceCount": 480,
+      "nodeCount": 959,
+      "nodeOffset": 79124
+    },
+    {
+      "mesh": 21,
+      "name": "Mesh (125)",
+      "skipped": false,
+      "primitiveCount": 480,
+      "referenceCount": 480,
+      "nodeCount": 959,
+      "nodeOffset": 80083
+    },
+    {
+      "mesh": 22,
+      "name": "Mesh (126)",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 81042
+    },
+    {
+      "mesh": 23,
+      "name": "Mesh (127)",
+      "skipped": false,
+      "primitiveCount": 4416,
+      "referenceCount": 4442,
+      "nodeCount": 8883,
+      "nodeOffset": 81065
+    },
+    {
+      "mesh": 24,
+      "name": "Mesh (128)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 89948
+    },
+    {
+      "mesh": 25,
+      "name": "Mesh (129)",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 56,
+      "nodeCount": 111,
+      "nodeOffset": 90003
+    },
+    {
+      "mesh": 26,
+      "name": "Mesh (13)",
+      "skipped": false,
+      "primitiveCount": 6592,
+      "referenceCount": 6624,
+      "nodeCount": 13247,
+      "nodeOffset": 90114
+    },
+    {
+      "mesh": 27,
+      "name": "Mesh (130)",
+      "skipped": false,
+      "primitiveCount": 398,
+      "referenceCount": 410,
+      "nodeCount": 819,
+      "nodeOffset": 103361
+    },
+    {
+      "mesh": 28,
+      "name": "Mesh (131)",
+      "skipped": false,
+      "primitiveCount": 576,
+      "referenceCount": 576,
+      "nodeCount": 1151,
+      "nodeOffset": 104180
+    },
+    {
+      "mesh": 29,
+      "name": "Mesh (132)",
+      "skipped": false,
+      "primitiveCount": 1536,
+      "referenceCount": 1536,
+      "nodeCount": 3071,
+      "nodeOffset": 105331
+    },
+    {
+      "mesh": 30,
+      "name": "Mesh (133)",
+      "skipped": false,
+      "primitiveCount": 4416,
+      "referenceCount": 4448,
+      "nodeCount": 8895,
+      "nodeOffset": 108402
+    },
+    {
+      "mesh": 31,
+      "name": "Mesh (134)",
+      "skipped": false,
+      "primitiveCount": 5184,
+      "referenceCount": 5404,
+      "nodeCount": 10807,
+      "nodeOffset": 117297
+    },
+    {
+      "mesh": 32,
+      "name": "Mesh (135)",
+      "skipped": false,
+      "primitiveCount": 8064,
+      "referenceCount": 8064,
+      "nodeCount": 16127,
+      "nodeOffset": 128104
+    },
+    {
+      "mesh": 33,
+      "name": "Mesh (136)",
+      "skipped": false,
+      "primitiveCount": 384,
+      "referenceCount": 402,
+      "nodeCount": 803,
+      "nodeOffset": 144231
+    },
+    {
+      "mesh": 34,
+      "name": "Mesh (137)",
+      "skipped": false,
+      "primitiveCount": 6912,
+      "referenceCount": 6976,
+      "nodeCount": 13951,
+      "nodeOffset": 145034
+    },
+    {
+      "mesh": 35,
+      "name": "Mesh (14)",
+      "skipped": false,
+      "primitiveCount": 4352,
+      "referenceCount": 4352,
+      "nodeCount": 8703,
+      "nodeOffset": 158985
+    },
+    {
+      "mesh": 36,
+      "name": "Mesh (140)",
+      "skipped": false,
+      "primitiveCount": 66,
+      "referenceCount": 66,
+      "nodeCount": 131,
+      "nodeOffset": 167688
+    },
+    {
+      "mesh": 37,
+      "name": "Mesh (141)",
+      "skipped": false,
+      "primitiveCount": 66,
+      "referenceCount": 66,
+      "nodeCount": 131,
+      "nodeOffset": 167819
+    },
+    {
+      "mesh": 38,
+      "name": "Mesh (142)",
+      "skipped": false,
+      "primitiveCount": 768,
+      "referenceCount": 768,
+      "nodeCount": 1535,
+      "nodeOffset": 167950
+    },
+    {
+      "mesh": 39,
+      "name": "Mesh (143)",
+      "skipped": false,
+      "primitiveCount": 572,
+      "referenceCount": 684,
+      "nodeCount": 1367,
+      "nodeOffset": 169485
+    },
+    {
+      "mesh": 40,
+      "name": "Mesh (144)",
+      "skipped": false,
+      "primitiveCount": 1260,
+      "referenceCount": 1344,
+      "nodeCount": 2687,
+      "nodeOffset": 170852
+    },
+    {
+      "mesh": 41,
+      "name": "Mesh (145)",
+      "skipped": false,
+      "primitiveCount": 332,
+      "referenceCount": 360,
+      "nodeCount": 719,
+      "nodeOffset": 173539
+    },
+    {
+      "mesh": 42,
+      "name": "Mesh (147)",
+      "skipped": false,
+      "primitiveCount": 4248,
+      "referenceCount": 4588,
+      "nodeCount": 9175,
+      "nodeOffset": 174258
+    },
+    {
+      "mesh": 43,
+      "name": "Mesh (149)",
+      "skipped": false,
+      "primitiveCount": 972,
+      "referenceCount": 972,
+      "nodeCount": 1943,
+      "nodeOffset": 183433
+    },
+    {
+      "mesh": 44,
+      "name": "Mesh (15)",
+      "skipped": false,
+      "primitiveCount": 1248,
+      "referenceCount": 1248,
+      "nodeCount": 2495,
+      "nodeOffset": 185376
+    },
+    {
+      "mesh": 45,
+      "name": "Mesh (150)",
+      "skipped": false,
+      "primitiveCount": 14848,
+      "referenceCount": 14912,
+      "nodeCount": 29823,
+      "nodeOffset": 187871
+    },
+    {
+      "mesh": 46,
+      "name": "Mesh (151)",
+      "skipped": false,
+      "primitiveCount": 688,
+      "referenceCount": 688,
+      "nodeCount": 1375,
+      "nodeOffset": 217694
+    },
+    {
+      "mesh": 47,
+      "name": "Mesh (152)",
+      "skipped": false,
+      "primitiveCount": 688,
+      "referenceCount": 688,
+      "nodeCount": 1375,
+      "nodeOffset": 219069
+    },
+    {
+      "mesh": 48,
+      "name": "Mesh (153)",
+      "skipped": false,
+      "primitiveCount": 24,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 220444
+    },
+    {
+      "mesh": 49,
+      "name": "Mesh (154)",
+      "skipped": false,
+      "primitiveCount": 15168,
+      "referenceCount": 15413,
+      "nodeCount": 30825,
+      "nodeOffset": 220491
+    },
+    {
+      "mesh": 50,
+      "name": "Mesh (155)",
+      "skipped": false,
+      "primitiveCount": 29088,
+      "referenceCount": 29529,
+      "nodeCount": 59057,
+      "nodeOffset": 251316
+    },
+    {
+      "mesh": 51,
+      "name": "Mesh (156)",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 310373
+    },
+    {
+      "mesh": 52,
+      "name": "Mesh (157)",
+      "skipped": false,
+      "primitiveCount": 9472,
+      "referenceCount": 10258,
+      "nodeCount": 20515,
+      "nodeOffset": 310396
+    },
+    {
+      "mesh": 53,
+      "name": "Mesh (158)",
+      "skipped": false,
+      "primitiveCount": 256,
+      "referenceCount": 256,
+      "nodeCount": 511,
+      "nodeOffset": 330911
+    },
+    {
+      "mesh": 54,
+      "name": "Mesh (16)",
+      "skipped": false,
+      "primitiveCount": 972,
+      "referenceCount": 972,
+      "nodeCount": 1943,
+      "nodeOffset": 331422
+    },
+    {
+      "mesh": 55,
+      "name": "Mesh (160)",
+      "skipped": false,
+      "primitiveCount": 396,
+      "referenceCount": 408,
+      "nodeCount": 815,
+      "nodeOffset": 333365
+    },
+    {
+      "mesh": 56,
+      "name": "Mesh (161)",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 334180
+    },
+    {
+      "mesh": 57,
+      "name": "Mesh (162)",
+      "skipped": false,
+      "primitiveCount": 1280,
+      "referenceCount": 1280,
+      "nodeCount": 2559,
+      "nodeOffset": 334203
+    },
+    {
+      "mesh": 58,
+      "name": "Mesh (163)",
+      "skipped": false,
+      "primitiveCount": 1280,
+      "referenceCount": 1280,
+      "nodeCount": 2559,
+      "nodeOffset": 336762
+    },
+    {
+      "mesh": 59,
+      "name": "Mesh (164)",
+      "skipped": false,
+      "primitiveCount": 384,
+      "referenceCount": 384,
+      "nodeCount": 767,
+      "nodeOffset": 339321
+    },
+    {
+      "mesh": 60,
+      "name": "Mesh (165)",
+      "skipped": false,
+      "primitiveCount": 3328,
+      "referenceCount": 3328,
+      "nodeCount": 6655,
+      "nodeOffset": 340088
+    },
+    {
+      "mesh": 61,
+      "name": "Mesh (166)",
+      "skipped": false,
+      "primitiveCount": 19648,
+      "referenceCount": 20543,
+      "nodeCount": 41085,
+      "nodeOffset": 346743
+    },
+    {
+      "mesh": 62,
+      "name": "Mesh (167)",
+      "skipped": false,
+      "primitiveCount": 4864,
+      "referenceCount": 4864,
+      "nodeCount": 9727,
+      "nodeOffset": 387828
+    },
+    {
+      "mesh": 63,
+      "name": "Mesh (168)",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 284,
+      "nodeCount": 567,
+      "nodeOffset": 397555
+    },
+    {
+      "mesh": 64,
+      "name": "Mesh (169)",
+      "skipped": false,
+      "primitiveCount": 19648,
+      "referenceCount": 20543,
+      "nodeCount": 41085,
+      "nodeOffset": 398122
+    },
+    {
+      "mesh": 65,
+      "name": "Mesh (17)",
+      "skipped": false,
+      "primitiveCount": 10176,
+      "referenceCount": 10192,
+      "nodeCount": 20383,
+      "nodeOffset": 439207
+    },
+    {
+      "mesh": 66,
+      "name": "Mesh (170)",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 56,
+      "nodeCount": 111,
+      "nodeOffset": 459590
+    },
+    {
+      "mesh": 67,
+      "name": "Mesh (171)",
+      "skipped": false,
+      "primitiveCount": 720,
+      "referenceCount": 720,
+      "nodeCount": 1439,
+      "nodeOffset": 459701
+    },
+    {
+      "mesh": 68,
+      "name": "Mesh (172)",
+      "skipped": false,
+      "primitiveCount": 8128,
+      "referenceCount": 8202,
+      "nodeCount": 16403,
+      "nodeOffset": 461140
+    },
+    {
+      "mesh": 69,
+      "name": "Mesh (175)",
+      "skipped": false,
+      "primitiveCount": 360,
+      "referenceCount": 360,
+      "nodeCount": 719,
+      "nodeOffset": 477543
+    },
+    {
+      "mesh": 70,
+      "name": "Mesh (176)",
+      "skipped": false,
+      "primitiveCount": 1680,
+      "referenceCount": 1680,
+      "nodeCount": 3359,
+      "nodeOffset": 478262
+    },
+    {
+      "mesh": 71,
+      "name": "Mesh (177)",
+      "skipped": false,
+      "primitiveCount": 412,
+      "referenceCount": 416,
+      "nodeCount": 831,
+      "nodeOffset": 481621
+    },
+    {
+      "mesh": 72,
+      "name": "Mesh (178)",
+      "skipped": false,
+      "primitiveCount": 186368,
+      "referenceCount": 186368,
+      "nodeCount": 372735,
+      "nodeOffset": 482452
+    },
+    {
+      "mesh": 73,
+      "name": "Mesh (179)",
+      "skipped": false,
+      "primitiveCount": 896,
+      "referenceCount": 896,
+      "nodeCount": 1791,
+      "nodeOffset": 855187
+    },
+    {
+      "mesh": 74,
+      "name": "Mesh (18)",
+      "skipped": false,
+      "primitiveCount": 6488,
+      "referenceCount": 6488,
+      "nodeCount": 12975,
+      "nodeOffset": 856978
+    },
+    {
+      "mesh": 75,
+      "name": "Mesh (180)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 869953
+    },
+    {
+      "mesh": 76,
+      "name": "Mesh (181)",
+      "skipped": false,
+      "primitiveCount": 8384,
+      "referenceCount": 8540,
+      "nodeCount": 17079,
+      "nodeOffset": 870008
+    },
+    {
+      "mesh": 77,
+      "name": "Mesh (2)",
+      "skipped": false,
+      "primitiveCount": 480,
+      "referenceCount": 480,
+      "nodeCount": 959,
+      "nodeOffset": 887087
+    },
+    {
+      "mesh": 78,
+      "name": "Mesh (21)",
+      "skipped": false,
+      "primitiveCount": 1680,
+      "referenceCount": 1680,
+      "nodeCount": 3359,
+      "nodeOffset": 888046
+    },
+    {
+      "mesh": 79,
+      "name": "Mesh (22)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 891405
+    },
+    {
+      "mesh": 80,
+      "name": "Mesh (23)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 891468
+    },
+    {
+      "mesh": 81,
+      "name": "Mesh (24)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 891555
+    },
+    {
+      "mesh": 82,
+      "name": "Mesh (25)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 891618
+    },
+    {
+      "mesh": 83,
+      "name": "Mesh (26)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 891673
+    },
+    {
+      "mesh": 84,
+      "name": "Mesh (27)",
+      "skipped": false,
+      "primitiveCount": 832,
+      "referenceCount": 832,
+      "nodeCount": 1663,
+      "nodeOffset": 891760
+    },
+    {
+      "mesh": 85,
+      "name": "Mesh (28)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 893423
+    },
+    {
+      "mesh": 86,
+      "name": "Mesh (29)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 893478
+    },
+    {
+      "mesh": 87,
+      "name": "Mesh (3)",
+      "skipped": false,
+      "primitiveCount": 3520,
+      "referenceCount": 3520,
+      "nodeCount": 7039,
+      "nodeOffset": 893481
+    },
+    {
+      "mesh": 88,
+      "name": "Mesh (31)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 900520
+    },
+    {
+      "mesh": 89,
+      "name": "Mesh (32)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 900575
+    },
+    {
+      "mesh": 90,
+      "name": "Mesh (33)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 900630
+    },
+    {
+      "mesh": 91,
+      "name": "Mesh (34)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 900685
+    },
+    {
+      "mesh": 92,
+      "name": "Mesh (35)",
+      "skipped": false,
+      "primitiveCount": 14848,
+      "referenceCount": 14912,
+      "nodeCount": 29823,
+      "nodeOffset": 900748
+    },
+    {
+      "mesh": 93,
+      "name": "Mesh (37)",
+      "skipped": false,
+      "primitiveCount": 1280,
+      "referenceCount": 1280,
+      "nodeCount": 2559,
+      "nodeOffset": 930571
+    },
+    {
+      "mesh": 94,
+      "name": "Mesh (38)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 933130
+    },
+    {
+      "mesh": 95,
+      "name": "Mesh (39)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 933185
+    },
+    {
+      "mesh": 96,
+      "name": "Mesh (41)",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 933240
+    },
+    {
+      "mesh": 97,
+      "name": "Mesh (42)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 933279
+    },
+    {
+      "mesh": 98,
+      "name": "Mesh (43)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 933334
+    },
+    {
+      "mesh": 99,
+      "name": "Mesh (44)",
+      "skipped": false,
+      "primitiveCount": 14848,
+      "referenceCount": 14912,
+      "nodeCount": 29823,
+      "nodeOffset": 933389
+    },
+    {
+      "mesh": 100,
+      "name": "Mesh (45)",
+      "skipped": false,
+      "primitiveCount": 5120,
+      "referenceCount": 5120,
+      "nodeCount": 10239,
+      "nodeOffset": 963212
+    },
+    {
+      "mesh": 101,
+      "name": "Mesh (46)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 973451
+    },
+    {
+      "mesh": 102,
+      "name": "Mesh (47)",
+      "skipped": false,
+      "primitiveCount": 128,
+      "referenceCount": 200,
+      "nodeCount": 399,
+      "nodeOffset": 973506
+    },
+    {
+      "mesh": 103,
+      "name": "Mesh (48)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 973905
+    },
+    {
+      "mesh": 104,
+      "name": "Mesh (49)",
+      "skipped": false,
+      "primitiveCount": 76,
+      "referenceCount": 86,
+      "nodeCount": 171,
+      "nodeOffset": 973908
+    },
+    {
+      "mesh": 105,
+      "name": "Mesh (50)",
+      "skipped": false,
+      "primitiveCount": 128,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 974079
+    },
+    {
+      "mesh": 106,
+      "name": "Mesh (51)",
+      "skipped": false,
+      "primitiveCount": 42,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 974462
+    },
+    {
+      "mesh": 107,
+      "name": "Mesh (52)",
+      "skipped": false,
+      "primitiveCount": 1296,
+      "referenceCount": 1296,
+      "nodeCount": 2591,
+      "nodeOffset": 974549
+    },
+    {
+      "mesh": 108,
+      "name": "Mesh (53)",
+      "skipped": false,
+      "primitiveCount": 2688,
+      "referenceCount": 2688,
+      "nodeCount": 5375,
+      "nodeOffset": 977140
+    },
+    {
+      "mesh": 109,
+      "name": "Mesh (54)",
+      "skipped": false,
+      "primitiveCount": 76,
+      "referenceCount": 76,
+      "nodeCount": 151,
+      "nodeOffset": 982515
+    },
+    {
+      "mesh": 110,
+      "name": "Mesh (55)",
+      "skipped": false,
+      "primitiveCount": 288,
+      "referenceCount": 384,
+      "nodeCount": 767,
+      "nodeOffset": 982666
+    },
+    {
+      "mesh": 111,
+      "name": "Mesh (57)",
+      "skipped": false,
+      "primitiveCount": 1680,
+      "referenceCount": 1680,
+      "nodeCount": 3359,
+      "nodeOffset": 983433
+    },
+    {
+      "mesh": 112,
+      "name": "Mesh (58)",
+      "skipped": false,
+      "primitiveCount": 360,
+      "referenceCount": 360,
+      "nodeCount": 719,
+      "nodeOffset": 986792
+    },
+    {
+      "mesh": 113,
+      "name": "Mesh (6)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 987511
+    },
+    {
+      "mesh": 114,
+      "name": "Mesh (60)",
+      "skipped": false,
+      "primitiveCount": 1680,
+      "referenceCount": 1680,
+      "nodeCount": 3359,
+      "nodeOffset": 987566
+    },
+    {
+      "mesh": 115,
+      "name": "Mesh (61)",
+      "skipped": false,
+      "primitiveCount": 1104,
+      "referenceCount": 1112,
+      "nodeCount": 2223,
+      "nodeOffset": 990925
+    },
+    {
+      "mesh": 116,
+      "name": "Mesh (64)",
+      "skipped": false,
+      "primitiveCount": 1296,
+      "referenceCount": 1296,
+      "nodeCount": 2591,
+      "nodeOffset": 993148
+    },
+    {
+      "mesh": 117,
+      "name": "Mesh (65)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 995739
+    },
+    {
+      "mesh": 118,
+      "name": "Mesh (66)",
+      "skipped": false,
+      "primitiveCount": 1248,
+      "referenceCount": 1248,
+      "nodeCount": 2495,
+      "nodeOffset": 995802
+    },
+    {
+      "mesh": 119,
+      "name": "Mesh (67)",
+      "skipped": false,
+      "primitiveCount": 1720,
+      "referenceCount": 1726,
+      "nodeCount": 3451,
+      "nodeOffset": 998297
+    },
+    {
+      "mesh": 120,
+      "name": "Mesh (68)",
+      "skipped": false,
+      "primitiveCount": 960,
+      "referenceCount": 960,
+      "nodeCount": 1919,
+      "nodeOffset": 1001748
+    },
+    {
+      "mesh": 121,
+      "name": "Mesh (69)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1003667
+    },
+    {
+      "mesh": 122,
+      "name": "Mesh (7)",
+      "skipped": false,
+      "primitiveCount": 172,
+      "referenceCount": 174,
+      "nodeCount": 347,
+      "nodeOffset": 1003670
+    },
+    {
+      "mesh": 123,
+      "name": "Mesh (70)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 1004017
+    },
+    {
+      "mesh": 124,
+      "name": "Mesh (71)",
+      "skipped": false,
+      "primitiveCount": 372,
+      "referenceCount": 372,
+      "nodeCount": 743,
+      "nodeOffset": 1004104
+    },
+    {
+      "mesh": 125,
+      "name": "Mesh (73)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 1004847
+    },
+    {
+      "mesh": 126,
+      "name": "Mesh (74)",
+      "skipped": false,
+      "primitiveCount": 128,
+      "referenceCount": 200,
+      "nodeCount": 399,
+      "nodeOffset": 1004934
+    },
+    {
+      "mesh": 127,
+      "name": "Mesh (75)",
+      "skipped": false,
+      "primitiveCount": 224,
+      "referenceCount": 224,
+      "nodeCount": 447,
+      "nodeOffset": 1005333
+    },
+    {
+      "mesh": 128,
+      "name": "Mesh (77)",
+      "skipped": false,
+      "primitiveCount": 1584,
+      "referenceCount": 1606,
+      "nodeCount": 3211,
+      "nodeOffset": 1005780
+    },
+    {
+      "mesh": 129,
+      "name": "Mesh (8)",
+      "skipped": false,
+      "primitiveCount": 172,
+      "referenceCount": 174,
+      "nodeCount": 347,
+      "nodeOffset": 1008991
+    },
+    {
+      "mesh": 130,
+      "name": "Mesh (80)",
+      "skipped": false,
+      "primitiveCount": 8128,
+      "referenceCount": 8202,
+      "nodeCount": 16403,
+      "nodeOffset": 1009338
+    },
+    {
+      "mesh": 131,
+      "name": "Mesh (81)",
+      "skipped": false,
+      "primitiveCount": 9344,
+      "referenceCount": 9344,
+      "nodeCount": 18687,
+      "nodeOffset": 1025741
+    },
+    {
+      "mesh": 132,
+      "name": "Mesh (82)",
+      "skipped": false,
+      "primitiveCount": 4224,
+      "referenceCount": 4224,
+      "nodeCount": 8447,
+      "nodeOffset": 1044428
+    },
+    {
+      "mesh": 133,
+      "name": "Mesh (83)",
+      "skipped": false,
+      "primitiveCount": 1200,
+      "referenceCount": 1200,
+      "nodeCount": 2399,
+      "nodeOffset": 1052875
+    },
+    {
+      "mesh": 134,
+      "name": "Mesh (84)",
+      "skipped": false,
+      "primitiveCount": 4352,
+      "referenceCount": 4352,
+      "nodeCount": 8703,
+      "nodeOffset": 1055274
+    },
+    {
+      "mesh": 135,
+      "name": "Mesh (85)",
+      "skipped": false,
+      "primitiveCount": 972,
+      "referenceCount": 972,
+      "nodeCount": 1943,
+      "nodeOffset": 1063977
+    },
+    {
+      "mesh": 136,
+      "name": "Mesh (86)",
+      "skipped": false,
+      "primitiveCount": 1408,
+      "referenceCount": 1431,
+      "nodeCount": 2861,
+      "nodeOffset": 1065920
+    },
+    {
+      "mesh": 137,
+      "name": "Mesh (87)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 30,
+      "nodeCount": 59,
+      "nodeOffset": 1068781
+    },
+    {
+      "mesh": 138,
+      "name": "Mesh (88)",
+      "skipped": false,
+      "primitiveCount": 8704,
+      "referenceCount": 8704,
+      "nodeCount": 17407,
+      "nodeOffset": 1068840
+    },
+    {
+      "mesh": 139,
+      "name": "Mesh (89)",
+      "skipped": false,
+      "primitiveCount": 1248,
+      "referenceCount": 1248,
+      "nodeCount": 2495,
+      "nodeOffset": 1086247
+    },
+    {
+      "mesh": 140,
+      "name": "Mesh (90)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 1088742
+    },
+    {
+      "mesh": 141,
+      "name": "Mesh (91)",
+      "skipped": false,
+      "primitiveCount": 13568,
+      "referenceCount": 13600,
+      "nodeCount": 27199,
+      "nodeOffset": 1088805
+    },
+    {
+      "mesh": 142,
+      "name": "Mesh (92)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1116004
+    },
+    {
+      "mesh": 143,
+      "name": "Mesh (93)",
+      "skipped": false,
+      "primitiveCount": 1248,
+      "referenceCount": 1248,
+      "nodeCount": 2495,
+      "nodeOffset": 1116007
+    },
+    {
+      "mesh": 144,
+      "name": "Mesh (94)",
+      "skipped": false,
+      "primitiveCount": 768,
+      "referenceCount": 768,
+      "nodeCount": 1535,
+      "nodeOffset": 1118502
+    },
+    {
+      "mesh": 145,
+      "name": "Mesh (95)",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 1120037
+    },
+    {
+      "mesh": 146,
+      "name": "Mesh (96)",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 1120124
+    },
+    {
+      "mesh": 147,
+      "name": "Mesh (97)",
+      "skipped": false,
+      "primitiveCount": 412,
+      "referenceCount": 416,
+      "nodeCount": 831,
+      "nodeOffset": 1120179
+    },
+    {
+      "mesh": 148,
+      "name": "Mesh (99)",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1121010
+    },
+    {
+      "mesh": 149,
+      "name": "WhitePaint",
+      "skipped": false,
+      "primitiveCount": 25483,
+      "referenceCount": 27136,
+      "nodeCount": 54271,
+      "nodeOffset": 1121013
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 1175284,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "living_room.sbvh.bin"
+}

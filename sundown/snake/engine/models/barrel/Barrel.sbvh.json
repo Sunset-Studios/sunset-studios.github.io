@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:44:58.145Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "Barrel.gltf",
+    "buffers": [
+      "Barrel.bin"
+    ],
+    "hash": "596914d1cc05654e9feea884204690c166d0b1ab"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Cylinder.003",
+      "skipped": false,
+      "primitiveCount": 5664,
+      "referenceCount": 6348,
+      "nodeCount": 12695,
+      "nodeOffset": 0
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 12695,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "Barrel.sbvh.bin"
+}

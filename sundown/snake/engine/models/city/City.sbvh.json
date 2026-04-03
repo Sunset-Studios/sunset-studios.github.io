@@ -1,0 +1,856 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:44:58.448Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "City.gltf",
+    "buffers": [
+      "City.bin"
+    ],
+    "hash": "a69bced0f95d5a6b1e94f1113d4460d58208422d"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Scene.001",
+      "skipped": false,
+      "primitiveCount": 192,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 0
+    },
+    {
+      "mesh": 1,
+      "name": "Scene.002",
+      "skipped": false,
+      "primitiveCount": 708,
+      "referenceCount": 787,
+      "nodeCount": 1573,
+      "nodeOffset": 383
+    },
+    {
+      "mesh": 2,
+      "name": "Scene.003",
+      "skipped": false,
+      "primitiveCount": 758,
+      "referenceCount": 867,
+      "nodeCount": 1733,
+      "nodeOffset": 1956
+    },
+    {
+      "mesh": 3,
+      "name": "Scene",
+      "skipped": false,
+      "primitiveCount": 30,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 3689
+    },
+    {
+      "mesh": 4,
+      "name": "Scene.004",
+      "skipped": false,
+      "primitiveCount": 60,
+      "referenceCount": 74,
+      "nodeCount": 147,
+      "nodeOffset": 3752
+    },
+    {
+      "mesh": 5,
+      "name": "Scene.005",
+      "skipped": false,
+      "primitiveCount": 896,
+      "referenceCount": 896,
+      "nodeCount": 1791,
+      "nodeOffset": 3899
+    },
+    {
+      "mesh": 6,
+      "name": "Scene.006",
+      "skipped": false,
+      "primitiveCount": 70,
+      "referenceCount": 70,
+      "nodeCount": 139,
+      "nodeOffset": 5690
+    },
+    {
+      "mesh": 7,
+      "name": "Scene.007",
+      "skipped": false,
+      "primitiveCount": 352,
+      "referenceCount": 352,
+      "nodeCount": 703,
+      "nodeOffset": 5829
+    },
+    {
+      "mesh": 8,
+      "name": "Scene.008",
+      "skipped": false,
+      "primitiveCount": 46,
+      "referenceCount": 60,
+      "nodeCount": 119,
+      "nodeOffset": 6532
+    },
+    {
+      "mesh": 9,
+      "name": "Scene.009",
+      "skipped": false,
+      "primitiveCount": 408,
+      "referenceCount": 450,
+      "nodeCount": 899,
+      "nodeOffset": 6651
+    },
+    {
+      "mesh": 10,
+      "name": "Scene.010",
+      "skipped": false,
+      "primitiveCount": 13499,
+      "referenceCount": 15002,
+      "nodeCount": 30003,
+      "nodeOffset": 7550
+    },
+    {
+      "mesh": 11,
+      "name": "Scene.011",
+      "skipped": false,
+      "primitiveCount": 356,
+      "referenceCount": 518,
+      "nodeCount": 1035,
+      "nodeOffset": 37553
+    },
+    {
+      "mesh": 12,
+      "name": "Scene.012",
+      "skipped": false,
+      "primitiveCount": 140,
+      "referenceCount": 140,
+      "nodeCount": 279,
+      "nodeOffset": 38588
+    },
+    {
+      "mesh": 13,
+      "name": "Scene.013",
+      "skipped": false,
+      "primitiveCount": 464,
+      "referenceCount": 865,
+      "nodeCount": 1729,
+      "nodeOffset": 38867
+    },
+    {
+      "mesh": 14,
+      "name": "Scene.014",
+      "skipped": false,
+      "primitiveCount": 3580,
+      "referenceCount": 4290,
+      "nodeCount": 8579,
+      "nodeOffset": 40596
+    },
+    {
+      "mesh": 15,
+      "name": "Scene.015",
+      "skipped": false,
+      "primitiveCount": 1248,
+      "referenceCount": 1248,
+      "nodeCount": 2495,
+      "nodeOffset": 49175
+    },
+    {
+      "mesh": 16,
+      "name": "Scene.016",
+      "skipped": false,
+      "primitiveCount": 306,
+      "referenceCount": 379,
+      "nodeCount": 757,
+      "nodeOffset": 51670
+    },
+    {
+      "mesh": 17,
+      "name": "Scene.017",
+      "skipped": false,
+      "primitiveCount": 5708,
+      "referenceCount": 6346,
+      "nodeCount": 12691,
+      "nodeOffset": 52427
+    },
+    {
+      "mesh": 18,
+      "name": "Scene.018",
+      "skipped": false,
+      "primitiveCount": 678,
+      "referenceCount": 802,
+      "nodeCount": 1603,
+      "nodeOffset": 65118
+    },
+    {
+      "mesh": 19,
+      "name": "Scene.019",
+      "skipped": false,
+      "primitiveCount": 244,
+      "referenceCount": 279,
+      "nodeCount": 557,
+      "nodeOffset": 66721
+    },
+    {
+      "mesh": 20,
+      "name": "Scene.020",
+      "skipped": false,
+      "primitiveCount": 60,
+      "referenceCount": 80,
+      "nodeCount": 159,
+      "nodeOffset": 67278
+    },
+    {
+      "mesh": 21,
+      "name": "Scene.021",
+      "skipped": false,
+      "primitiveCount": 1224,
+      "referenceCount": 1224,
+      "nodeCount": 2447,
+      "nodeOffset": 67437
+    },
+    {
+      "mesh": 22,
+      "name": "Scene.022",
+      "skipped": false,
+      "primitiveCount": 126,
+      "referenceCount": 126,
+      "nodeCount": 251,
+      "nodeOffset": 69884
+    },
+    {
+      "mesh": 23,
+      "name": "Scene.023",
+      "skipped": false,
+      "primitiveCount": 190,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 70135
+    },
+    {
+      "mesh": 24,
+      "name": "Scene.024",
+      "skipped": false,
+      "primitiveCount": 1246,
+      "referenceCount": 1246,
+      "nodeCount": 2491,
+      "nodeOffset": 70518
+    },
+    {
+      "mesh": 25,
+      "name": "Scene.025",
+      "skipped": false,
+      "primitiveCount": 678,
+      "referenceCount": 848,
+      "nodeCount": 1695,
+      "nodeOffset": 73009
+    },
+    {
+      "mesh": 26,
+      "name": "Scene.026",
+      "skipped": false,
+      "primitiveCount": 392,
+      "referenceCount": 428,
+      "nodeCount": 855,
+      "nodeOffset": 74704
+    },
+    {
+      "mesh": 27,
+      "name": "Scene.027",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 75559
+    },
+    {
+      "mesh": 28,
+      "name": "Scene.028",
+      "skipped": false,
+      "primitiveCount": 992,
+      "referenceCount": 992,
+      "nodeCount": 1983,
+      "nodeOffset": 75858
+    },
+    {
+      "mesh": 29,
+      "name": "Scene.080",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 77841
+    },
+    {
+      "mesh": 30,
+      "name": "Scene.081",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 78140
+    },
+    {
+      "mesh": 31,
+      "name": "Scene.082",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 78439
+    },
+    {
+      "mesh": 32,
+      "name": "Scene.083",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 78738
+    },
+    {
+      "mesh": 33,
+      "name": "Scene.084",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 79037
+    },
+    {
+      "mesh": 34,
+      "name": "Scene.085",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 79336
+    },
+    {
+      "mesh": 35,
+      "name": "Scene.029",
+      "skipped": false,
+      "primitiveCount": 390,
+      "referenceCount": 449,
+      "nodeCount": 897,
+      "nodeOffset": 79635
+    },
+    {
+      "mesh": 36,
+      "name": "Scene.030",
+      "skipped": false,
+      "primitiveCount": 3064,
+      "referenceCount": 3150,
+      "nodeCount": 6299,
+      "nodeOffset": 80532
+    },
+    {
+      "mesh": 37,
+      "name": "Scene.032",
+      "skipped": false,
+      "primitiveCount": 130817,
+      "referenceCount": 148123,
+      "nodeCount": 296245,
+      "nodeOffset": 86831
+    },
+    {
+      "mesh": 38,
+      "name": "Scene.031",
+      "skipped": false,
+      "primitiveCount": 52,
+      "referenceCount": 52,
+      "nodeCount": 103,
+      "nodeOffset": 383076
+    },
+    {
+      "mesh": 39,
+      "name": "Scene.033",
+      "skipped": false,
+      "primitiveCount": 1080,
+      "referenceCount": 1080,
+      "nodeCount": 2159,
+      "nodeOffset": 383179
+    },
+    {
+      "mesh": 40,
+      "name": "Scene.034",
+      "skipped": false,
+      "primitiveCount": 392,
+      "referenceCount": 428,
+      "nodeCount": 855,
+      "nodeOffset": 385338
+    },
+    {
+      "mesh": 41,
+      "name": "Scene.035",
+      "skipped": false,
+      "primitiveCount": 584,
+      "referenceCount": 783,
+      "nodeCount": 1565,
+      "nodeOffset": 386193
+    },
+    {
+      "mesh": 42,
+      "name": "Scene.036",
+      "skipped": false,
+      "primitiveCount": 26,
+      "referenceCount": 26,
+      "nodeCount": 51,
+      "nodeOffset": 387758
+    },
+    {
+      "mesh": 43,
+      "name": "Scene.037",
+      "skipped": false,
+      "primitiveCount": 32105,
+      "referenceCount": 36858,
+      "nodeCount": 73715,
+      "nodeOffset": 387809
+    },
+    {
+      "mesh": 44,
+      "name": "Scene.038",
+      "skipped": false,
+      "primitiveCount": 840,
+      "referenceCount": 840,
+      "nodeCount": 1679,
+      "nodeOffset": 461524
+    },
+    {
+      "mesh": 45,
+      "name": "Scene.039",
+      "skipped": false,
+      "primitiveCount": 448,
+      "referenceCount": 501,
+      "nodeCount": 1001,
+      "nodeOffset": 463203
+    },
+    {
+      "mesh": 46,
+      "name": "Scene.040",
+      "skipped": false,
+      "primitiveCount": 616,
+      "referenceCount": 646,
+      "nodeCount": 1291,
+      "nodeOffset": 464204
+    },
+    {
+      "mesh": 47,
+      "name": "Scene.041",
+      "skipped": false,
+      "primitiveCount": 198,
+      "referenceCount": 259,
+      "nodeCount": 517,
+      "nodeOffset": 465495
+    },
+    {
+      "mesh": 48,
+      "name": "Scene.042",
+      "skipped": false,
+      "primitiveCount": 174,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 466012
+    },
+    {
+      "mesh": 49,
+      "name": "Scene.043",
+      "skipped": false,
+      "primitiveCount": 246,
+      "referenceCount": 320,
+      "nodeCount": 639,
+      "nodeOffset": 466395
+    },
+    {
+      "mesh": 50,
+      "name": "Scene.044",
+      "skipped": false,
+      "primitiveCount": 120,
+      "referenceCount": 120,
+      "nodeCount": 239,
+      "nodeOffset": 467034
+    },
+    {
+      "mesh": 51,
+      "name": "Scene.045",
+      "skipped": false,
+      "primitiveCount": 636,
+      "referenceCount": 668,
+      "nodeCount": 1335,
+      "nodeOffset": 467273
+    },
+    {
+      "mesh": 52,
+      "name": "Scene.046",
+      "skipped": false,
+      "primitiveCount": 436,
+      "referenceCount": 488,
+      "nodeCount": 975,
+      "nodeOffset": 468608
+    },
+    {
+      "mesh": 53,
+      "name": "Scene.047",
+      "skipped": false,
+      "primitiveCount": 2800,
+      "referenceCount": 2816,
+      "nodeCount": 5631,
+      "nodeOffset": 469583
+    },
+    {
+      "mesh": 54,
+      "name": "Scene.048",
+      "skipped": false,
+      "primitiveCount": 9464,
+      "referenceCount": 10739,
+      "nodeCount": 21477,
+      "nodeOffset": 475214
+    },
+    {
+      "mesh": 55,
+      "name": "Scene.049",
+      "skipped": false,
+      "primitiveCount": 134,
+      "referenceCount": 156,
+      "nodeCount": 311,
+      "nodeOffset": 496691
+    },
+    {
+      "mesh": 56,
+      "name": "Scene.050",
+      "skipped": false,
+      "primitiveCount": 404,
+      "referenceCount": 510,
+      "nodeCount": 1019,
+      "nodeOffset": 497002
+    },
+    {
+      "mesh": 57,
+      "name": "Scene.051",
+      "skipped": false,
+      "primitiveCount": 3136,
+      "referenceCount": 3144,
+      "nodeCount": 6287,
+      "nodeOffset": 498021
+    },
+    {
+      "mesh": 58,
+      "name": "Scene.052",
+      "skipped": false,
+      "primitiveCount": 294,
+      "referenceCount": 422,
+      "nodeCount": 843,
+      "nodeOffset": 504308
+    },
+    {
+      "mesh": 59,
+      "name": "Scene.053",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 505151
+    },
+    {
+      "mesh": 60,
+      "name": "Scene.054",
+      "skipped": false,
+      "primitiveCount": 720,
+      "referenceCount": 720,
+      "nodeCount": 1439,
+      "nodeOffset": 505206
+    },
+    {
+      "mesh": 61,
+      "name": "Scene.055",
+      "skipped": false,
+      "primitiveCount": 278,
+      "referenceCount": 326,
+      "nodeCount": 651,
+      "nodeOffset": 506645
+    },
+    {
+      "mesh": 62,
+      "name": "Scene.056",
+      "skipped": false,
+      "primitiveCount": 3240,
+      "referenceCount": 3240,
+      "nodeCount": 6479,
+      "nodeOffset": 507296
+    },
+    {
+      "mesh": 63,
+      "name": "Scene.057",
+      "skipped": false,
+      "primitiveCount": 126,
+      "referenceCount": 126,
+      "nodeCount": 251,
+      "nodeOffset": 513775
+    },
+    {
+      "mesh": 64,
+      "name": "Scene.058",
+      "skipped": false,
+      "primitiveCount": 28530,
+      "referenceCount": 30926,
+      "nodeCount": 61851,
+      "nodeOffset": 514026
+    },
+    {
+      "mesh": 65,
+      "name": "Scene.059",
+      "skipped": false,
+      "primitiveCount": 144,
+      "referenceCount": 176,
+      "nodeCount": 351,
+      "nodeOffset": 575877
+    },
+    {
+      "mesh": 66,
+      "name": "Scene.060",
+      "skipped": false,
+      "primitiveCount": 194,
+      "referenceCount": 228,
+      "nodeCount": 455,
+      "nodeOffset": 576228
+    },
+    {
+      "mesh": 67,
+      "name": "Scene.061",
+      "skipped": false,
+      "primitiveCount": 278,
+      "referenceCount": 502,
+      "nodeCount": 1003,
+      "nodeOffset": 576683
+    },
+    {
+      "mesh": 68,
+      "name": "Scene.064",
+      "skipped": false,
+      "primitiveCount": 186,
+      "referenceCount": 198,
+      "nodeCount": 395,
+      "nodeOffset": 577686
+    },
+    {
+      "mesh": 69,
+      "name": "Scene.063",
+      "skipped": false,
+      "primitiveCount": 66,
+      "referenceCount": 66,
+      "nodeCount": 131,
+      "nodeOffset": 578081
+    },
+    {
+      "mesh": 70,
+      "name": "Scene.065",
+      "skipped": false,
+      "primitiveCount": 84,
+      "referenceCount": 86,
+      "nodeCount": 171,
+      "nodeOffset": 578212
+    },
+    {
+      "mesh": 71,
+      "name": "Scene.067",
+      "skipped": false,
+      "primitiveCount": 1016,
+      "referenceCount": 1112,
+      "nodeCount": 2223,
+      "nodeOffset": 578383
+    },
+    {
+      "mesh": 72,
+      "name": "Scene.066",
+      "skipped": false,
+      "primitiveCount": 2058,
+      "referenceCount": 2357,
+      "nodeCount": 4713,
+      "nodeOffset": 580606
+    },
+    {
+      "mesh": 73,
+      "name": "Scene.069",
+      "skipped": false,
+      "primitiveCount": 2303,
+      "referenceCount": 2422,
+      "nodeCount": 4843,
+      "nodeOffset": 585319
+    },
+    {
+      "mesh": 74,
+      "name": "Scene.068",
+      "skipped": false,
+      "primitiveCount": 3052,
+      "referenceCount": 3088,
+      "nodeCount": 6175,
+      "nodeOffset": 590162
+    },
+    {
+      "mesh": 75,
+      "name": "Scene.062",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 160,
+      "nodeCount": 319,
+      "nodeOffset": 596337
+    },
+    {
+      "mesh": 76,
+      "name": "Scene.086",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 596656
+    },
+    {
+      "mesh": 77,
+      "name": "Scene.087",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 596955
+    },
+    {
+      "mesh": 78,
+      "name": "Scene.088",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 597254
+    },
+    {
+      "mesh": 79,
+      "name": "Scene.070",
+      "skipped": false,
+      "primitiveCount": 1733,
+      "referenceCount": 2332,
+      "nodeCount": 4663,
+      "nodeOffset": 597553
+    },
+    {
+      "mesh": 80,
+      "name": "Scene.071",
+      "skipped": false,
+      "primitiveCount": 1344,
+      "referenceCount": 1344,
+      "nodeCount": 2687,
+      "nodeOffset": 602216
+    },
+    {
+      "mesh": 81,
+      "name": "Scene.072",
+      "skipped": false,
+      "primitiveCount": 1260,
+      "referenceCount": 1260,
+      "nodeCount": 2519,
+      "nodeOffset": 604903
+    },
+    {
+      "mesh": 82,
+      "name": "Scene.089",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 607422
+    },
+    {
+      "mesh": 83,
+      "name": "Scene.090",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 607721
+    },
+    {
+      "mesh": 84,
+      "name": "Scene.091",
+      "skipped": false,
+      "primitiveCount": 112,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 608020
+    },
+    {
+      "mesh": 85,
+      "name": "Scene.073",
+      "skipped": false,
+      "primitiveCount": 936,
+      "referenceCount": 936,
+      "nodeCount": 1871,
+      "nodeOffset": 608319
+    },
+    {
+      "mesh": 86,
+      "name": "Scene.074",
+      "skipped": false,
+      "primitiveCount": 94,
+      "referenceCount": 132,
+      "nodeCount": 263,
+      "nodeOffset": 610190
+    },
+    {
+      "mesh": 87,
+      "name": "Scene.075",
+      "skipped": false,
+      "primitiveCount": 4928,
+      "referenceCount": 5608,
+      "nodeCount": 11215,
+      "nodeOffset": 610453
+    },
+    {
+      "mesh": 88,
+      "name": "Scene.076",
+      "skipped": false,
+      "primitiveCount": 288,
+      "referenceCount": 288,
+      "nodeCount": 575,
+      "nodeOffset": 621668
+    },
+    {
+      "mesh": 89,
+      "name": "Scene.077",
+      "skipped": false,
+      "primitiveCount": 5600,
+      "referenceCount": 6224,
+      "nodeCount": 12447,
+      "nodeOffset": 622243
+    },
+    {
+      "mesh": 90,
+      "name": "Scene.078",
+      "skipped": false,
+      "primitiveCount": 1778,
+      "referenceCount": 1942,
+      "nodeCount": 3883,
+      "nodeOffset": 634690
+    },
+    {
+      "mesh": 91,
+      "name": "Scene.079",
+      "skipped": false,
+      "primitiveCount": 1372,
+      "referenceCount": 1529,
+      "nodeCount": 3057,
+      "nodeOffset": 638573
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 641630,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "City.sbvh.bin"
+}

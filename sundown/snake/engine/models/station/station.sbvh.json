@@ -1,0 +1,2692 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:46:11.160Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "station.gltf",
+    "buffers": [
+      "station.bin"
+    ],
+    "hash": "28b541c54c84539422e9877820dc11320f110028"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Component#431",
+      "skipped": false,
+      "primitiveCount": 165,
+      "referenceCount": 225,
+      "nodeCount": 449,
+      "nodeOffset": 0
+    },
+    {
+      "mesh": 1,
+      "name": "Component#432",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 449
+    },
+    {
+      "mesh": 2,
+      "name": "Component#356",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 536
+    },
+    {
+      "mesh": 3,
+      "name": "Component#398",
+      "skipped": false,
+      "primitiveCount": 80,
+      "referenceCount": 141,
+      "nodeCount": 281,
+      "nodeOffset": 575
+    },
+    {
+      "mesh": 4,
+      "name": "Component#397",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 856
+    },
+    {
+      "mesh": 5,
+      "name": "Component#357",
+      "skipped": false,
+      "primitiveCount": 768,
+      "referenceCount": 918,
+      "nodeCount": 1835,
+      "nodeOffset": 895
+    },
+    {
+      "mesh": 6,
+      "name": "G-__556140",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 2730
+    },
+    {
+      "mesh": 7,
+      "name": "a1",
+      "skipped": false,
+      "primitiveCount": 48,
+      "referenceCount": 48,
+      "nodeCount": 95,
+      "nodeOffset": 3341
+    },
+    {
+      "mesh": 8,
+      "name": "Component#395",
+      "skipped": false,
+      "primitiveCount": 42,
+      "referenceCount": 42,
+      "nodeCount": 83,
+      "nodeOffset": 3436
+    },
+    {
+      "mesh": 9,
+      "name": "Component#394",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 116,
+      "nodeCount": 231,
+      "nodeOffset": 3519
+    },
+    {
+      "mesh": 10,
+      "name": "Component#393",
+      "skipped": false,
+      "primitiveCount": 33,
+      "referenceCount": 33,
+      "nodeCount": 65,
+      "nodeOffset": 3750
+    },
+    {
+      "mesh": 11,
+      "name": "Component#389",
+      "skipped": false,
+      "primitiveCount": 134,
+      "referenceCount": 134,
+      "nodeCount": 267,
+      "nodeOffset": 3815
+    },
+    {
+      "mesh": 12,
+      "name": "Component#388",
+      "skipped": false,
+      "primitiveCount": 808,
+      "referenceCount": 813,
+      "nodeCount": 1625,
+      "nodeOffset": 4082
+    },
+    {
+      "mesh": 13,
+      "name": "Component#387",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 5707
+    },
+    {
+      "mesh": 14,
+      "name": "Component#386",
+      "skipped": false,
+      "primitiveCount": 24,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 5730
+    },
+    {
+      "mesh": 15,
+      "name": "Component#385",
+      "skipped": false,
+      "primitiveCount": 15,
+      "referenceCount": 15,
+      "nodeCount": 29,
+      "nodeOffset": 5777
+    },
+    {
+      "mesh": 16,
+      "name": "Component#383",
+      "skipped": false,
+      "primitiveCount": 574,
+      "referenceCount": 637,
+      "nodeCount": 1273,
+      "nodeOffset": 5806
+    },
+    {
+      "mesh": 17,
+      "name": "Component#382",
+      "skipped": false,
+      "primitiveCount": 652,
+      "referenceCount": 901,
+      "nodeCount": 1801,
+      "nodeOffset": 7079
+    },
+    {
+      "mesh": 18,
+      "name": "Component#392",
+      "skipped": false,
+      "primitiveCount": 91,
+      "referenceCount": 96,
+      "nodeCount": 191,
+      "nodeOffset": 8880
+    },
+    {
+      "mesh": 19,
+      "name": "Component#391",
+      "skipped": false,
+      "primitiveCount": 30,
+      "referenceCount": 34,
+      "nodeCount": 67,
+      "nodeOffset": 9071
+    },
+    {
+      "mesh": 20,
+      "name": "Component#390",
+      "skipped": false,
+      "primitiveCount": 42,
+      "referenceCount": 55,
+      "nodeCount": 109,
+      "nodeOffset": 9138
+    },
+    {
+      "mesh": 21,
+      "name": "Component#384",
+      "skipped": false,
+      "primitiveCount": 140,
+      "referenceCount": 140,
+      "nodeCount": 279,
+      "nodeOffset": 9247
+    },
+    {
+      "mesh": 22,
+      "name": "Component#381",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 188,
+      "nodeCount": 375,
+      "nodeOffset": 9526
+    },
+    {
+      "mesh": 23,
+      "name": "Component#380",
+      "skipped": false,
+      "primitiveCount": 187,
+      "referenceCount": 195,
+      "nodeCount": 389,
+      "nodeOffset": 9901
+    },
+    {
+      "mesh": 24,
+      "name": "Component#379",
+      "skipped": false,
+      "primitiveCount": 141,
+      "referenceCount": 161,
+      "nodeCount": 321,
+      "nodeOffset": 10290
+    },
+    {
+      "mesh": 25,
+      "name": "Component#378",
+      "skipped": false,
+      "primitiveCount": 470,
+      "referenceCount": 477,
+      "nodeCount": 953,
+      "nodeOffset": 10611
+    },
+    {
+      "mesh": 26,
+      "name": "Component#377",
+      "skipped": false,
+      "primitiveCount": 1034,
+      "referenceCount": 1196,
+      "nodeCount": 2391,
+      "nodeOffset": 11564
+    },
+    {
+      "mesh": 27,
+      "name": "G-__556131",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 13955
+    },
+    {
+      "mesh": 28,
+      "name": "Component#491",
+      "skipped": false,
+      "primitiveCount": 18,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 14566
+    },
+    {
+      "mesh": 29,
+      "name": "Component#492",
+      "skipped": false,
+      "primitiveCount": 22,
+      "referenceCount": 22,
+      "nodeCount": 43,
+      "nodeOffset": 14613
+    },
+    {
+      "mesh": 30,
+      "name": "G-__556122",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 14656
+    },
+    {
+      "mesh": 31,
+      "name": "G-__556113",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 14735
+    },
+    {
+      "mesh": 32,
+      "name": "G-__556104",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 14902
+    },
+    {
+      "mesh": 33,
+      "name": "Component#486",
+      "skipped": false,
+      "primitiveCount": 551,
+      "referenceCount": 723,
+      "nodeCount": 1445,
+      "nodeOffset": 15069
+    },
+    {
+      "mesh": 34,
+      "name": "G-__556095",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 16514
+    },
+    {
+      "mesh": 35,
+      "name": "G-__556086",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 16593
+    },
+    {
+      "mesh": 36,
+      "name": "G-__556077",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 16760
+    },
+    {
+      "mesh": 37,
+      "name": "G-__556068",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 16927
+    },
+    {
+      "mesh": 38,
+      "name": "G-__556059",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17006
+    },
+    {
+      "mesh": 39,
+      "name": "G-__556050",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17173
+    },
+    {
+      "mesh": 40,
+      "name": "G-__556041",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 17340
+    },
+    {
+      "mesh": 41,
+      "name": "G-__556032",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17419
+    },
+    {
+      "mesh": 42,
+      "name": "G-__556023",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17586
+    },
+    {
+      "mesh": 43,
+      "name": "G-__556014",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 17753
+    },
+    {
+      "mesh": 44,
+      "name": "G-__556005",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17832
+    },
+    {
+      "mesh": 45,
+      "name": "G-__555996",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 17999
+    },
+    {
+      "mesh": 46,
+      "name": "G-__555987",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 18166
+    },
+    {
+      "mesh": 47,
+      "name": "G-__555978",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 18245
+    },
+    {
+      "mesh": 48,
+      "name": "G-__555969",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 18412
+    },
+    {
+      "mesh": 49,
+      "name": "G-__555960",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 18579
+    },
+    {
+      "mesh": 50,
+      "name": "G-__555951",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 18658
+    },
+    {
+      "mesh": 51,
+      "name": "G-__555942",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 18825
+    },
+    {
+      "mesh": 52,
+      "name": "G-__555933",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 18992
+    },
+    {
+      "mesh": 53,
+      "name": "G-__555924",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 19071
+    },
+    {
+      "mesh": 54,
+      "name": "G-__555915",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 19238
+    },
+    {
+      "mesh": 55,
+      "name": "G-__555906",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 19405
+    },
+    {
+      "mesh": 56,
+      "name": "G-__555897",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 19484
+    },
+    {
+      "mesh": 57,
+      "name": "G-__555888",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 19651
+    },
+    {
+      "mesh": 58,
+      "name": "G-__555879",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 19818
+    },
+    {
+      "mesh": 59,
+      "name": "G-__555870",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 19897
+    },
+    {
+      "mesh": 60,
+      "name": "G-__555861",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 20064
+    },
+    {
+      "mesh": 61,
+      "name": "G-__555852",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 20231
+    },
+    {
+      "mesh": 62,
+      "name": "G-__555843",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 20310
+    },
+    {
+      "mesh": 63,
+      "name": "G-__555834",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 20477
+    },
+    {
+      "mesh": 64,
+      "name": "G-__555825",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 20644
+    },
+    {
+      "mesh": 65,
+      "name": "G-__555816",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 76,
+      "nodeCount": 151,
+      "nodeOffset": 20723
+    },
+    {
+      "mesh": 66,
+      "name": "G-__555807",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 20874
+    },
+    {
+      "mesh": 67,
+      "name": "Component#488",
+      "skipped": false,
+      "primitiveCount": 1139,
+      "referenceCount": 1232,
+      "nodeCount": 2463,
+      "nodeOffset": 21041
+    },
+    {
+      "mesh": 68,
+      "name": "G-__555798",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 23504
+    },
+    {
+      "mesh": 69,
+      "name": "G-__555789",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 23583
+    },
+    {
+      "mesh": 70,
+      "name": "G-__555780",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 84,
+      "nodeCount": 167,
+      "nodeOffset": 23750
+    },
+    {
+      "mesh": 71,
+      "name": "Component#487",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 23917
+    },
+    {
+      "mesh": 72,
+      "name": "Component#458",
+      "skipped": false,
+      "primitiveCount": 340,
+      "referenceCount": 566,
+      "nodeCount": 1131,
+      "nodeOffset": 23996
+    },
+    {
+      "mesh": 73,
+      "name": "Component#470",
+      "skipped": false,
+      "primitiveCount": 422,
+      "referenceCount": 451,
+      "nodeCount": 901,
+      "nodeOffset": 25127
+    },
+    {
+      "mesh": 74,
+      "name": "Component#469",
+      "skipped": false,
+      "primitiveCount": 76,
+      "referenceCount": 76,
+      "nodeCount": 151,
+      "nodeOffset": 26028
+    },
+    {
+      "mesh": 75,
+      "name": "Component#467",
+      "skipped": false,
+      "primitiveCount": 83,
+      "referenceCount": 166,
+      "nodeCount": 331,
+      "nodeOffset": 26179
+    },
+    {
+      "mesh": 76,
+      "name": "Component#471",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 26510
+    },
+    {
+      "mesh": 77,
+      "name": "Component#476",
+      "skipped": false,
+      "primitiveCount": 785,
+      "referenceCount": 922,
+      "nodeCount": 1843,
+      "nodeOffset": 26589
+    },
+    {
+      "mesh": 78,
+      "name": "Component#475",
+      "skipped": false,
+      "primitiveCount": 63,
+      "referenceCount": 67,
+      "nodeCount": 133,
+      "nodeOffset": 28432
+    },
+    {
+      "mesh": 79,
+      "name": "Component#477",
+      "skipped": false,
+      "primitiveCount": 4130,
+      "referenceCount": 5937,
+      "nodeCount": 11873,
+      "nodeOffset": 28565
+    },
+    {
+      "mesh": 80,
+      "name": "Component#478",
+      "skipped": false,
+      "primitiveCount": 96,
+      "referenceCount": 96,
+      "nodeCount": 191,
+      "nodeOffset": 40438
+    },
+    {
+      "mesh": 81,
+      "name": "01",
+      "skipped": false,
+      "primitiveCount": 370,
+      "referenceCount": 740,
+      "nodeCount": 1479,
+      "nodeOffset": 40629
+    },
+    {
+      "mesh": 82,
+      "name": "Component#466",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 42108
+    },
+    {
+      "mesh": 83,
+      "name": "Component#465",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 42163
+    },
+    {
+      "mesh": 84,
+      "name": "Component#464",
+      "skipped": false,
+      "primitiveCount": 8,
+      "referenceCount": 8,
+      "nodeCount": 15,
+      "nodeOffset": 42218
+    },
+    {
+      "mesh": 85,
+      "name": "Component#462",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 50,
+      "nodeCount": 99,
+      "nodeOffset": 42233
+    },
+    {
+      "mesh": 86,
+      "name": "a znak",
+      "skipped": false,
+      "primitiveCount": 33,
+      "referenceCount": 50,
+      "nodeCount": 99,
+      "nodeOffset": 42332
+    },
+    {
+      "mesh": 87,
+      "name": "Component#456",
+      "skipped": false,
+      "primitiveCount": 276,
+      "referenceCount": 333,
+      "nodeCount": 665,
+      "nodeOffset": 42431
+    },
+    {
+      "mesh": 88,
+      "name": "Component#461",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 43096
+    },
+    {
+      "mesh": 89,
+      "name": "Component#460",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 348,
+      "nodeCount": 695,
+      "nodeOffset": 43151
+    },
+    {
+      "mesh": 90,
+      "name": "Component#455",
+      "skipped": false,
+      "primitiveCount": 324,
+      "referenceCount": 580,
+      "nodeCount": 1159,
+      "nodeOffset": 43846
+    },
+    {
+      "mesh": 91,
+      "name": "Component#457",
+      "skipped": false,
+      "primitiveCount": 526,
+      "referenceCount": 802,
+      "nodeCount": 1603,
+      "nodeOffset": 45005
+    },
+    {
+      "mesh": 92,
+      "name": "Component#454",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 46608
+    },
+    {
+      "mesh": 93,
+      "name": "Component#453",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 116,
+      "nodeCount": 231,
+      "nodeOffset": 46647
+    },
+    {
+      "mesh": 94,
+      "name": "Component#452",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 116,
+      "nodeCount": 231,
+      "nodeOffset": 46878
+    },
+    {
+      "mesh": 95,
+      "name": "Component#451",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 116,
+      "nodeCount": 231,
+      "nodeOffset": 47109
+    },
+    {
+      "mesh": 96,
+      "name": "a3#1",
+      "skipped": false,
+      "primitiveCount": 744,
+      "referenceCount": 781,
+      "nodeCount": 1561,
+      "nodeOffset": 47340
+    },
+    {
+      "mesh": 97,
+      "name": "G-__555771",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 48901
+    },
+    {
+      "mesh": 98,
+      "name": "G-__555762",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 49512
+    },
+    {
+      "mesh": 99,
+      "name": "G-__555753",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 50123
+    },
+    {
+      "mesh": 100,
+      "name": "Component#354",
+      "skipped": false,
+      "primitiveCount": 191,
+      "referenceCount": 289,
+      "nodeCount": 577,
+      "nodeOffset": 50734
+    },
+    {
+      "mesh": 101,
+      "name": "Component#369",
+      "skipped": false,
+      "primitiveCount": 424,
+      "referenceCount": 424,
+      "nodeCount": 847,
+      "nodeOffset": 51311
+    },
+    {
+      "mesh": 102,
+      "name": "Component#368",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 68,
+      "nodeCount": 135,
+      "nodeOffset": 52158
+    },
+    {
+      "mesh": 103,
+      "name": "Component#366",
+      "skipped": false,
+      "primitiveCount": 34,
+      "referenceCount": 43,
+      "nodeCount": 85,
+      "nodeOffset": 52293
+    },
+    {
+      "mesh": 104,
+      "name": "Component#367",
+      "skipped": false,
+      "primitiveCount": 217,
+      "referenceCount": 233,
+      "nodeCount": 465,
+      "nodeOffset": 52378
+    },
+    {
+      "mesh": 105,
+      "name": "Component#352",
+      "skipped": false,
+      "primitiveCount": 333,
+      "referenceCount": 472,
+      "nodeCount": 943,
+      "nodeOffset": 52843
+    },
+    {
+      "mesh": 106,
+      "name": "a3",
+      "skipped": false,
+      "primitiveCount": 744,
+      "referenceCount": 781,
+      "nodeCount": 1561,
+      "nodeOffset": 53786
+    },
+    {
+      "mesh": 107,
+      "name": "Component#372",
+      "skipped": false,
+      "primitiveCount": 36,
+      "referenceCount": 36,
+      "nodeCount": 71,
+      "nodeOffset": 55347
+    },
+    {
+      "mesh": 108,
+      "name": "Component#371",
+      "skipped": false,
+      "primitiveCount": 144,
+      "referenceCount": 153,
+      "nodeCount": 305,
+      "nodeOffset": 55418
+    },
+    {
+      "mesh": 109,
+      "name": "Component#370",
+      "skipped": false,
+      "primitiveCount": 124,
+      "referenceCount": 133,
+      "nodeCount": 265,
+      "nodeOffset": 55723
+    },
+    {
+      "mesh": 110,
+      "name": "Component#364",
+      "skipped": false,
+      "primitiveCount": 11,
+      "referenceCount": 11,
+      "nodeCount": 21,
+      "nodeOffset": 55988
+    },
+    {
+      "mesh": 111,
+      "name": "Component#361",
+      "skipped": false,
+      "primitiveCount": 768,
+      "referenceCount": 920,
+      "nodeCount": 1839,
+      "nodeOffset": 56009
+    },
+    {
+      "mesh": 112,
+      "name": "Component#360",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 57848
+    },
+    {
+      "mesh": 113,
+      "name": "Component#206",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 57871
+    },
+    {
+      "mesh": 114,
+      "name": "Component#205",
+      "skipped": false,
+      "primitiveCount": 934,
+      "referenceCount": 956,
+      "nodeCount": 1911,
+      "nodeOffset": 57894
+    },
+    {
+      "mesh": 115,
+      "name": "Component#204",
+      "skipped": false,
+      "primitiveCount": 70,
+      "referenceCount": 82,
+      "nodeCount": 163,
+      "nodeOffset": 59805
+    },
+    {
+      "mesh": 116,
+      "name": "Component#203",
+      "skipped": false,
+      "primitiveCount": 168,
+      "referenceCount": 168,
+      "nodeCount": 335,
+      "nodeOffset": 59968
+    },
+    {
+      "mesh": 117,
+      "name": "Component#202",
+      "skipped": false,
+      "primitiveCount": 152,
+      "referenceCount": 304,
+      "nodeCount": 607,
+      "nodeOffset": 60303
+    },
+    {
+      "mesh": 118,
+      "name": "Component#199",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 60910
+    },
+    {
+      "mesh": 119,
+      "name": "Component#198",
+      "skipped": false,
+      "primitiveCount": 134,
+      "referenceCount": 136,
+      "nodeCount": 271,
+      "nodeOffset": 60933
+    },
+    {
+      "mesh": 120,
+      "name": "Component#195",
+      "skipped": false,
+      "primitiveCount": 26,
+      "referenceCount": 26,
+      "nodeCount": 51,
+      "nodeOffset": 61204
+    },
+    {
+      "mesh": 121,
+      "name": "Component#193",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 61255
+    },
+    {
+      "mesh": 122,
+      "name": "Component#194",
+      "skipped": false,
+      "primitiveCount": 34,
+      "referenceCount": 36,
+      "nodeCount": 71,
+      "nodeOffset": 61294
+    },
+    {
+      "mesh": 123,
+      "name": "Component#192",
+      "skipped": false,
+      "primitiveCount": 32,
+      "referenceCount": 39,
+      "nodeCount": 77,
+      "nodeOffset": 61365
+    },
+    {
+      "mesh": 124,
+      "name": "Component#191",
+      "skipped": false,
+      "primitiveCount": 42,
+      "referenceCount": 42,
+      "nodeCount": 83,
+      "nodeOffset": 61442
+    },
+    {
+      "mesh": 125,
+      "name": "Component#190",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 61525
+    },
+    {
+      "mesh": 126,
+      "name": "Component#189",
+      "skipped": false,
+      "primitiveCount": 72,
+      "referenceCount": 85,
+      "nodeCount": 169,
+      "nodeOffset": 61564
+    },
+    {
+      "mesh": 127,
+      "name": "Component#184",
+      "skipped": false,
+      "primitiveCount": 10,
+      "referenceCount": 10,
+      "nodeCount": 19,
+      "nodeOffset": 61733
+    },
+    {
+      "mesh": 128,
+      "name": "Component#188",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 61752
+    },
+    {
+      "mesh": 129,
+      "name": "Component#187",
+      "skipped": false,
+      "primitiveCount": 29,
+      "referenceCount": 29,
+      "nodeCount": 57,
+      "nodeOffset": 61807
+    },
+    {
+      "mesh": 130,
+      "name": "Component#186",
+      "skipped": false,
+      "primitiveCount": 58,
+      "referenceCount": 105,
+      "nodeCount": 209,
+      "nodeOffset": 61864
+    },
+    {
+      "mesh": 131,
+      "name": "Component#185",
+      "skipped": false,
+      "primitiveCount": 556,
+      "referenceCount": 560,
+      "nodeCount": 1119,
+      "nodeOffset": 62073
+    },
+    {
+      "mesh": 132,
+      "name": "Component#152",
+      "skipped": false,
+      "primitiveCount": 8,
+      "referenceCount": 8,
+      "nodeCount": 15,
+      "nodeOffset": 63192
+    },
+    {
+      "mesh": 133,
+      "name": "Component#196",
+      "skipped": false,
+      "primitiveCount": 346,
+      "referenceCount": 458,
+      "nodeCount": 915,
+      "nodeOffset": 63207
+    },
+    {
+      "mesh": 134,
+      "name": "Component#345",
+      "skipped": false,
+      "primitiveCount": 346,
+      "referenceCount": 466,
+      "nodeCount": 931,
+      "nodeOffset": 64122
+    },
+    {
+      "mesh": 135,
+      "name": "Component#342",
+      "skipped": false,
+      "primitiveCount": 118,
+      "referenceCount": 138,
+      "nodeCount": 275,
+      "nodeOffset": 65053
+    },
+    {
+      "mesh": 136,
+      "name": "Component#341",
+      "skipped": false,
+      "primitiveCount": 118,
+      "referenceCount": 126,
+      "nodeCount": 251,
+      "nodeOffset": 65328
+    },
+    {
+      "mesh": 137,
+      "name": "Component#340",
+      "skipped": false,
+      "primitiveCount": 36,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 65579
+    },
+    {
+      "mesh": 138,
+      "name": "Component#332",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 65658
+    },
+    {
+      "mesh": 139,
+      "name": "Component#312",
+      "skipped": false,
+      "primitiveCount": 204,
+      "referenceCount": 207,
+      "nodeCount": 413,
+      "nodeOffset": 65713
+    },
+    {
+      "mesh": 140,
+      "name": "Component#343",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 66126
+    },
+    {
+      "mesh": 141,
+      "name": "Component#55",
+      "skipped": false,
+      "primitiveCount": 1100,
+      "referenceCount": 1129,
+      "nodeCount": 2257,
+      "nodeOffset": 66157
+    },
+    {
+      "mesh": 142,
+      "name": "Component#38",
+      "skipped": false,
+      "primitiveCount": 420,
+      "referenceCount": 420,
+      "nodeCount": 839,
+      "nodeOffset": 68414
+    },
+    {
+      "mesh": 143,
+      "name": "G-__555744",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 69253
+    },
+    {
+      "mesh": 144,
+      "name": "a2",
+      "skipped": false,
+      "primitiveCount": 48,
+      "referenceCount": 48,
+      "nodeCount": 95,
+      "nodeOffset": 69864
+    },
+    {
+      "mesh": 145,
+      "name": "Component#339",
+      "skipped": false,
+      "primitiveCount": 122,
+      "referenceCount": 130,
+      "nodeCount": 259,
+      "nodeOffset": 69959
+    },
+    {
+      "mesh": 146,
+      "name": "G-__555735",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 70218
+    },
+    {
+      "mesh": 147,
+      "name": "Component#335",
+      "skipped": false,
+      "primitiveCount": 50,
+      "referenceCount": 50,
+      "nodeCount": 99,
+      "nodeOffset": 70829
+    },
+    {
+      "mesh": 148,
+      "name": "Component#331",
+      "skipped": false,
+      "primitiveCount": 73,
+      "referenceCount": 75,
+      "nodeCount": 149,
+      "nodeOffset": 70928
+    },
+    {
+      "mesh": 149,
+      "name": "Component#337",
+      "skipped": false,
+      "primitiveCount": 26,
+      "referenceCount": 26,
+      "nodeCount": 51,
+      "nodeOffset": 71077
+    },
+    {
+      "mesh": 150,
+      "name": "G-__555726",
+      "skipped": false,
+      "primitiveCount": 46,
+      "referenceCount": 58,
+      "nodeCount": 115,
+      "nodeOffset": 71128
+    },
+    {
+      "mesh": 151,
+      "name": "Component#333",
+      "skipped": false,
+      "primitiveCount": 344,
+      "referenceCount": 411,
+      "nodeCount": 821,
+      "nodeOffset": 71243
+    },
+    {
+      "mesh": 152,
+      "name": "Component#321",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 72064
+    },
+    {
+      "mesh": 153,
+      "name": "Component#320",
+      "skipped": false,
+      "primitiveCount": 32,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 72103
+    },
+    {
+      "mesh": 154,
+      "name": "Component#319",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 72166
+    },
+    {
+      "mesh": 155,
+      "name": "Component#318",
+      "skipped": false,
+      "primitiveCount": 92,
+      "referenceCount": 111,
+      "nodeCount": 221,
+      "nodeOffset": 72197
+    },
+    {
+      "mesh": 156,
+      "name": "Component#307",
+      "skipped": false,
+      "primitiveCount": 32,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 72418
+    },
+    {
+      "mesh": 157,
+      "name": "Component#322",
+      "skipped": false,
+      "primitiveCount": 52,
+      "referenceCount": 61,
+      "nodeCount": 121,
+      "nodeOffset": 72481
+    },
+    {
+      "mesh": 158,
+      "name": "Component#305",
+      "skipped": false,
+      "primitiveCount": 68,
+      "referenceCount": 71,
+      "nodeCount": 141,
+      "nodeOffset": 72602
+    },
+    {
+      "mesh": 159,
+      "name": "Component#324",
+      "skipped": false,
+      "primitiveCount": 36,
+      "referenceCount": 36,
+      "nodeCount": 71,
+      "nodeOffset": 72743
+    },
+    {
+      "mesh": 160,
+      "name": "Component#323",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 72814
+    },
+    {
+      "mesh": 161,
+      "name": "Component#304",
+      "skipped": false,
+      "primitiveCount": 476,
+      "referenceCount": 507,
+      "nodeCount": 1013,
+      "nodeOffset": 72837
+    },
+    {
+      "mesh": 162,
+      "name": "Component#316",
+      "skipped": false,
+      "primitiveCount": 816,
+      "referenceCount": 816,
+      "nodeCount": 1631,
+      "nodeOffset": 73850
+    },
+    {
+      "mesh": 163,
+      "name": "Component#308",
+      "skipped": false,
+      "primitiveCount": 22,
+      "referenceCount": 22,
+      "nodeCount": 43,
+      "nodeOffset": 75481
+    },
+    {
+      "mesh": 164,
+      "name": "Component#328",
+      "skipped": false,
+      "primitiveCount": 55,
+      "referenceCount": 55,
+      "nodeCount": 109,
+      "nodeOffset": 75524
+    },
+    {
+      "mesh": 165,
+      "name": "Component#327",
+      "skipped": false,
+      "primitiveCount": 24,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 75633
+    },
+    {
+      "mesh": 166,
+      "name": "Component#326",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 75680
+    },
+    {
+      "mesh": 167,
+      "name": "Component#325",
+      "skipped": false,
+      "primitiveCount": 128,
+      "referenceCount": 175,
+      "nodeCount": 349,
+      "nodeOffset": 75711
+    },
+    {
+      "mesh": 168,
+      "name": "G-__555717",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 76060
+    },
+    {
+      "mesh": 169,
+      "name": "Component#292",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 76671
+    },
+    {
+      "mesh": 170,
+      "name": "Component#291",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 76694
+    },
+    {
+      "mesh": 171,
+      "name": "Component#290",
+      "skipped": false,
+      "primitiveCount": 438,
+      "referenceCount": 595,
+      "nodeCount": 1189,
+      "nodeOffset": 76725
+    },
+    {
+      "mesh": 172,
+      "name": "Component#36",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 77914
+    },
+    {
+      "mesh": 173,
+      "name": "Component#303",
+      "skipped": false,
+      "primitiveCount": 192,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 77937
+    },
+    {
+      "mesh": 174,
+      "name": "Component#330",
+      "skipped": false,
+      "primitiveCount": 30,
+      "referenceCount": 40,
+      "nodeCount": 79,
+      "nodeOffset": 78320
+    },
+    {
+      "mesh": 175,
+      "name": "Component#329",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 56,
+      "nodeCount": 111,
+      "nodeOffset": 78399
+    },
+    {
+      "mesh": 176,
+      "name": "a4",
+      "skipped": false,
+      "primitiveCount": 624,
+      "referenceCount": 751,
+      "nodeCount": 1501,
+      "nodeOffset": 78510
+    },
+    {
+      "mesh": 177,
+      "name": "Component#269",
+      "skipped": false,
+      "primitiveCount": 4726,
+      "referenceCount": 5442,
+      "nodeCount": 10883,
+      "nodeOffset": 80011
+    },
+    {
+      "mesh": 178,
+      "name": "Component#108",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 90894
+    },
+    {
+      "mesh": 179,
+      "name": "Component#101",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 90925
+    },
+    {
+      "mesh": 180,
+      "name": "Component#98",
+      "skipped": false,
+      "primitiveCount": 115,
+      "referenceCount": 124,
+      "nodeCount": 247,
+      "nodeOffset": 90964
+    },
+    {
+      "mesh": 181,
+      "name": "Component#96",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 91211
+    },
+    {
+      "mesh": 182,
+      "name": "Component#107",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 91234
+    },
+    {
+      "mesh": 183,
+      "name": "Component#106",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 91257
+    },
+    {
+      "mesh": 184,
+      "name": "Component#105",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 91280
+    },
+    {
+      "mesh": 185,
+      "name": "Component#104",
+      "skipped": false,
+      "primitiveCount": 100,
+      "referenceCount": 104,
+      "nodeCount": 207,
+      "nodeOffset": 91311
+    },
+    {
+      "mesh": 186,
+      "name": "Component#103",
+      "skipped": false,
+      "primitiveCount": 100,
+      "referenceCount": 102,
+      "nodeCount": 203,
+      "nodeOffset": 91518
+    },
+    {
+      "mesh": 187,
+      "name": "Component#102",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 91721
+    },
+    {
+      "mesh": 188,
+      "name": "Component#97",
+      "skipped": false,
+      "primitiveCount": 362,
+      "referenceCount": 438,
+      "nodeCount": 875,
+      "nodeOffset": 91760
+    },
+    {
+      "mesh": 189,
+      "name": "Component#95",
+      "skipped": false,
+      "primitiveCount": 17,
+      "referenceCount": 17,
+      "nodeCount": 33,
+      "nodeOffset": 92635
+    },
+    {
+      "mesh": 190,
+      "name": "Component#93",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 92668
+    },
+    {
+      "mesh": 191,
+      "name": "Component#92",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 92691
+    },
+    {
+      "mesh": 192,
+      "name": "Component#91",
+      "skipped": false,
+      "primitiveCount": 52,
+      "referenceCount": 59,
+      "nodeCount": 117,
+      "nodeOffset": 92714
+    },
+    {
+      "mesh": 193,
+      "name": "Component#89",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 92831
+    },
+    {
+      "mesh": 194,
+      "name": "Component#88",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 92854
+    },
+    {
+      "mesh": 195,
+      "name": "Component#87",
+      "skipped": false,
+      "primitiveCount": 58,
+      "referenceCount": 64,
+      "nodeCount": 127,
+      "nodeOffset": 92885
+    },
+    {
+      "mesh": 196,
+      "name": "Component#85",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 93012
+    },
+    {
+      "mesh": 197,
+      "name": "Component#83",
+      "skipped": false,
+      "primitiveCount": 24,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 93035
+    },
+    {
+      "mesh": 198,
+      "name": "Component#82",
+      "skipped": false,
+      "primitiveCount": 60,
+      "referenceCount": 60,
+      "nodeCount": 119,
+      "nodeOffset": 93082
+    },
+    {
+      "mesh": 199,
+      "name": "Component#78",
+      "skipped": false,
+      "primitiveCount": 288,
+      "referenceCount": 347,
+      "nodeCount": 693,
+      "nodeOffset": 93201
+    },
+    {
+      "mesh": 200,
+      "name": "Component#100",
+      "skipped": false,
+      "primitiveCount": 37,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 93894
+    },
+    {
+      "mesh": 201,
+      "name": "G-__555708",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 93981
+    },
+    {
+      "mesh": 202,
+      "name": "Component#302",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 94592
+    },
+    {
+      "mesh": 203,
+      "name": "Component#301",
+      "skipped": false,
+      "primitiveCount": 62,
+      "referenceCount": 62,
+      "nodeCount": 123,
+      "nodeOffset": 94631
+    },
+    {
+      "mesh": 204,
+      "name": "Component#300",
+      "skipped": false,
+      "primitiveCount": 301,
+      "referenceCount": 453,
+      "nodeCount": 905,
+      "nodeOffset": 94754
+    },
+    {
+      "mesh": 205,
+      "name": "Component#297",
+      "skipped": false,
+      "primitiveCount": 18,
+      "referenceCount": 18,
+      "nodeCount": 35,
+      "nodeOffset": 95659
+    },
+    {
+      "mesh": 206,
+      "name": "Component#296",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 95694
+    },
+    {
+      "mesh": 207,
+      "name": "Component#295",
+      "skipped": false,
+      "primitiveCount": 192,
+      "referenceCount": 192,
+      "nodeCount": 383,
+      "nodeOffset": 95717
+    },
+    {
+      "mesh": 208,
+      "name": "Component#294",
+      "skipped": false,
+      "primitiveCount": 158,
+      "referenceCount": 174,
+      "nodeCount": 347,
+      "nodeOffset": 96100
+    },
+    {
+      "mesh": 209,
+      "name": "Component#293",
+      "skipped": false,
+      "primitiveCount": 140,
+      "referenceCount": 160,
+      "nodeCount": 319,
+      "nodeOffset": 96447
+    },
+    {
+      "mesh": 210,
+      "name": "Component#266",
+      "skipped": false,
+      "primitiveCount": 812,
+      "referenceCount": 836,
+      "nodeCount": 1671,
+      "nodeOffset": 96766
+    },
+    {
+      "mesh": 211,
+      "name": "Component#47",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 98437
+    },
+    {
+      "mesh": 212,
+      "name": "Component#278",
+      "skipped": false,
+      "primitiveCount": 64,
+      "referenceCount": 72,
+      "nodeCount": 143,
+      "nodeOffset": 98460
+    },
+    {
+      "mesh": 213,
+      "name": "Component#280",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 98603
+    },
+    {
+      "mesh": 214,
+      "name": "Component#279",
+      "skipped": false,
+      "primitiveCount": 33,
+      "referenceCount": 33,
+      "nodeCount": 65,
+      "nodeOffset": 98626
+    },
+    {
+      "mesh": 215,
+      "name": "Component#276",
+      "skipped": false,
+      "primitiveCount": 548,
+      "referenceCount": 566,
+      "nodeCount": 1131,
+      "nodeOffset": 98691
+    },
+    {
+      "mesh": 216,
+      "name": "Component#275",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 99822
+    },
+    {
+      "mesh": 217,
+      "name": "Component#274",
+      "skipped": false,
+      "primitiveCount": 90,
+      "referenceCount": 92,
+      "nodeCount": 183,
+      "nodeOffset": 99853
+    },
+    {
+      "mesh": 218,
+      "name": "Component#273",
+      "skipped": false,
+      "primitiveCount": 45,
+      "referenceCount": 63,
+      "nodeCount": 125,
+      "nodeOffset": 100036
+    },
+    {
+      "mesh": 219,
+      "name": "Component#271",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 42,
+      "nodeCount": 83,
+      "nodeOffset": 100161
+    },
+    {
+      "mesh": 220,
+      "name": "Component#268",
+      "skipped": false,
+      "primitiveCount": 190,
+      "referenceCount": 282,
+      "nodeCount": 563,
+      "nodeOffset": 100244
+    },
+    {
+      "mesh": 221,
+      "name": "Component#270",
+      "skipped": false,
+      "primitiveCount": 148,
+      "referenceCount": 150,
+      "nodeCount": 299,
+      "nodeOffset": 100807
+    },
+    {
+      "mesh": 222,
+      "name": "Component#288",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 81,
+      "nodeCount": 161,
+      "nodeOffset": 101106
+    },
+    {
+      "mesh": 223,
+      "name": "Component#287",
+      "skipped": false,
+      "primitiveCount": 32,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 101267
+    },
+    {
+      "mesh": 224,
+      "name": "Component#286",
+      "skipped": false,
+      "primitiveCount": 29,
+      "referenceCount": 29,
+      "nodeCount": 57,
+      "nodeOffset": 101330
+    },
+    {
+      "mesh": 225,
+      "name": "Component#267",
+      "skipped": false,
+      "primitiveCount": 132,
+      "referenceCount": 134,
+      "nodeCount": 267,
+      "nodeOffset": 101387
+    },
+    {
+      "mesh": 226,
+      "name": "G-__555699",
+      "skipped": false,
+      "primitiveCount": 296,
+      "referenceCount": 296,
+      "nodeCount": 591,
+      "nodeOffset": 101654
+    },
+    {
+      "mesh": 227,
+      "name": "Component#285",
+      "skipped": false,
+      "primitiveCount": 74,
+      "referenceCount": 78,
+      "nodeCount": 155,
+      "nodeOffset": 102245
+    },
+    {
+      "mesh": 228,
+      "name": "G-__555690",
+      "skipped": false,
+      "primitiveCount": 296,
+      "referenceCount": 296,
+      "nodeCount": 591,
+      "nodeOffset": 102400
+    },
+    {
+      "mesh": 229,
+      "name": "Component#284",
+      "skipped": false,
+      "primitiveCount": 99,
+      "referenceCount": 103,
+      "nodeCount": 205,
+      "nodeOffset": 102991
+    },
+    {
+      "mesh": 230,
+      "name": "Component#283",
+      "skipped": false,
+      "primitiveCount": 43,
+      "referenceCount": 46,
+      "nodeCount": 91,
+      "nodeOffset": 103196
+    },
+    {
+      "mesh": 231,
+      "name": "Component#282",
+      "skipped": false,
+      "primitiveCount": 132,
+      "referenceCount": 132,
+      "nodeCount": 263,
+      "nodeOffset": 103287
+    },
+    {
+      "mesh": 232,
+      "name": "Component#264",
+      "skipped": false,
+      "primitiveCount": 588,
+      "referenceCount": 660,
+      "nodeCount": 1319,
+      "nodeOffset": 103550
+    },
+    {
+      "mesh": 233,
+      "name": "G-__555681",
+      "skipped": false,
+      "primitiveCount": 296,
+      "referenceCount": 296,
+      "nodeCount": 591,
+      "nodeOffset": 104869
+    },
+    {
+      "mesh": 234,
+      "name": "G-__555672",
+      "skipped": false,
+      "primitiveCount": 296,
+      "referenceCount": 296,
+      "nodeCount": 591,
+      "nodeOffset": 105460
+    },
+    {
+      "mesh": 235,
+      "name": "Component#483",
+      "skipped": false,
+      "primitiveCount": 10,
+      "referenceCount": 10,
+      "nodeCount": 19,
+      "nodeOffset": 106051
+    },
+    {
+      "mesh": 236,
+      "name": "Component#481",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 106070
+    },
+    {
+      "mesh": 237,
+      "name": "Component#485",
+      "skipped": false,
+      "primitiveCount": 156,
+      "referenceCount": 177,
+      "nodeCount": 353,
+      "nodeOffset": 106093
+    },
+    {
+      "mesh": 238,
+      "name": "Component#484",
+      "skipped": false,
+      "primitiveCount": 140,
+      "referenceCount": 140,
+      "nodeCount": 279,
+      "nodeOffset": 106446
+    },
+    {
+      "mesh": 239,
+      "name": "00000",
+      "skipped": false,
+      "primitiveCount": 50,
+      "referenceCount": 58,
+      "nodeCount": 115,
+      "nodeOffset": 106725
+    },
+    {
+      "mesh": 240,
+      "name": "G-__555654",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 106840
+    },
+    {
+      "mesh": 241,
+      "name": "Component#71",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 107451
+    },
+    {
+      "mesh": 242,
+      "name": "Component#435",
+      "skipped": false,
+      "primitiveCount": 816,
+      "referenceCount": 816,
+      "nodeCount": 1631,
+      "nodeOffset": 107474
+    },
+    {
+      "mesh": 243,
+      "name": "Component#402",
+      "skipped": false,
+      "primitiveCount": 92,
+      "referenceCount": 92,
+      "nodeCount": 183,
+      "nodeOffset": 109105
+    },
+    {
+      "mesh": 244,
+      "name": "Component#441",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 109288
+    },
+    {
+      "mesh": 245,
+      "name": "Component#443",
+      "skipped": false,
+      "primitiveCount": 86,
+      "referenceCount": 135,
+      "nodeCount": 269,
+      "nodeOffset": 109311
+    },
+    {
+      "mesh": 246,
+      "name": "Component#446",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 32,
+      "nodeCount": 63,
+      "nodeOffset": 109580
+    },
+    {
+      "mesh": 247,
+      "name": "Component#445",
+      "skipped": false,
+      "primitiveCount": 251,
+      "referenceCount": 413,
+      "nodeCount": 825,
+      "nodeOffset": 109643
+    },
+    {
+      "mesh": 248,
+      "name": "Component#444",
+      "skipped": false,
+      "primitiveCount": 36,
+      "referenceCount": 36,
+      "nodeCount": 71,
+      "nodeOffset": 110468
+    },
+    {
+      "mesh": 249,
+      "name": "Component#420",
+      "skipped": false,
+      "primitiveCount": 251,
+      "referenceCount": 414,
+      "nodeCount": 827,
+      "nodeOffset": 110539
+    },
+    {
+      "mesh": 250,
+      "name": "Component#440",
+      "skipped": false,
+      "primitiveCount": 8,
+      "referenceCount": 8,
+      "nodeCount": 15,
+      "nodeOffset": 111366
+    },
+    {
+      "mesh": 251,
+      "name": "Component#439",
+      "skipped": false,
+      "primitiveCount": 92,
+      "referenceCount": 92,
+      "nodeCount": 183,
+      "nodeOffset": 111381
+    },
+    {
+      "mesh": 252,
+      "name": "Component#438",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 111564
+    },
+    {
+      "mesh": 253,
+      "name": "Component#437",
+      "skipped": false,
+      "primitiveCount": 236,
+      "referenceCount": 252,
+      "nodeCount": 503,
+      "nodeOffset": 111595
+    },
+    {
+      "mesh": 254,
+      "name": "Component#436",
+      "skipped": false,
+      "primitiveCount": 707,
+      "referenceCount": 959,
+      "nodeCount": 1917,
+      "nodeOffset": 112098
+    },
+    {
+      "mesh": 255,
+      "name": "Component#413",
+      "skipped": false,
+      "primitiveCount": 116,
+      "referenceCount": 149,
+      "nodeCount": 297,
+      "nodeOffset": 114015
+    },
+    {
+      "mesh": 256,
+      "name": "Component#448",
+      "skipped": false,
+      "primitiveCount": 176,
+      "referenceCount": 176,
+      "nodeCount": 351,
+      "nodeOffset": 114312
+    },
+    {
+      "mesh": 257,
+      "name": "Component#447",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 114663
+    },
+    {
+      "mesh": 258,
+      "name": "Component#417",
+      "skipped": false,
+      "primitiveCount": 56,
+      "referenceCount": 61,
+      "nodeCount": 121,
+      "nodeOffset": 114718
+    },
+    {
+      "mesh": 259,
+      "name": "Component#415",
+      "skipped": false,
+      "primitiveCount": 146,
+      "referenceCount": 202,
+      "nodeCount": 403,
+      "nodeOffset": 114839
+    },
+    {
+      "mesh": 260,
+      "name": "Component#449",
+      "skipped": false,
+      "primitiveCount": 24,
+      "referenceCount": 24,
+      "nodeCount": 47,
+      "nodeOffset": 115242
+    },
+    {
+      "mesh": 261,
+      "name": "Component#416",
+      "skipped": false,
+      "primitiveCount": 840,
+      "referenceCount": 860,
+      "nodeCount": 1719,
+      "nodeOffset": 115289
+    },
+    {
+      "mesh": 262,
+      "name": "Component#450",
+      "skipped": false,
+      "primitiveCount": 80,
+      "referenceCount": 80,
+      "nodeCount": 159,
+      "nodeOffset": 117008
+    },
+    {
+      "mesh": 263,
+      "name": "Component#412",
+      "skipped": false,
+      "primitiveCount": 780,
+      "referenceCount": 785,
+      "nodeCount": 1569,
+      "nodeOffset": 117167
+    },
+    {
+      "mesh": 264,
+      "name": "Component#411",
+      "skipped": false,
+      "primitiveCount": 932,
+      "referenceCount": 1040,
+      "nodeCount": 2079,
+      "nodeOffset": 118736
+    },
+    {
+      "mesh": 265,
+      "name": "Component#408",
+      "skipped": false,
+      "primitiveCount": 312,
+      "referenceCount": 422,
+      "nodeCount": 843,
+      "nodeOffset": 120815
+    },
+    {
+      "mesh": 266,
+      "name": "Component#409",
+      "skipped": false,
+      "primitiveCount": 406,
+      "referenceCount": 441,
+      "nodeCount": 881,
+      "nodeOffset": 121658
+    },
+    {
+      "mesh": 267,
+      "name": "Component#407",
+      "skipped": false,
+      "primitiveCount": 122,
+      "referenceCount": 124,
+      "nodeCount": 247,
+      "nodeOffset": 122539
+    },
+    {
+      "mesh": 268,
+      "name": "Component#406",
+      "skipped": false,
+      "primitiveCount": 3535,
+      "referenceCount": 4817,
+      "nodeCount": 9633,
+      "nodeOffset": 122786
+    },
+    {
+      "mesh": 269,
+      "name": "Component#434",
+      "skipped": false,
+      "primitiveCount": 2932,
+      "referenceCount": 2972,
+      "nodeCount": 5943,
+      "nodeOffset": 132419
+    },
+    {
+      "mesh": 270,
+      "name": "Component#429",
+      "skipped": false,
+      "primitiveCount": 1076,
+      "referenceCount": 1102,
+      "nodeCount": 2203,
+      "nodeOffset": 138362
+    },
+    {
+      "mesh": 271,
+      "name": "Component#427",
+      "skipped": false,
+      "primitiveCount": 18,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 140565
+    },
+    {
+      "mesh": 272,
+      "name": "Component#425",
+      "skipped": false,
+      "primitiveCount": 28,
+      "referenceCount": 28,
+      "nodeCount": 55,
+      "nodeOffset": 140604
+    },
+    {
+      "mesh": 273,
+      "name": "Component#424",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 140659
+    },
+    {
+      "mesh": 274,
+      "name": "Component#421",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 140682
+    },
+    {
+      "mesh": 275,
+      "name": "Component#422",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 46,
+      "nodeCount": 91,
+      "nodeOffset": 140721
+    },
+    {
+      "mesh": 276,
+      "name": "Component#423",
+      "skipped": false,
+      "primitiveCount": 296,
+      "referenceCount": 352,
+      "nodeCount": 703,
+      "nodeOffset": 140812
+    },
+    {
+      "mesh": 277,
+      "name": "Component#433",
+      "skipped": false,
+      "primitiveCount": 16,
+      "referenceCount": 16,
+      "nodeCount": 31,
+      "nodeOffset": 141515
+    },
+    {
+      "mesh": 278,
+      "name": "Component#404",
+      "skipped": false,
+      "primitiveCount": 1754,
+      "referenceCount": 2536,
+      "nodeCount": 5071,
+      "nodeOffset": 141546
+    },
+    {
+      "mesh": 279,
+      "name": "G-__555645",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 146617
+    },
+    {
+      "mesh": 280,
+      "name": "Component#419",
+      "skipped": false,
+      "primitiveCount": 500,
+      "referenceCount": 581,
+      "nodeCount": 1161,
+      "nodeOffset": 147228
+    },
+    {
+      "mesh": 281,
+      "name": "Component#418",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 148389
+    },
+    {
+      "mesh": 282,
+      "name": "Component#405",
+      "skipped": false,
+      "primitiveCount": 1181,
+      "referenceCount": 1326,
+      "nodeCount": 2651,
+      "nodeOffset": 148476
+    },
+    {
+      "mesh": 283,
+      "name": "G-__555636",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 151127
+    },
+    {
+      "mesh": 284,
+      "name": "Component#403",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 284,
+      "nodeCount": 567,
+      "nodeOffset": 151738
+    },
+    {
+      "mesh": 285,
+      "name": "Component#442",
+      "skipped": false,
+      "primitiveCount": 236,
+      "referenceCount": 252,
+      "nodeCount": 503,
+      "nodeOffset": 152305
+    },
+    {
+      "mesh": 286,
+      "name": "Component#401",
+      "skipped": false,
+      "primitiveCount": 877,
+      "referenceCount": 978,
+      "nodeCount": 1955,
+      "nodeOffset": 152808
+    },
+    {
+      "mesh": 287,
+      "name": "Component#399",
+      "skipped": false,
+      "primitiveCount": 1201,
+      "referenceCount": 1734,
+      "nodeCount": 3467,
+      "nodeOffset": 154763
+    },
+    {
+      "mesh": 288,
+      "name": "G-__555627",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 158230
+    },
+    {
+      "mesh": 289,
+      "name": "G-__555618",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 158841
+    },
+    {
+      "mesh": 290,
+      "name": "G-__555609",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 159452
+    },
+    {
+      "mesh": 291,
+      "name": "G-__555600",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 160063
+    },
+    {
+      "mesh": 292,
+      "name": "G-__555591",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 160674
+    },
+    {
+      "mesh": 293,
+      "name": "G-__555582",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 161285
+    },
+    {
+      "mesh": 294,
+      "name": "G-__555573",
+      "skipped": false,
+      "primitiveCount": 284,
+      "referenceCount": 306,
+      "nodeCount": 611,
+      "nodeOffset": 161896
+    },
+    {
+      "mesh": 295,
+      "name": "Component#1",
+      "skipped": false,
+      "primitiveCount": 4148,
+      "referenceCount": 5175,
+      "nodeCount": 10349,
+      "nodeOffset": 162507
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 172856,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "station.sbvh.bin"
+}

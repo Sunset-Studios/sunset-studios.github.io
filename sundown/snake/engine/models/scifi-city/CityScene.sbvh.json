@@ -1,0 +1,1675 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:45:22.609Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "CityScene.gltf",
+    "buffers": [
+      "CityScene.bin"
+    ],
+    "hash": "bd366ec55e279e1fd4fe4c1bea9ab4c8e7bb4164"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Cube.015",
+      "skipped": false,
+      "primitiveCount": 2374,
+      "referenceCount": 2533,
+      "nodeCount": 5065,
+      "nodeOffset": 0
+    },
+    {
+      "mesh": 1,
+      "name": "Plane",
+      "skipped": false,
+      "primitiveCount": 29,
+      "referenceCount": 29,
+      "nodeCount": 57,
+      "nodeOffset": 5065
+    },
+    {
+      "mesh": 2,
+      "name": "Cube.005",
+      "skipped": false,
+      "primitiveCount": 152,
+      "referenceCount": 222,
+      "nodeCount": 443,
+      "nodeOffset": 5122
+    },
+    {
+      "mesh": 3,
+      "name": "Text",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 5565
+    },
+    {
+      "mesh": 4,
+      "name": "Cube.010",
+      "skipped": false,
+      "primitiveCount": 152,
+      "referenceCount": 244,
+      "nodeCount": 487,
+      "nodeOffset": 7050
+    },
+    {
+      "mesh": 5,
+      "name": "Text.001",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 7537
+    },
+    {
+      "mesh": 6,
+      "name": "Text.002",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 9022
+    },
+    {
+      "mesh": 7,
+      "name": "Text.003",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 10507
+    },
+    {
+      "mesh": 8,
+      "name": "Cube.038",
+      "skipped": false,
+      "primitiveCount": 1692,
+      "referenceCount": 2307,
+      "nodeCount": 4613,
+      "nodeOffset": 11992
+    },
+    {
+      "mesh": 9,
+      "name": "Cube.035",
+      "skipped": false,
+      "primitiveCount": 19791,
+      "referenceCount": 21620,
+      "nodeCount": 43239,
+      "nodeOffset": 16605
+    },
+    {
+      "mesh": 10,
+      "name": "Cube.029",
+      "skipped": false,
+      "primitiveCount": 2610,
+      "referenceCount": 2827,
+      "nodeCount": 5653,
+      "nodeOffset": 59844
+    },
+    {
+      "mesh": 11,
+      "name": "Cube.036",
+      "skipped": false,
+      "primitiveCount": 830,
+      "referenceCount": 875,
+      "nodeCount": 1749,
+      "nodeOffset": 65497
+    },
+    {
+      "mesh": 12,
+      "name": "Cube.037",
+      "skipped": false,
+      "primitiveCount": 4321,
+      "referenceCount": 5178,
+      "nodeCount": 10355,
+      "nodeOffset": 67246
+    },
+    {
+      "mesh": 13,
+      "name": "Cube.033",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 77601
+    },
+    {
+      "mesh": 14,
+      "name": "Cube.032",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 77624
+    },
+    {
+      "mesh": 15,
+      "name": "Cube.030",
+      "skipped": false,
+      "primitiveCount": 15940,
+      "referenceCount": 19266,
+      "nodeCount": 38531,
+      "nodeOffset": 77647
+    },
+    {
+      "mesh": 16,
+      "name": "window.001",
+      "skipped": false,
+      "primitiveCount": 5604,
+      "referenceCount": 6754,
+      "nodeCount": 13507,
+      "nodeOffset": 116178
+    },
+    {
+      "mesh": 17,
+      "name": "Cube.001",
+      "skipped": false,
+      "primitiveCount": 352,
+      "referenceCount": 532,
+      "nodeCount": 1063,
+      "nodeOffset": 129685
+    },
+    {
+      "mesh": 18,
+      "name": "Cube.004",
+      "skipped": false,
+      "primitiveCount": 2444,
+      "referenceCount": 2444,
+      "nodeCount": 4887,
+      "nodeOffset": 130748
+    },
+    {
+      "mesh": 19,
+      "name": "Cube.012",
+      "skipped": false,
+      "primitiveCount": 36,
+      "referenceCount": 36,
+      "nodeCount": 71,
+      "nodeOffset": 135635
+    },
+    {
+      "mesh": 20,
+      "name": "Cube.013",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 135706
+    },
+    {
+      "mesh": 21,
+      "name": "Cube.031",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 135729
+    },
+    {
+      "mesh": 22,
+      "name": "Cube.046",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 135768
+    },
+    {
+      "mesh": 23,
+      "name": "Cube.047",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 135807
+    },
+    {
+      "mesh": 24,
+      "name": "Cube.048",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 135846
+    },
+    {
+      "mesh": 25,
+      "name": "Cube.049",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 135885
+    },
+    {
+      "mesh": 26,
+      "name": "Cube.050",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 135972
+    },
+    {
+      "mesh": 27,
+      "name": "Cube.051",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 136059
+    },
+    {
+      "mesh": 28,
+      "name": "Cube.052",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 136146
+    },
+    {
+      "mesh": 29,
+      "name": "Cube.053",
+      "skipped": false,
+      "primitiveCount": 44,
+      "referenceCount": 44,
+      "nodeCount": 87,
+      "nodeOffset": 136233
+    },
+    {
+      "mesh": 30,
+      "name": "Cylinder.007",
+      "skipped": false,
+      "primitiveCount": 508,
+      "referenceCount": 667,
+      "nodeCount": 1333,
+      "nodeOffset": 136320
+    },
+    {
+      "mesh": 31,
+      "name": "Plane.002",
+      "skipped": false,
+      "primitiveCount": 17,
+      "referenceCount": 17,
+      "nodeCount": 33,
+      "nodeOffset": 137653
+    },
+    {
+      "mesh": 32,
+      "name": "MainBuilding_Low",
+      "skipped": false,
+      "primitiveCount": 41024,
+      "referenceCount": 46558,
+      "nodeCount": 93115,
+      "nodeOffset": 137686
+    },
+    {
+      "mesh": 33,
+      "name": "Cylinder.009",
+      "skipped": false,
+      "primitiveCount": 124,
+      "referenceCount": 206,
+      "nodeCount": 411,
+      "nodeOffset": 230801
+    },
+    {
+      "mesh": 34,
+      "name": "Cylinder.010",
+      "skipped": false,
+      "primitiveCount": 124,
+      "referenceCount": 206,
+      "nodeCount": 411,
+      "nodeOffset": 231212
+    },
+    {
+      "mesh": 35,
+      "name": "Trash_Low.003",
+      "skipped": false,
+      "primitiveCount": 4,
+      "referenceCount": 4,
+      "nodeCount": 7,
+      "nodeOffset": 231623
+    },
+    {
+      "mesh": 36,
+      "name": "Trash_Low.006",
+      "skipped": false,
+      "primitiveCount": 372,
+      "referenceCount": 489,
+      "nodeCount": 977,
+      "nodeOffset": 231630
+    },
+    {
+      "mesh": 37,
+      "name": "Trash_Low.007",
+      "skipped": false,
+      "primitiveCount": 522,
+      "referenceCount": 581,
+      "nodeCount": 1161,
+      "nodeOffset": 232607
+    },
+    {
+      "mesh": 38,
+      "name": "Trash_Low.008",
+      "skipped": false,
+      "primitiveCount": 4,
+      "referenceCount": 4,
+      "nodeCount": 7,
+      "nodeOffset": 233768
+    },
+    {
+      "mesh": 39,
+      "name": "Trash_Low.009",
+      "skipped": false,
+      "primitiveCount": 657,
+      "referenceCount": 762,
+      "nodeCount": 1523,
+      "nodeOffset": 233775
+    },
+    {
+      "mesh": 40,
+      "name": "Trash_Low.010",
+      "skipped": false,
+      "primitiveCount": 693,
+      "referenceCount": 823,
+      "nodeCount": 1645,
+      "nodeOffset": 235298
+    },
+    {
+      "mesh": 41,
+      "name": "Trash_Low.011",
+      "skipped": false,
+      "primitiveCount": 7306,
+      "referenceCount": 10077,
+      "nodeCount": 20153,
+      "nodeOffset": 236943
+    },
+    {
+      "mesh": 42,
+      "name": "Cube.016",
+      "skipped": false,
+      "primitiveCount": 20451,
+      "referenceCount": 23185,
+      "nodeCount": 46369,
+      "nodeOffset": 257096
+    },
+    {
+      "mesh": 43,
+      "name": "Cylinder.001",
+      "skipped": false,
+      "primitiveCount": 508,
+      "referenceCount": 667,
+      "nodeCount": 1333,
+      "nodeOffset": 303465
+    },
+    {
+      "mesh": 44,
+      "name": "Cube.017",
+      "skipped": false,
+      "primitiveCount": 352,
+      "referenceCount": 532,
+      "nodeCount": 1063,
+      "nodeOffset": 304798
+    },
+    {
+      "mesh": 45,
+      "name": "Cube.019",
+      "skipped": false,
+      "primitiveCount": 352,
+      "referenceCount": 532,
+      "nodeCount": 1063,
+      "nodeOffset": 305861
+    },
+    {
+      "mesh": 46,
+      "name": "Cube.022",
+      "skipped": false,
+      "primitiveCount": 352,
+      "referenceCount": 532,
+      "nodeCount": 1063,
+      "nodeOffset": 306924
+    },
+    {
+      "mesh": 47,
+      "name": "Cube.023",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 307987
+    },
+    {
+      "mesh": 48,
+      "name": "Cube.056",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 308010
+    },
+    {
+      "mesh": 49,
+      "name": "Text.004",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 308033
+    },
+    {
+      "mesh": 50,
+      "name": "Cube.057",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 309518
+    },
+    {
+      "mesh": 51,
+      "name": "Text.005",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 309541
+    },
+    {
+      "mesh": 52,
+      "name": "Cube.058",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 311026
+    },
+    {
+      "mesh": 53,
+      "name": "Text.006",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 311049
+    },
+    {
+      "mesh": 54,
+      "name": "Cube.002",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 312534
+    },
+    {
+      "mesh": 55,
+      "name": "Cube.021",
+      "skipped": false,
+      "primitiveCount": 280,
+      "referenceCount": 282,
+      "nodeCount": 563,
+      "nodeOffset": 312623
+    },
+    {
+      "mesh": 56,
+      "name": "Cube.020",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 313186
+    },
+    {
+      "mesh": 57,
+      "name": "Text.007",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 313209
+    },
+    {
+      "mesh": 58,
+      "name": "Cube.062",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 314694
+    },
+    {
+      "mesh": 59,
+      "name": "Cube.063",
+      "skipped": false,
+      "primitiveCount": 1692,
+      "referenceCount": 2307,
+      "nodeCount": 4613,
+      "nodeOffset": 314717
+    },
+    {
+      "mesh": 60,
+      "name": "Cube.066",
+      "skipped": false,
+      "primitiveCount": 19791,
+      "referenceCount": 21620,
+      "nodeCount": 43239,
+      "nodeOffset": 319330
+    },
+    {
+      "mesh": 61,
+      "name": "Cube.070",
+      "skipped": false,
+      "primitiveCount": 2610,
+      "referenceCount": 2827,
+      "nodeCount": 5653,
+      "nodeOffset": 362569
+    },
+    {
+      "mesh": 62,
+      "name": "Cube.065",
+      "skipped": false,
+      "primitiveCount": 830,
+      "referenceCount": 875,
+      "nodeCount": 1749,
+      "nodeOffset": 368222
+    },
+    {
+      "mesh": 63,
+      "name": "Cube.064",
+      "skipped": false,
+      "primitiveCount": 4321,
+      "referenceCount": 5178,
+      "nodeCount": 10355,
+      "nodeOffset": 369971
+    },
+    {
+      "mesh": 64,
+      "name": "Cube.067",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 380326
+    },
+    {
+      "mesh": 65,
+      "name": "Cube.068",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 380349
+    },
+    {
+      "mesh": 66,
+      "name": "Cube.069",
+      "skipped": false,
+      "primitiveCount": 15940,
+      "referenceCount": 19266,
+      "nodeCount": 38531,
+      "nodeOffset": 380372
+    },
+    {
+      "mesh": 67,
+      "name": "window.002",
+      "skipped": false,
+      "primitiveCount": 5604,
+      "referenceCount": 6754,
+      "nodeCount": 13507,
+      "nodeOffset": 418903
+    },
+    {
+      "mesh": 68,
+      "name": "Cube.071",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 432410
+    },
+    {
+      "mesh": 69,
+      "name": "Cube.072",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 432433
+    },
+    {
+      "mesh": 70,
+      "name": "Text.008",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 432456
+    },
+    {
+      "mesh": 71,
+      "name": "Text.009",
+      "skipped": false,
+      "primitiveCount": 618,
+      "referenceCount": 743,
+      "nodeCount": 1485,
+      "nodeOffset": 433941
+    },
+    {
+      "mesh": 72,
+      "name": "Cylinder.003",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 435426
+    },
+    {
+      "mesh": 73,
+      "name": "Cylinder.004",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 435851
+    },
+    {
+      "mesh": 74,
+      "name": "Plane.003",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 436276
+    },
+    {
+      "mesh": 75,
+      "name": "Plane.001",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 436279
+    },
+    {
+      "mesh": 76,
+      "name": "Cylinder.018",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 436282
+    },
+    {
+      "mesh": 77,
+      "name": "Cylinder.017",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 436707
+    },
+    {
+      "mesh": 78,
+      "name": "Sphere",
+      "skipped": false,
+      "primitiveCount": 960,
+      "referenceCount": 960,
+      "nodeCount": 1919,
+      "nodeOffset": 437132
+    },
+    {
+      "mesh": 79,
+      "name": "Sphere.001",
+      "skipped": false,
+      "primitiveCount": 960,
+      "referenceCount": 960,
+      "nodeCount": 1919,
+      "nodeOffset": 439051
+    },
+    {
+      "mesh": 80,
+      "name": "Cube.007",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 440970
+    },
+    {
+      "mesh": 81,
+      "name": "Cylinder.025",
+      "skipped": false,
+      "primitiveCount": 8448,
+      "referenceCount": 8448,
+      "nodeCount": 16895,
+      "nodeOffset": 440993
+    },
+    {
+      "mesh": 82,
+      "name": "Cylinder.021",
+      "skipped": false,
+      "primitiveCount": 150291,
+      "referenceCount": 162990,
+      "nodeCount": 325979,
+      "nodeOffset": 457888
+    },
+    {
+      "mesh": 83,
+      "name": "Slice.013",
+      "skipped": false,
+      "primitiveCount": 9542,
+      "referenceCount": 12283,
+      "nodeCount": 24565,
+      "nodeOffset": 783867
+    },
+    {
+      "mesh": 84,
+      "name": "Cylinder.027",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 808432
+    },
+    {
+      "mesh": 85,
+      "name": "Cylinder.026",
+      "skipped": false,
+      "primitiveCount": 188,
+      "referenceCount": 213,
+      "nodeCount": 425,
+      "nodeOffset": 808857
+    },
+    {
+      "mesh": 86,
+      "name": "Sphere.003",
+      "skipped": false,
+      "primitiveCount": 960,
+      "referenceCount": 960,
+      "nodeCount": 1919,
+      "nodeOffset": 809282
+    },
+    {
+      "mesh": 87,
+      "name": "Sphere.002",
+      "skipped": false,
+      "primitiveCount": 960,
+      "referenceCount": 960,
+      "nodeCount": 1919,
+      "nodeOffset": 811201
+    },
+    {
+      "mesh": 88,
+      "name": "Cube.043",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 813120
+    },
+    {
+      "mesh": 89,
+      "name": "Slice.018",
+      "skipped": false,
+      "primitiveCount": 1456,
+      "referenceCount": 1591,
+      "nodeCount": 3181,
+      "nodeOffset": 832981
+    },
+    {
+      "mesh": 90,
+      "name": "Sphere.004",
+      "skipped": false,
+      "primitiveCount": 224,
+      "referenceCount": 224,
+      "nodeCount": 447,
+      "nodeOffset": 836162
+    },
+    {
+      "mesh": 91,
+      "name": "Cube.009",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 836609
+    },
+    {
+      "mesh": 92,
+      "name": "Slice.009",
+      "skipped": false,
+      "primitiveCount": 1158,
+      "referenceCount": 1367,
+      "nodeCount": 2733,
+      "nodeOffset": 836632
+    },
+    {
+      "mesh": 93,
+      "name": "Slice.010",
+      "skipped": false,
+      "primitiveCount": 1158,
+      "referenceCount": 1367,
+      "nodeCount": 2733,
+      "nodeOffset": 839365
+    },
+    {
+      "mesh": 94,
+      "name": "Cube.074",
+      "skipped": false,
+      "primitiveCount": 57604,
+      "referenceCount": 67837,
+      "nodeCount": 135673,
+      "nodeOffset": 842098
+    },
+    {
+      "mesh": 95,
+      "name": "Cube.088",
+      "skipped": false,
+      "primitiveCount": 115208,
+      "referenceCount": 135674,
+      "nodeCount": 271347,
+      "nodeOffset": 977771
+    },
+    {
+      "mesh": 96,
+      "name": "Cube.089",
+      "skipped": false,
+      "primitiveCount": 57604,
+      "referenceCount": 67837,
+      "nodeCount": 135673,
+      "nodeOffset": 1249118
+    },
+    {
+      "mesh": 97,
+      "name": "Cube.090",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384791
+    },
+    {
+      "mesh": 98,
+      "name": "Plane.006",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1384814
+    },
+    {
+      "mesh": 99,
+      "name": "Cube.091",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384817
+    },
+    {
+      "mesh": 100,
+      "name": "Cube.092",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384840
+    },
+    {
+      "mesh": 101,
+      "name": "Cube.093",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384863
+    },
+    {
+      "mesh": 102,
+      "name": "Cube.094",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384886
+    },
+    {
+      "mesh": 103,
+      "name": "Cube.095",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1384909
+    },
+    {
+      "mesh": 104,
+      "name": "Slice.003",
+      "skipped": false,
+      "primitiveCount": 1158,
+      "referenceCount": 1367,
+      "nodeCount": 2733,
+      "nodeOffset": 1384932
+    },
+    {
+      "mesh": 105,
+      "name": "Plane.007",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387665
+    },
+    {
+      "mesh": 106,
+      "name": "Plane.008",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387668
+    },
+    {
+      "mesh": 107,
+      "name": "Plane.009",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387671
+    },
+    {
+      "mesh": 108,
+      "name": "Plane.010",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387674
+    },
+    {
+      "mesh": 109,
+      "name": "Plane.011",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387677
+    },
+    {
+      "mesh": 110,
+      "name": "Cube.096",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1387680
+    },
+    {
+      "mesh": 111,
+      "name": "Cube.097",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 1387703
+    },
+    {
+      "mesh": 112,
+      "name": "Cube.098",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1387742
+    },
+    {
+      "mesh": 113,
+      "name": "Plane.004",
+      "skipped": false,
+      "primitiveCount": 2,
+      "referenceCount": 2,
+      "nodeCount": 3,
+      "nodeOffset": 1387765
+    },
+    {
+      "mesh": 114,
+      "name": "Cube.003",
+      "skipped": false,
+      "primitiveCount": 15940,
+      "referenceCount": 19266,
+      "nodeCount": 38531,
+      "nodeOffset": 1387768
+    },
+    {
+      "mesh": 115,
+      "name": "Cube.026",
+      "skipped": false,
+      "primitiveCount": 20,
+      "referenceCount": 20,
+      "nodeCount": 39,
+      "nodeOffset": 1426299
+    },
+    {
+      "mesh": 116,
+      "name": "Cube.027",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1426338
+    },
+    {
+      "mesh": 117,
+      "name": "Cylinder.005",
+      "skipped": false,
+      "primitiveCount": 20272,
+      "referenceCount": 20760,
+      "nodeCount": 41519,
+      "nodeOffset": 1426361
+    },
+    {
+      "mesh": 118,
+      "name": "Cube.028",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 1467880
+    },
+    {
+      "mesh": 119,
+      "name": "Cube.034",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 1487741
+    },
+    {
+      "mesh": 120,
+      "name": "Cube.039",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 1507602
+    },
+    {
+      "mesh": 121,
+      "name": "Cube.040",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 1527463
+    },
+    {
+      "mesh": 122,
+      "name": "Cube.042",
+      "skipped": false,
+      "primitiveCount": 7728,
+      "referenceCount": 9931,
+      "nodeCount": 19861,
+      "nodeOffset": 1547324
+    },
+    {
+      "mesh": 123,
+      "name": "Cube.075",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1567185
+    },
+    {
+      "mesh": 124,
+      "name": "Cube.076",
+      "skipped": false,
+      "primitiveCount": 240,
+      "referenceCount": 280,
+      "nodeCount": 559,
+      "nodeOffset": 1567208
+    },
+    {
+      "mesh": 125,
+      "name": "Cube.078",
+      "skipped": false,
+      "primitiveCount": 2374,
+      "referenceCount": 2533,
+      "nodeCount": 5065,
+      "nodeOffset": 1567767
+    },
+    {
+      "mesh": 126,
+      "name": "Plane.012",
+      "skipped": false,
+      "primitiveCount": 6,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 1572832
+    },
+    {
+      "mesh": 127,
+      "name": "Cube.025",
+      "skipped": false,
+      "primitiveCount": 9614,
+      "referenceCount": 12597,
+      "nodeCount": 25193,
+      "nodeOffset": 1572855
+    },
+    {
+      "mesh": 128,
+      "name": "Plane.015",
+      "skipped": false,
+      "primitiveCount": 3024,
+      "referenceCount": 3659,
+      "nodeCount": 7317,
+      "nodeOffset": 1598048
+    },
+    {
+      "mesh": 129,
+      "name": "Plane.014",
+      "skipped": false,
+      "primitiveCount": 2556,
+      "referenceCount": 3289,
+      "nodeCount": 6577,
+      "nodeOffset": 1605365
+    },
+    {
+      "mesh": 130,
+      "name": "Plane.013",
+      "skipped": false,
+      "primitiveCount": 640,
+      "referenceCount": 662,
+      "nodeCount": 1323,
+      "nodeOffset": 1611942
+    },
+    {
+      "mesh": 131,
+      "name": "Sphere.011",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51346,
+      "nodeCount": 102691,
+      "nodeOffset": 1613265
+    },
+    {
+      "mesh": 132,
+      "name": "Sphere.010",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51133,
+      "nodeCount": 102265,
+      "nodeOffset": 1715956
+    },
+    {
+      "mesh": 133,
+      "name": "Sphere.009",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 50974,
+      "nodeCount": 101947,
+      "nodeOffset": 1818221
+    },
+    {
+      "mesh": 134,
+      "name": "Sphere.008",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51338,
+      "nodeCount": 102675,
+      "nodeOffset": 1920168
+    },
+    {
+      "mesh": 135,
+      "name": "Sphere.007",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51346,
+      "nodeCount": 102691,
+      "nodeOffset": 2022843
+    },
+    {
+      "mesh": 136,
+      "name": "Sphere.005",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51338,
+      "nodeCount": 102675,
+      "nodeOffset": 2125534
+    },
+    {
+      "mesh": 137,
+      "name": "Sphere.012",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51338,
+      "nodeCount": 102675,
+      "nodeOffset": 2228209
+    },
+    {
+      "mesh": 138,
+      "name": "Sphere.013",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51133,
+      "nodeCount": 102265,
+      "nodeOffset": 2330884
+    },
+    {
+      "mesh": 139,
+      "name": "Sphere.014",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51346,
+      "nodeCount": 102691,
+      "nodeOffset": 2433149
+    },
+    {
+      "mesh": 140,
+      "name": "Sphere.015",
+      "skipped": false,
+      "primitiveCount": 50688,
+      "referenceCount": 51338,
+      "nodeCount": 102675,
+      "nodeOffset": 2535840
+    },
+    {
+      "mesh": 141,
+      "name": "Plane.017",
+      "skipped": false,
+      "primitiveCount": 2162,
+      "referenceCount": 2162,
+      "nodeCount": 4323,
+      "nodeOffset": 2638515
+    },
+    {
+      "mesh": 142,
+      "name": "Cube.006",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2642838
+    },
+    {
+      "mesh": 143,
+      "name": "Cube.045",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2642927
+    },
+    {
+      "mesh": 144,
+      "name": "Cube.059",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643016
+    },
+    {
+      "mesh": 145,
+      "name": "Cube.054",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643105
+    },
+    {
+      "mesh": 146,
+      "name": "Cube.073",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643194
+    },
+    {
+      "mesh": 147,
+      "name": "Cube.082",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643283
+    },
+    {
+      "mesh": 148,
+      "name": "Cube.081",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643372
+    },
+    {
+      "mesh": 149,
+      "name": "Cube.077",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643461
+    },
+    {
+      "mesh": 150,
+      "name": "Cube.080",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643550
+    },
+    {
+      "mesh": 151,
+      "name": "Cube.079",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643639
+    },
+    {
+      "mesh": 152,
+      "name": "Cube.099",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643728
+    },
+    {
+      "mesh": 153,
+      "name": "Cube.100",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643817
+    },
+    {
+      "mesh": 154,
+      "name": "Cube.084",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643906
+    },
+    {
+      "mesh": 155,
+      "name": "Cube.083",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2643995
+    },
+    {
+      "mesh": 156,
+      "name": "Cube.115",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644084
+    },
+    {
+      "mesh": 157,
+      "name": "Cube.114",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644173
+    },
+    {
+      "mesh": 158,
+      "name": "Cube.111",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644262
+    },
+    {
+      "mesh": 159,
+      "name": "Cube.116",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644351
+    },
+    {
+      "mesh": 160,
+      "name": "Cube.113",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644440
+    },
+    {
+      "mesh": 161,
+      "name": "Cube.112",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644529
+    },
+    {
+      "mesh": 162,
+      "name": "Cube.121",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644618
+    },
+    {
+      "mesh": 163,
+      "name": "Cube.120",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644707
+    },
+    {
+      "mesh": 164,
+      "name": "Cube.117",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644796
+    },
+    {
+      "mesh": 165,
+      "name": "Cube.122",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644885
+    },
+    {
+      "mesh": 166,
+      "name": "Cube.119",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2644974
+    },
+    {
+      "mesh": 167,
+      "name": "Cube.118",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2645063
+    },
+    {
+      "mesh": 168,
+      "name": "Cube.123",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2645152
+    },
+    {
+      "mesh": 169,
+      "name": "Cube.125",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2645241
+    },
+    {
+      "mesh": 170,
+      "name": "Cube.124",
+      "skipped": false,
+      "primitiveCount": 40,
+      "referenceCount": 45,
+      "nodeCount": 89,
+      "nodeOffset": 2645330
+    },
+    {
+      "mesh": 171,
+      "name": "Cube.135",
+      "skipped": false,
+      "primitiveCount": 3300,
+      "referenceCount": 4269,
+      "nodeCount": 8537,
+      "nodeOffset": 2645419
+    },
+    {
+      "mesh": 172,
+      "name": "Cube.011",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 2653956
+    },
+    {
+      "mesh": 173,
+      "name": "Cube.061",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 2653979
+    },
+    {
+      "mesh": 174,
+      "name": "Cube.136",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 2654002
+    },
+    {
+      "mesh": 175,
+      "name": "Cube.137",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 2654025
+    },
+    {
+      "mesh": 176,
+      "name": "Cylinder",
+      "skipped": false,
+      "primitiveCount": 572,
+      "referenceCount": 645,
+      "nodeCount": 1289,
+      "nodeOffset": 2654048
+    },
+    {
+      "mesh": 177,
+      "name": "Cylinder.002",
+      "skipped": false,
+      "primitiveCount": 572,
+      "referenceCount": 645,
+      "nodeCount": 1289,
+      "nodeOffset": 2655337
+    },
+    {
+      "mesh": 178,
+      "name": "Cylinder.006",
+      "skipped": false,
+      "primitiveCount": 572,
+      "referenceCount": 645,
+      "nodeCount": 1289,
+      "nodeOffset": 2656626
+    },
+    {
+      "mesh": 179,
+      "name": "Slice.002",
+      "skipped": false,
+      "primitiveCount": 252,
+      "referenceCount": 252,
+      "nodeCount": 503,
+      "nodeOffset": 2657915
+    },
+    {
+      "mesh": 180,
+      "name": "Cube.085",
+      "skipped": false,
+      "primitiveCount": 3174,
+      "referenceCount": 4011,
+      "nodeCount": 8021,
+      "nodeOffset": 2658418
+    },
+    {
+      "mesh": 181,
+      "name": "Cylinder.008",
+      "skipped": false,
+      "primitiveCount": 2748,
+      "referenceCount": 2792,
+      "nodeCount": 5583,
+      "nodeOffset": 2666439
+    },
+    {
+      "mesh": 182,
+      "name": "Cylinder.011",
+      "skipped": false,
+      "primitiveCount": 150291,
+      "referenceCount": 162990,
+      "nodeCount": 325979,
+      "nodeOffset": 2672022
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 2998001,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "CityScene.sbvh.bin"
+}

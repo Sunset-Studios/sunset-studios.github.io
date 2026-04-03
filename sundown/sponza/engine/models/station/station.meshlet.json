@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generator": "tools/meshlet_preprocessor.js",
-  "generatedAt": "2026-03-13T06:03:32.060Z",
+  "generatedAt": "2026-04-01T04:48:03.195Z",
   "settings": {
     "maxVertices": 64,
     "minTriangles": 24,

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:45:07.920Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "cube.gltf",
+    "buffers": [
+      "cube.bin"
+    ],
+    "hash": "5365248cb567df3afe840ca27ef5ee578f6f0475"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": "Cube",
+      "skipped": false,
+      "primitiveCount": 12,
+      "referenceCount": 12,
+      "nodeCount": 23,
+      "nodeOffset": 0
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 23,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "cube.sbvh.bin"
+}

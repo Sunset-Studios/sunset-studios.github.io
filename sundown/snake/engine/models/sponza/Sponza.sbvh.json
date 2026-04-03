@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "generator": "tools/sbvh_preprocessor.js",
+  "generatedAt": "2026-04-03T07:46:03.049Z",
+  "settings": {
+    "binCount": 16,
+    "maxReferenceMultiplier": 2,
+    "maxSpatialDepth": 8
+  },
+  "source": {
+    "gltf": "Sponza.gltf",
+    "buffers": [
+      "Sponza.bin"
+    ],
+    "hash": "783cb412cd014e0a323317129cd396c6e9b80ba8"
+  },
+  "meshes": [
+    {
+      "mesh": 0,
+      "name": null,
+      "skipped": false,
+      "primitiveCount": 262267,
+      "referenceCount": 278618,
+      "nodeCount": 557235,
+      "nodeOffset": 0
+    }
+  ],
+  "sections": {
+    "nodes": {
+      "offset": 0,
+      "stride": 32,
+      "count": 557235,
+      "elementType": "float32x8"
+    }
+  },
+  "binary": "Sponza.sbvh.bin"
+}
